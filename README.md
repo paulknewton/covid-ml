@@ -1,6 +1,8 @@
-# COVID ML
+# COVID-ML
 
 This project analyses publically available data on the COVID-19 pandemic and identifies trends and patterns using the pandas data analysis framework.
+
+You can view a static version of the notebook [here](covid.ipynb).
 
 Examples of graphs that are produced:
 

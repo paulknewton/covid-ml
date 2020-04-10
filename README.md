@@ -6,11 +6,11 @@ You can view a static version of the notebook [here](covid.ipynb).
 
 Examples of graphs that are produced:
 
-![infection rates over time!](graphs/infection_rates_over_time.png "Infection rates over time")
+![infection rates over time!](docs/infection_rates_over_time.png "Infection rates over time")
 
-![top 20 infections!](graphs/top20_infections.png "Top 20 infection numbers by country")
+![top 20 infections!](docs/top20_infections.png "Top 20 infection numbers by country")
 
-![top20_cfr!](graphs/top20_cfr.png "Countries with highest Case Fatality Risk")
+![top20_cfr!](docs/top20_cfr.png "Countries with highest Case Fatality Risk")
 
 ## Installation
 The data runs inside a Jupyter notebook.

@@ -6,7 +6,7 @@ To view the complete set of graphs and a detailed analysis of the different tren
 
 To skip directly to the blog posts, you find the full index [here](blog).
 
-Note: the graphs are updated on an hourly basis, but the underlying data files fro the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) are only updated daily (more details [here](https://www.ecdc.europa.eu/en/covid-19/data-collection)).
+Note: the graphs are updated on an hourly basis, but the underlying data files from the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) are only updated daily (more details [here](https://www.ecdc.europa.eu/en/covid-19/data-collection)).
 
 ---
 

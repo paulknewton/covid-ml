@@ -30,9 +30,10 @@ This graph shows the evolution of COVID-19 related deaths in selected countries 
 
 ---
 
-
 ### Detailed graphs
 
 A Jupyter notebook includes more detailed graphs on infection rates, mortality rates etc as well as country-specific daily statistics.
 * The notebook is stored [here](https://github.com/paulknewton/covid-ml/blob/master/covid.ipynb) (Github will show this as HTML, but it is not updated dynamically)
 * A HTML version is updated on an hourly basis [here](https://paulknewton.github.io/covid-ml/covid.html)
+
+---

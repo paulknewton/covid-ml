@@ -4,7 +4,9 @@ layout: home
 This page only shows key graphs that are generated from the Jupyter notebook.
 To view the complete set of graphs and a detailed analysis of the different trends, open [this HTML version of the notebook](covid.html).
 
-All pages are updated on an hourly basis
+To skip directly to the blog posts, you find the full index [here](blog).
+
+Note: the graphs are updated on an hourly basis, but the underlying data files fro the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) are only updated daily (more details [here](https://www.ecdc.europa.eu/en/covid-19/data-collection)).
 
 ---
 

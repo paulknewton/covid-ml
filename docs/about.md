@@ -5,11 +5,13 @@ permalink: /about/
 ---
 
 
-This project analyses publicly available data on the COVID-19 pandemic and identifies trends and patterns using the pandas data analysis framework.
+This project analyses publicly available data on the COVID-19 pandemic and identifies trends and patterns using the pandas data analysis framework. The goals are:
 
-* The project is written as a Jupyter notebook using pandas [here](https://github.com/paulknewton/covid-ml/blob/master/covid.ipynb). Github will render a static version if you click on this. If you want to execute the notebook dynamically, you will need to download it locally (see [instructions below](#installation)).
-* A HTML version is updated on an hourly basis [here](https://paulknewton.github.io/covid-ml/covid.html)
-* A basic dashboard only including main graphs is updated hourly [here](https://paulknewton.github.io/covid-ml/)
+* to show how freely available Data Science tools can be used to understand COVID-19 data
+* help understand key aspects about the evolution of the Coronavirus
 
 ## Installation
 If you want to modify the graphs and python code yourself, refer to the installation and usage instructions [in the git repository](https://github.com/paulknewton/covid-ml)
+
+## References
+The data sets are collected, validated and published by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu).

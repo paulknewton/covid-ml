@@ -1,1 +1,3 @@
 theme: jekyll-theme-merlot
+title: [COVID-ML]
+description: [Analyses publicly available data on the COVID-19 pandemic and identifies trends and patterns using a Jupyter live notebook and the pandas data analysis framework. Shows how python can be used to analyse data sets and present results in ways that can be easily understood.]

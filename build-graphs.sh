@@ -14,7 +14,7 @@ jupyter nbconvert --to html covid.ipynb
 
 # add timestamp to HTML file and store in docs folder
 add_timestamp covid.html > docs/covid.html
-add_timestamp docs/index_template.html > docs/index.html
+#add_timestamp docs/index_template.html > docs/index.html
 
 # commit to git
 git add docs/* covid.html

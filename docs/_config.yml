@@ -13,17 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COVID-ML
+title: Data Science and COVID-19
 email: paul@topolino.org
 description: >- # this means to ignore newlines until "baseurl:"
   Analyses publicly available data on the COVID-19 pandemic
-  and identifies trends and patterns using a Jupyter live notebook and the pandas data analysis
-  framework. Shows how python can be used to analyse data sets and present results in ways that can be easily understood.
-
+  and identifies trends and patterns using a Jupyter live notebook and the pandas data
+  framework. Shows how basic Data Science tools can be used to understand the world around us.
 baseurl: "/covid-ml" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://paulknewton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: paulknewton
+github_username:  paulknewton
+facebook: paulknewton
+youtube: paulknewton
 show_excerpts: true # show 1st para of each blog post
 
 # Build settings
@@ -31,7 +32,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+minima:
+  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

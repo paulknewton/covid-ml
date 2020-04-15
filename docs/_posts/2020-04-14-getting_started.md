@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Getting started with pandas and COVID-19 data"
 date:   2020-04-14 22:14:00 +0200
 categories: pandas

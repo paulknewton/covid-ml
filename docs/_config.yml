@@ -45,3 +45,13 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# set default settings for pages
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      isPost: true
+      layout: post

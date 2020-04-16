@@ -16,6 +16,11 @@ jupyter nbconvert --to html covid.ipynb
 add_timestamp covid.html > docs/covid.html
 #add_timestamp docs/index_template.html > docs/index.html
 
+# re-build collection of graphs
+cd docs
+./_bin/build-graph-list.sh
+cd ..
+
 # commit to git
 git add docs/* covid.html
 git commit -m "Updated graphs"

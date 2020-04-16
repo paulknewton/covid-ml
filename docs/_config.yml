@@ -23,8 +23,9 @@ baseurl: "/covid-ml" # the subpath of your site, e.g. /blog
 url: "https://paulknewton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: paulknewton
 github_username:  paulknewton
-facebook: paulknewton
-youtube: paulknewton
+facebook_username: paul.newton.311056
+youtube_username: paulknewton
+linkedin_username: paulknewton
 show_excerpts: true # show 1st para of each blog post
 
 # Build settings
@@ -32,8 +33,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-minima:
-  skin: dark
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -46,7 +46,7 @@ minima:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# set default settings for pages
+# set default settings for blog posts
 defaults:
   -
     scope:
@@ -55,3 +55,7 @@ defaults:
     values:
       isPost: true
       layout: post
+
+# dynamically list images
+collections:
+  - graphs

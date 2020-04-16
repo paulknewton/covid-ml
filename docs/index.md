@@ -2,7 +2,10 @@
 layout: home
 ---
 
+#
+
 ## Blog
+
 The [Data Science and COVID-19 Blog](blog) discusses how to use freely available tools to perform your own analysis of COVID data and includes analysis of the current trends.
 
 ---

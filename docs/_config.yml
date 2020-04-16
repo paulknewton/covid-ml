@@ -55,7 +55,3 @@ defaults:
     values:
       isPost: true
       layout: post
-
-# dynamically list images
-collections:
-  - graphs

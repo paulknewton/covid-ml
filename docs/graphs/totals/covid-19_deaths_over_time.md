@@ -1,0 +1,1 @@
+Note how some countries are starting to flatten the curve (Europe, China) which indicates a slowdown in the virus. However, the current worldwide trajectory does not suggest the peak has been reached.

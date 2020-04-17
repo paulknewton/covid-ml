@@ -1,12 +1,12 @@
 - title: Covid-19 Infection Rate Over Time
   url: graphs/rates/covid-19_infection_rate_over_time.png
-  notes: covid-19_infection_rate_over_time
+  notes: graphs/rates/covid-19_infection_rate_over_time.md
 - title: Covid-19 Mortality Rate Per 1000 Over Time
   url: graphs/rates/covid-19_mortality_rate_per_1000_over_time.png
-  notes: covid-19_mortality_rate_per_1000_over_time
+  notes: graphs/rates/covid-19_mortality_rate_per_1000_over_time.md
 - title: New Covid-19 Daily Cases
   url: graphs/rates/new_covid-19_daily_cases.png
-  notes: new_covid-19_daily_cases
+  notes: graphs/rates/new_covid-19_daily_cases.md
 - title: New Covid-19 Daily Deaths
   url: graphs/rates/new_covid-19_daily_deaths.png
-  notes: new_covid-19_daily_deaths
+  notes: graphs/rates/new_covid-19_daily_deaths.md

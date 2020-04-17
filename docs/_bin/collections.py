@@ -1,5 +1,4 @@
 import argparse
-import os.path
 import sys
 from pathlib import Path
 
@@ -11,7 +10,7 @@ if __name__ == "__main__":
 
     for file in sys.stdin:
         file = Path(file.strip())
-        filename_no_suffix = os.path.basename(file.with_suffix(""))
+        filename_no_suffix = file.stem
 
         # title: Derive from the filename. Replace _ with spaces. Convert to CamelCase.
         print("- title: %s" % filename_no_suffix.replace("_", " ").title())
@@ -20,8 +19,15 @@ if __name__ == "__main__":
         print("  url: %s" % file)
 
         # notes: use the filename (no path, no suffix)
-        print("  notes: %s" % filename_no_suffix)
+        notes_file = file.with_suffix(".md")
+        print("  notes: %s" % notes_file)
+
+        # create any a 'notes' file (if missing)
+        Path(notes_file).touch(exist_ok=True)
 
         # if list of countries then add a country name
         if args.format == "countries":
             print("  anchor: %s" % filename_no_suffix[filename_no_suffix.rfind("-") + 2:].replace("_", " "))
+
+
+

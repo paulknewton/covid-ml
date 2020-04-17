@@ -7,11 +7,8 @@ PYTHON_SCRIPT=_bin/collections.py
 PYTHON_EXE=python3
 
 function build_yaml { # directory format output.yaml
-  for i in "$1"
-  do
-    echo "Processing `basename $i`..."
-    find $i -name *.png | sort | $PYTHON_EXE $PYTHON_SCRIPT --format $2 > _data/`basename "$i"`.yml
-  done
+  echo "Processing `basename $1`..."
+  find $1 -name *.png | sort | $PYTHON_EXE $PYTHON_SCRIPT --format $2 > "$3"
 }
 
 build_yaml graphs/totals standard _data/totals.yml

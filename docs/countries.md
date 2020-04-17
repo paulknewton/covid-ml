@@ -3,7 +3,8 @@ layout: page
 title: Countries
 ---
 
-<hr>
+{% include graph_notes.md %}
+
 <ul>
 {% for graph in site.data.countries %}
   <li><a href="#{{ graph.anchor }}">{{ graph.anchor }}</a></li>

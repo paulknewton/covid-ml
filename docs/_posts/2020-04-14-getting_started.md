@@ -4,9 +4,7 @@ date:   2020-04-14 22:14:00 +0200
 categories: pandas
 ---
 [Python](https://www.python.org/) is a simple and elegant programming language used widely in the scientific community. There are thousands of libraries and frameworks that extend the reach of the language even further.
-
 [Pandas](https://pandas.pydata.org/) is a data analysis framework that can be used to easily read data files then manipulate them to analyse the information. You can even plot graphs of your results.
-
 Here is a simple example. The European Centre for Disease Prevention and Control centralise data on the worldwide COVID-19 infections and deaths. You can download this in Excel format [here](https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide.xlsx).
 
 The data is a simple table with daily entries for each country:

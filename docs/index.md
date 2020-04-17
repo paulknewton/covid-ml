@@ -3,7 +3,7 @@ layout: home
 ---
 
 Welcome to the Data Science and COVID-19 blog.
-This project analyses publicly available data on the COVID-19 pandemic and identifies trends and patterns.
+This project analyses publicly available data from the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) on the COVID-19 pandemic using Data Science tools and techniques.
 
 The site includes:
 * [Data Science and COVID-19 Blog](blog) - discusses trends and patterns regarding the COVID-19 pandemic in terms of infection rates, etc. Also explains how you can use freely available tools to perform your own analysis of COVID data.

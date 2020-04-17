@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+.python-version
+COVID-19-geographic-disbtribution-worldwide.xlsx

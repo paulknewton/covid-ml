@@ -8,11 +8,17 @@ This project analyses publicly available data on the COVID-19 pandemic and ident
 
 Examples of graphs that are produced:
 
-![infection rates over time!](docs/infection_rates_over_time.png "Infection rates over time")
+**Covid-19 Infection Rate Over Time**
 
-![top 20 infections!](docs/top20_infections.png "Top 20 infection numbers by country")
+![covid-19_infection_rate_over_time](docs/graphs/rates/covid-19_infection_rate_over_time.png)
 
-![top20_cfr!](docs/top20_cfr.png "Countries with highest Case Fatality Risk")
+**Countries With Highest Number Of Recorded Covid-19 Cases**
+
+![countries_with_highest_number_of_recorded_COVID-19_cases](docs/graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.png)
+
+**Countries With Highest Case Fatality Risk**
+
+![countries_with_highest_case_fatality_risk](docs/graphs/totals/countries_with_highest_case_fatality_risk.png)
 
 ## Installation
 The data runs inside a Jupyter notebook.

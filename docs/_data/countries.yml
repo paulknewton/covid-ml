@@ -810,6 +810,10 @@
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Vietnam.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Vietnam.md
   anchor: Vietnam
+- title: New Covid-19 Daily Cases And Deaths - Western Sahara
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Western_Sahara.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Western_Sahara.md
+  anchor: Western Sahara
 - title: New Covid-19 Daily Cases And Deaths - Yemen
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Yemen.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Yemen.md

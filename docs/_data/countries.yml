@@ -218,14 +218,14 @@
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Djibouti.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Djibouti.md
   anchor: Djibouti
-- title: New Covid-19 Daily Cases And Deaths - Dominica
-  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominica.png
-  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominica.md
-  anchor: Dominica
 - title: New Covid-19 Daily Cases And Deaths - Dominican Republic
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominican_Republic.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominican_Republic.md
   anchor: Dominican Republic
+- title: New Covid-19 Daily Cases And Deaths - Dominica
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominica.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Dominica.md
+  anchor: Dominica
 - title: New Covid-19 Daily Cases And Deaths - Ecuador
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Ecuador.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Ecuador.md
@@ -330,14 +330,14 @@
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guernsey.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guernsey.md
   anchor: Guernsey
-- title: New Covid-19 Daily Cases And Deaths - Guinea
-  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea.png
-  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea.md
-  anchor: Guinea
 - title: New Covid-19 Daily Cases And Deaths - Guinea Bissau
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea_Bissau.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea_Bissau.md
   anchor: Guinea Bissau
+- title: New Covid-19 Daily Cases And Deaths - Guinea
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guinea.md
+  anchor: Guinea
 - title: New Covid-19 Daily Cases And Deaths - Guyana
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guyana.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Guyana.md
@@ -554,22 +554,22 @@
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Nicaragua.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Nicaragua.md
   anchor: Nicaragua
-- title: New Covid-19 Daily Cases And Deaths - Niger
-  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Niger.png
-  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Niger.md
-  anchor: Niger
 - title: New Covid-19 Daily Cases And Deaths - Nigeria
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Nigeria.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Nigeria.md
   anchor: Nigeria
-- title: New Covid-19 Daily Cases And Deaths - North Macedonia
-  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_North_Macedonia.png
-  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_North_Macedonia.md
-  anchor: North Macedonia
+- title: New Covid-19 Daily Cases And Deaths - Niger
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Niger.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Niger.md
+  anchor: Niger
 - title: New Covid-19 Daily Cases And Deaths - Northern Mariana Islands
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Northern_Mariana_Islands.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Northern_Mariana_Islands.md
   anchor: Northern Mariana Islands
+- title: New Covid-19 Daily Cases And Deaths - North Macedonia
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_North_Macedonia.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_North_Macedonia.md
+  anchor: North Macedonia
 - title: New Covid-19 Daily Cases And Deaths - Norway
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Norway.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Norway.md
@@ -786,14 +786,14 @@
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_Republic_of_Tanzania.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_Republic_of_Tanzania.md
   anchor: United Republic of Tanzania
-- title: New Covid-19 Daily Cases And Deaths - United States Virgin Islands
-  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_Virgin_Islands.png
-  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_Virgin_Islands.md
-  anchor: United States Virgin Islands
 - title: New Covid-19 Daily Cases And Deaths - United States Of America
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_of_America.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_of_America.md
   anchor: United States of America
+- title: New Covid-19 Daily Cases And Deaths - United States Virgin Islands
+  url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_Virgin_Islands.png
+  notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_United_States_Virgin_Islands.md
+  anchor: United States Virgin Islands
 - title: New Covid-19 Daily Cases And Deaths - Uruguay
   url: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Uruguay.png
   notes: graphs/countries/new_covid-19_daily_cases_and_deaths_-_Uruguay.md

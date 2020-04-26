@@ -2,6 +2,14 @@
 layout: home
 ---
 
+{% assign stat = site.data.statistics["cases"] %}
+**Worldwide cases: {{ stat.value }}**
+
+{% assign stat = site.data.statistics["deaths"] %}
+**Worldwide deaths: {{ stat.value }}**
+
+---
+
 Welcome to the Data Science and COVID-19 project.
 This project analyses publicly available data from the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu) on the COVID-19 pandemic using Data Science tools and techniques.
 

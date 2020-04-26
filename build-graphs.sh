@@ -4,13 +4,13 @@
 #
 add_timestamp() { # input_file timestamp
     TS=`date`
-    sed "s_<h1 id=\"COVID-19-ML\"_Last updated\: $TS<hr>&_" "$1"
+    sed "s_<h1 id=\"Data-Science-and-COVID-19\"_Last updated\: $TS<hr>&_" "$1"
 }
 # refresh code
 git pull
 
 # build graphs
-jupyter nbconvert --to html covid.ipynb
+jupyter nbconvert --to html --execute --ExecutePreprocessor.timeout=-1 covid.ipynb
 
 # add timestamp to HTML file and store in docs folder
 add_timestamp covid.html > docs/covid.html
@@ -23,5 +23,6 @@ cd ..
 
 # commit to git
 git add docs/* covid.html
+#git status
 git commit -m "Updated graphs"
 git push

@@ -13,6 +13,10 @@ The code and supporting scripts are all hosted on the [COVID-ML github repositor
 
 ---
 
+## Headlines
+
+The number of officially recorded COVID-19 related deaths has now exceeded 200,000 worldwide.
+
 {% assign stat = site.data.statistics["cases"] %}
 **Worldwide cases: {{ stat.value }}**
 

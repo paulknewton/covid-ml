@@ -1,4 +1,4 @@
-This graphs shows countries with the highest numbers of COVID-19 deaths. Countries that have been most affected by the virus all appear in this list (France, Italy, Spain, UK etc). The US has significantly more than any other country - partly reflecting the large population size, but also indicating difficulties in constraining the spread of the virus.
+This graph shows countries with the highest numbers of COVID-19 deaths. Countries that have been most affected by the virus all appear in this list (France, Italy, Spain, UK etc). The US has significantly more than any other country - partly reflecting the large population size, but also indicating difficulties in constraining the spread of the virus.
 
 Figures for COVID-19 deaths may be more accurate than those of infections (due to the significant under-counting of infections for the reasons cited above). However:
 

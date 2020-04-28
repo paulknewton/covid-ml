@@ -1,14 +1,6 @@
 ---
 layout: home
-list_title: Blog Posts
----
-
-{% assign stat = site.data.statistics["cases"] %}
-**Worldwide cases: {{ stat.value }}**
-
-{% assign stat = site.data.statistics["deaths"] %}
-**Worldwide deaths: {{ stat.value }}**
-
+list_title: Data Science and COVID-19 Blog
 ---
 
 Welcome to the Data Science and COVID-19 project.
@@ -18,6 +10,14 @@ The site includes:
 * [Data Science and COVID-19 Blog](blog) - discusses trends and patterns regarding the COVID-19 pandemic in terms of infection rates, etc. Also explains how you can use freely available tools to perform your own analysis of COVID data.
 The code and supporting scripts are all hosted on the [COVID-ML github repository](https://github.com/paulknewton/covid-ml).
 * [COVID-19 Graph Repository](#covid-19-graph-repository) - regularly updated graphs showing different aspects of the COVID-19 virus (infection numbers, mortality rates, Case Infection Risks etc)
+
+---
+
+{% assign stat = site.data.statistics["cases"] %}
+**Worldwide cases: {{ stat.value }}**
+
+{% assign stat = site.data.statistics["deaths"] %}
+**Worldwide deaths: {{ stat.value }}**
 
 ---
 

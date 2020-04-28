@@ -22,12 +22,12 @@ if __name__ == "__main__":
         notes_file = file.with_suffix(".md")
         print("  notes: %s" % notes_file)
 
-        # create any a 'notes' file (if missing)
+        # create a 'notes' file (if missing)
         Path(notes_file).touch(exist_ok=True)
 
         # if list of countries then add a country name
         if args.format == "countries":
-            print("  anchor: %s" % filename_no_suffix[filename_no_suffix.rfind("-") + 2:].replace("_", " "))
+            print("  anchor: %s" % filename_no_suffix[:filename_no_suffix.find("-") - 2:].replace("_", " "))
 
 
 

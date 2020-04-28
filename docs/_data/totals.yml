@@ -1,0 +1,30 @@
+- title: Countries With Highest Case Fatality Risk
+  url: graphs/totals/countries_with_highest_case_fatality_risk.png
+  notes: graphs/totals/countries_with_highest_case_fatality_risk.md
+- title: Countries With Highest Number Of Recorded Covid-19 Cases
+  url: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.png
+  notes: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.md
+- title: Countries With Highest Number Of Recorded Covid-19 Deaths
+  url: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths.png
+  notes: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths.md
+- title: Countries With No Recorded Covid-19 Deaths
+  url: graphs/totals/countries_with_no_recorded_covid-19_deaths.png
+  notes: graphs/totals/countries_with_no_recorded_covid-19_deaths.md
+- title: Covid-19 Cases Over Time
+  url: graphs/totals/covid-19_cases_over_time.png
+  notes: graphs/totals/covid-19_cases_over_time.md
+- title: Covid-19 Cases Over Time With Logarithmic Scale
+  url: graphs/totals/covid-19_cases_over_time_with_logarithmic_scale.png
+  notes: graphs/totals/covid-19_cases_over_time_with_logarithmic_scale.md
+- title: Covid-19 Deaths Over Time
+  url: graphs/totals/covid-19_deaths_over_time.png
+  notes: graphs/totals/covid-19_deaths_over_time.md
+- title: Covid-19 Deaths Over Time With Logarithmic Scale
+  url: graphs/totals/covid-19_deaths_over_time_with_logarithmic_scale.png
+  notes: graphs/totals/covid-19_deaths_over_time_with_logarithmic_scale.md
+- title: Worldwide Covid-19 Statistics
+  url: graphs/totals/worldwide_covid-19_statistics.png
+  notes: graphs/totals/worldwide_covid-19_statistics.md
+- title: Worldwide Covid-19 Statistics With Logarithmic Scale
+  url: graphs/totals/worldwide_covid-19_statistics_with_logarithmic_scale.png
+  notes: graphs/totals/worldwide_covid-19_statistics_with_logarithmic_scale.md

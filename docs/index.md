@@ -30,7 +30,7 @@ The number of officially recorded COVID-19 related deaths has now exceeded 200,0
 Graphs and analyses relating to the COVID-19 pandemic are organised into categories to simplify navigation:
 
 ![bar-chart](https://img.icons8.com/cotton/64/000000/bar-chart--v2.png) | [Graphs showing cumulative statistics: total infections & deaths over time, top 20 hotpots, Case Fatality Risks etc](totals)
-![line-chart](https://img.icons8.com/cotton/64/000000/positive-dynamic.png) | [Graphs showing rates change in COVID-19 infections & mortality rates](rates)
+![line-chart](https://img.icons8.com/cotton/64/000000/positive-dynamic.png) | [Graphs showing the growth of the virus over time and infection/mortality rates](rates)
 ![countries](https://img.icons8.com/cotton/64/000000/flag-2.png) | [Country-specific graphs](countries)
 
 ---

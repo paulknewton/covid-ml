@@ -1,5 +1,6 @@
 ---
 layout: home
+list_title: Blog Posts
 ---
 
 {% assign stat = site.data.statistics["cases"] %}

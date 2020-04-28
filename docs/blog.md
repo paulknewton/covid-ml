@@ -15,7 +15,7 @@ The blog also includes news updates on changes to the website.
 
 ---
 
-<h2 class="post-list-heading">Blog Categories</h2>
+<h2 class="post-list-heading">Blog posts by category</h2>
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">

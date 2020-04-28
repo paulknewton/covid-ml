@@ -2,6 +2,7 @@
 # Generate graphs and upload to github.com
 #
 #
+
 add_timestamp() { # input_file timestamp
     TS=`date`
     sed "s_<h1 id=\"Data-Science-and-COVID-19\"_Last updated\: $TS<hr>&_" "$1"
@@ -20,6 +21,13 @@ add_timestamp covid.html > docs/covid.html
 cd docs
 ./_bin/build-graph-list.sh
 cd ..
+
+# do not add to git if flag -nogit
+
+if [ "$1" = "--nogit" ]; then
+  echo "Not adding to git. Exiting..."
+  exit 1
+fi
 
 # commit to git
 git add docs/* covid.html

@@ -1,828 +1,1656 @@
 - title: Afghanistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Afghanistan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Afghanistan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Afghanista
+  anchor: Afghanistan
+- title: Afghanistan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Afghanistan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Afghanistan_-covid-19_total_cases_and_deaths.md
+  anchor: Afghanistan
 - title: Albania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Albania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Albania_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Albani
+  anchor: Albania
+- title: Albania -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Albania_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Albania_-covid-19_total_cases_and_deaths.md
+  anchor: Albania
 - title: Algeria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Algeria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Algeria_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Algeri
+  anchor: Algeria
+- title: Algeria -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Algeria_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Algeria_-covid-19_total_cases_and_deaths.md
+  anchor: Algeria
 - title: Andorra - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Andorra_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Andorra_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Andorr
+  anchor: Andorra
+- title: Andorra -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Andorra_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Andorra_-covid-19_total_cases_and_deaths.md
+  anchor: Andorra
 - title: Angola - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Angola_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Angola_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Angol
+  anchor: Angola
+- title: Angola -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Angola_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Angola_-covid-19_total_cases_and_deaths.md
+  anchor: Angola
 - title: Anguilla - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Anguilla_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Anguilla_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Anguill
+  anchor: Anguilla
+- title: Anguilla -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Anguilla_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Anguilla_-covid-19_total_cases_and_deaths.md
+  anchor: Anguilla
 - title: Antigua And Barbuda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Antigua_and_Barbuda_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Antigua_and_Barbuda_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Antigua and Barbud
+  anchor: Antigua and Barbuda
+- title: Antigua And Barbuda -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Antigua_and_Barbuda_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Antigua_and_Barbuda_-covid-19_total_cases_and_deaths.md
+  anchor: Antigua and Barbuda
 - title: Argentina - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Argentina_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Argentina_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Argentin
+  anchor: Argentina
+- title: Argentina -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Argentina_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Argentina_-covid-19_total_cases_and_deaths.md
+  anchor: Argentina
 - title: Armenia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Armenia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Armenia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Armeni
+  anchor: Armenia
+- title: Armenia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Armenia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Armenia_-covid-19_total_cases_and_deaths.md
+  anchor: Armenia
 - title: Aruba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Aruba_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Aruba_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Arub
+  anchor: Aruba
+- title: Aruba -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Aruba_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Aruba_-covid-19_total_cases_and_deaths.md
+  anchor: Aruba
 - title: Australia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Australia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Australia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Australi
+  anchor: Australia
+- title: Australia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Australia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Australia_-covid-19_total_cases_and_deaths.md
+  anchor: Australia
 - title: Austria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Austria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Austria_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Austri
+  anchor: Austria
+- title: Austria -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Austria_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Austria_-covid-19_total_cases_and_deaths.md
+  anchor: Austria
 - title: Azerbaijan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Azerbaijan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Azerbaijan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Azerbaija
+  anchor: Azerbaijan
+- title: Azerbaijan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Azerbaijan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Azerbaijan_-covid-19_total_cases_and_deaths.md
+  anchor: Azerbaijan
 - title: Bahamas - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bahamas_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bahamas_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bahama
+  anchor: Bahamas
+- title: Bahamas -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bahamas_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bahamas_-covid-19_total_cases_and_deaths.md
+  anchor: Bahamas
 - title: Bahrain - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bahrain_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bahrain_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bahrai
+  anchor: Bahrain
+- title: Bahrain -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bahrain_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bahrain_-covid-19_total_cases_and_deaths.md
+  anchor: Bahrain
 - title: Bangladesh - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bangladesh_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bangladesh_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Banglades
+  anchor: Bangladesh
+- title: Bangladesh -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bangladesh_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bangladesh_-covid-19_total_cases_and_deaths.md
+  anchor: Bangladesh
 - title: Barbados - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Barbados_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Barbados_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Barbado
+  anchor: Barbados
+- title: Barbados -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Barbados_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Barbados_-covid-19_total_cases_and_deaths.md
+  anchor: Barbados
 - title: Belarus - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belarus_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Belarus_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Belaru
+  anchor: Belarus
+- title: Belarus -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Belarus_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Belarus_-covid-19_total_cases_and_deaths.md
+  anchor: Belarus
 - title: Belgium - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belgium_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Belgium_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Belgiu
+  anchor: Belgium
+- title: Belgium -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Belgium_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Belgium_-covid-19_total_cases_and_deaths.md
+  anchor: Belgium
 - title: Belize - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belize_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Belize_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Beliz
+  anchor: Belize
+- title: Belize -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Belize_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Belize_-covid-19_total_cases_and_deaths.md
+  anchor: Belize
 - title: Benin - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Benin_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Benin_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Beni
+  anchor: Benin
+- title: Benin -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Benin_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Benin_-covid-19_total_cases_and_deaths.md
+  anchor: Benin
 - title: Bermuda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bermuda_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bermuda_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bermud
+  anchor: Bermuda
+- title: Bermuda -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bermuda_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bermuda_-covid-19_total_cases_and_deaths.md
+  anchor: Bermuda
 - title: Bhutan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bhutan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bhutan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bhuta
+  anchor: Bhutan
+- title: Bhutan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bhutan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bhutan_-covid-19_total_cases_and_deaths.md
+  anchor: Bhutan
 - title: Bolivia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bolivia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bolivia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bolivi
+  anchor: Bolivia
+- title: Bolivia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bolivia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bolivia_-covid-19_total_cases_and_deaths.md
+  anchor: Bolivia
 - title: Bonaire, Saint Eustatius And Saba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bonaire, Saint Eustatius and Saba_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bonaire, Saint Eustatius and Sab
+  anchor: Bonaire, Saint Eustatius and Saba
+- title: Bonaire, Saint Eustatius And Saba -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bonaire, Saint Eustatius and Saba_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bonaire, Saint Eustatius and Saba_-covid-19_total_cases_and_deaths.md
+  anchor: Bonaire, Saint Eustatius and Saba
 - title: Bosnia And Herzegovina - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bosnia_and_Herzegovina_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bosnia_and_Herzegovina_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bosnia and Herzegovin
+  anchor: Bosnia and Herzegovina
+- title: Bosnia And Herzegovina -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bosnia_and_Herzegovina_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bosnia_and_Herzegovina_-covid-19_total_cases_and_deaths.md
+  anchor: Bosnia and Herzegovina
 - title: Botswana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Botswana_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Botswana_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Botswan
+  anchor: Botswana
+- title: Botswana -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Botswana_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Botswana_-covid-19_total_cases_and_deaths.md
+  anchor: Botswana
 - title: Brazil - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Brazil_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Brazil_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Brazi
+  anchor: Brazil
+- title: Brazil -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Brazil_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Brazil_-covid-19_total_cases_and_deaths.md
+  anchor: Brazil
 - title: British Virgin Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/British_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/British_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: British Virgin Island
+  anchor: British Virgin Islands
+- title: British Virgin Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/British_Virgin_Islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/British_Virgin_Islands_-covid-19_total_cases_and_deaths.md
+  anchor: British Virgin Islands
 - title: Brunei Darussalam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Brunei_Darussalam_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Brunei_Darussalam_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Brunei Darussala
+  anchor: Brunei Darussalam
+- title: Brunei Darussalam -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Brunei_Darussalam_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Brunei_Darussalam_-covid-19_total_cases_and_deaths.md
+  anchor: Brunei Darussalam
 - title: Bulgaria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bulgaria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Bulgaria_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Bulgari
+  anchor: Bulgaria
+- title: Bulgaria -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Bulgaria_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Bulgaria_-covid-19_total_cases_and_deaths.md
+  anchor: Bulgaria
 - title: Burkina Faso - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Burkina_Faso_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Burkina_Faso_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Burkina Fas
+  anchor: Burkina Faso
+- title: Burkina Faso -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Burkina_Faso_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Burkina_Faso_-covid-19_total_cases_and_deaths.md
+  anchor: Burkina Faso
 - title: Burundi - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Burundi_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Burundi_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Burund
+  anchor: Burundi
+- title: Burundi -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Burundi_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Burundi_-covid-19_total_cases_and_deaths.md
+  anchor: Burundi
 - title: Cambodia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cambodia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cambodia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cambodi
+  anchor: Cambodia
+- title: Cambodia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cambodia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cambodia_-covid-19_total_cases_and_deaths.md
+  anchor: Cambodia
 - title: Cameroon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cameroon_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cameroon_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cameroo
+  anchor: Cameroon
+- title: Cameroon -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cameroon_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cameroon_-covid-19_total_cases_and_deaths.md
+  anchor: Cameroon
 - title: Canada - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Canada_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Canada_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Canad
+  anchor: Canada
+- title: Canada -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Canada_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Canada_-covid-19_total_cases_and_deaths.md
+  anchor: Canada
 - title: Cape Verde - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cape_Verde_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cape_Verde_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cape Verd
+  anchor: Cape Verde
+- title: Cape Verde -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cape_Verde_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cape_Verde_-covid-19_total_cases_and_deaths.md
+  anchor: Cape Verde
 - title: Cases On An International Conveyance Japan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cases_on_an_international_conveyance_Japan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cases on an international conveyance Japa
+  anchor: Cases on an international conveyance Japan
+- title: Cases On An International Conveyance Japan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cases_on_an_international_conveyance_Japan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cases_on_an_international_conveyance_Japan_-covid-19_total_cases_and_deaths.md
+  anchor: Cases on an international conveyance Japan
 - title: Cayman Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cayman_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cayman_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cayman Island
+  anchor: Cayman Islands
+- title: Cayman Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cayman_Islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cayman_Islands_-covid-19_total_cases_and_deaths.md
+  anchor: Cayman Islands
 - title: Central African Republic - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Central_African_Republic_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Central_African_Republic_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Central African Republi
+  anchor: Central African Republic
+- title: Central African Republic -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Central_African_Republic_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Central_African_Republic_-covid-19_total_cases_and_deaths.md
+  anchor: Central African Republic
 - title: Chad - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Chad_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Chad_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cha
+  anchor: Chad
+- title: Chad -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Chad_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Chad_-covid-19_total_cases_and_deaths.md
+  anchor: Chad
 - title: Chile - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Chile_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Chile_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Chil
+  anchor: Chile
+- title: Chile -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Chile_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Chile_-covid-19_total_cases_and_deaths.md
+  anchor: Chile
 - title: China - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/China_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/China_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Chin
+  anchor: China
+- title: China -Covid-19 Total Cases And Deaths
+  url: graphs/countries/China_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/China_-covid-19_total_cases_and_deaths.md
+  anchor: China
 - title: Colombia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Colombi
+  anchor: Colombia
+- title: Colombia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Colombia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Colombia_-covid-19_total_cases_and_deaths.md
+  anchor: Colombia
 - title: Congo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Congo_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Congo_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cong
+  anchor: Congo
+- title: Congo -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Congo_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Congo_-covid-19_total_cases_and_deaths.md
+  anchor: Congo
 - title: Costa Rica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Costa_Rica_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Costa_Rica_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Costa Ric
+  anchor: Costa Rica
+- title: Costa Rica -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Costa_Rica_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Costa_Rica_-covid-19_total_cases_and_deaths.md
+  anchor: Costa Rica
 - title: Cote Divoire - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cote_dIvoire_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cote_dIvoire_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cote dIvoir
+  anchor: Cote dIvoire
+- title: Cote Divoire -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cote_dIvoire_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cote_dIvoire_-covid-19_total_cases_and_deaths.md
+  anchor: Cote dIvoire
 - title: Croatia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Croatia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Croatia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Croati
+  anchor: Croatia
+- title: Croatia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Croatia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Croatia_-covid-19_total_cases_and_deaths.md
+  anchor: Croatia
 - title: Cuba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cuba_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cuba_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cub
+  anchor: Cuba
+- title: Cuba -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cuba_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cuba_-covid-19_total_cases_and_deaths.md
+  anchor: Cuba
 - title: Curaã§Ao - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/CuraÃ§ao_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/CuraÃ§ao_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: CuraÃ§a
+  anchor: CuraÃ§ao
+- title: Curaã§Ao -Covid-19 Total Cases And Deaths
+  url: graphs/countries/CuraÃ§ao_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/CuraÃ§ao_-covid-19_total_cases_and_deaths.md
+  anchor: CuraÃ§ao
 - title: Cyprus - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cyprus_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Cyprus_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Cypru
+  anchor: Cyprus
+- title: Cyprus -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Cyprus_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Cyprus_-covid-19_total_cases_and_deaths.md
+  anchor: Cyprus
 - title: Czechia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Czechia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Czechia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Czechi
+  anchor: Czechia
+- title: Czechia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Czechia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Czechia_-covid-19_total_cases_and_deaths.md
+  anchor: Czechia
 - title: Democratic Republic Of The Congo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Democratic_Republic_of_the_Congo_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Democratic_Republic_of_the_Congo_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Democratic Republic of the Cong
+  anchor: Democratic Republic of the Congo
+- title: Democratic Republic Of The Congo -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Democratic_Republic_of_the_Congo_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Democratic_Republic_of_the_Congo_-covid-19_total_cases_and_deaths.md
+  anchor: Democratic Republic of the Congo
 - title: Denmark - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Denmark_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Denmark_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Denmar
+  anchor: Denmark
+- title: Denmark -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Denmark_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Denmark_-covid-19_total_cases_and_deaths.md
+  anchor: Denmark
 - title: Djibouti - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Djibouti_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Djibouti_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Djibout
+  anchor: Djibouti
+- title: Djibouti -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Djibouti_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Djibouti_-covid-19_total_cases_and_deaths.md
+  anchor: Djibouti
 - title: Dominica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Dominica_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Dominica_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Dominic
+  anchor: Dominica
+- title: Dominica -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Dominica_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Dominica_-covid-19_total_cases_and_deaths.md
+  anchor: Dominica
 - title: Dominican Republic - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Dominican_Republic_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Dominican_Republic_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Dominican Republi
+  anchor: Dominican Republic
+- title: Dominican Republic -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Dominican_Republic_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Dominican_Republic_-covid-19_total_cases_and_deaths.md
+  anchor: Dominican Republic
 - title: Ecuador - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ecuador_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Ecuador_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ecuado
+  anchor: Ecuador
+- title: Ecuador -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Ecuador_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Ecuador_-covid-19_total_cases_and_deaths.md
+  anchor: Ecuador
 - title: Egypt - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Egypt_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Egypt_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Egyp
+  anchor: Egypt
+- title: Egypt -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Egypt_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Egypt_-covid-19_total_cases_and_deaths.md
+  anchor: Egypt
 - title: El Salvador - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/El_Salvador_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/El_Salvador_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: El Salvado
+  anchor: El Salvador
+- title: El Salvador -Covid-19 Total Cases And Deaths
+  url: graphs/countries/El_Salvador_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/El_Salvador_-covid-19_total_cases_and_deaths.md
+  anchor: El Salvador
 - title: Equatorial Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Equatorial_Guinea_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Equatorial_Guinea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Equatorial Guine
+  anchor: Equatorial Guinea
+- title: Equatorial Guinea -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Equatorial_Guinea_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Equatorial_Guinea_-covid-19_total_cases_and_deaths.md
+  anchor: Equatorial Guinea
 - title: Eritrea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Eritrea_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Eritrea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Eritre
+  anchor: Eritrea
+- title: Eritrea -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Eritrea_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Eritrea_-covid-19_total_cases_and_deaths.md
+  anchor: Eritrea
 - title: Estonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Estonia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Estonia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Estoni
+  anchor: Estonia
+- title: Estonia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Estonia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Estonia_-covid-19_total_cases_and_deaths.md
+  anchor: Estonia
 - title: Eswatini - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Eswatini_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Eswatini_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Eswatin
+  anchor: Eswatini
+- title: Eswatini -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Eswatini_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Eswatini_-covid-19_total_cases_and_deaths.md
+  anchor: Eswatini
 - title: Ethiopia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ethiopia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Ethiopia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ethiopi
+  anchor: Ethiopia
+- title: Ethiopia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Ethiopia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Ethiopia_-covid-19_total_cases_and_deaths.md
+  anchor: Ethiopia
 - title: Falkland Islands (Malvinas) - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Falkland_Islands_(Malvinas)_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Falkland_Islands_(Malvinas)_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Falkland Islands (Malvinas
+  anchor: Falkland Islands (Malvinas)
+- title: Falkland Islands (Malvinas) -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Falkland_Islands_(Malvinas)_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Falkland_Islands_(Malvinas)_-covid-19_total_cases_and_deaths.md
+  anchor: Falkland Islands (Malvinas)
 - title: Faroe Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Faroe_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Faroe_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Faroe Island
+  anchor: Faroe Islands
+- title: Faroe Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Faroe_Islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Faroe_Islands_-covid-19_total_cases_and_deaths.md
+  anchor: Faroe Islands
 - title: Fiji - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Fiji_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Fiji_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Fij
+  anchor: Fiji
+- title: Fiji -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Fiji_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Fiji_-covid-19_total_cases_and_deaths.md
+  anchor: Fiji
 - title: Finland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Finland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Finland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Finlan
+  anchor: Finland
+- title: Finland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Finland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Finland_-covid-19_total_cases_and_deaths.md
+  anchor: Finland
 - title: France - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/France_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/France_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Franc
+  anchor: France
+- title: France -Covid-19 Total Cases And Deaths
+  url: graphs/countries/France_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/France_-covid-19_total_cases_and_deaths.md
+  anchor: France
 - title: French Polynesia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/French_Polynesia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/French_Polynesia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: French Polynesi
+  anchor: French Polynesia
+- title: French Polynesia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/French_Polynesia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/French_Polynesia_-covid-19_total_cases_and_deaths.md
+  anchor: French Polynesia
 - title: Gabon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gabon_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Gabon_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Gabo
+  anchor: Gabon
+- title: Gabon -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Gabon_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Gabon_-covid-19_total_cases_and_deaths.md
+  anchor: Gabon
 - title: Gambia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gambia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Gambia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Gambi
+  anchor: Gambia
+- title: Gambia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Gambia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Gambia_-covid-19_total_cases_and_deaths.md
+  anchor: Gambia
 - title: Georgia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Georgia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Georgia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Georgi
+  anchor: Georgia
+- title: Georgia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Georgia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Georgia_-covid-19_total_cases_and_deaths.md
+  anchor: Georgia
 - title: Germany - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Germany_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Germany_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: German
+  anchor: Germany
+- title: Germany -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Germany_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Germany_-covid-19_total_cases_and_deaths.md
+  anchor: Germany
 - title: Ghana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ghana_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Ghana_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ghan
+  anchor: Ghana
+- title: Ghana -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Ghana_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Ghana_-covid-19_total_cases_and_deaths.md
+  anchor: Ghana
 - title: Gibraltar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gibraltar_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Gibraltar_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Gibralta
+  anchor: Gibraltar
+- title: Gibraltar -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Gibraltar_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Gibraltar_-covid-19_total_cases_and_deaths.md
+  anchor: Gibraltar
 - title: Greece - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Greece_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Greece_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Greec
+  anchor: Greece
+- title: Greece -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Greece_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Greece_-covid-19_total_cases_and_deaths.md
+  anchor: Greece
 - title: Greenland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Greenland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Greenland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Greenlan
+  anchor: Greenland
+- title: Greenland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Greenland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Greenland_-covid-19_total_cases_and_deaths.md
+  anchor: Greenland
 - title: Grenada - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Grenada_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Grenada_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Grenad
+  anchor: Grenada
+- title: Grenada -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Grenada_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Grenada_-covid-19_total_cases_and_deaths.md
+  anchor: Grenada
 - title: Guam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guam_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guam_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Gua
+  anchor: Guam
+- title: Guam -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guam_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guam_-covid-19_total_cases_and_deaths.md
+  anchor: Guam
 - title: Guatemala - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guatemala_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guatemala_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guatemal
+  anchor: Guatemala
+- title: Guatemala -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guatemala_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guatemala_-covid-19_total_cases_and_deaths.md
+  anchor: Guatemala
 - title: Guernsey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guernse
+  anchor: Guernsey
+- title: Guernsey -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guernsey_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guernsey_-covid-19_total_cases_and_deaths.md
+  anchor: Guernsey
 - title: Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guine
+  anchor: Guinea
+- title: Guinea -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guinea_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guinea_-covid-19_total_cases_and_deaths.md
+  anchor: Guinea
 - title: Guinea Bissau - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guinea Bissa
+  anchor: Guinea Bissau
+- title: Guinea Bissau -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guinea_Bissau_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guinea_Bissau_-covid-19_total_cases_and_deaths.md
+  anchor: Guinea Bissau
 - title: Guyana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guyana_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guyana_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guyan
+  anchor: Guyana
+- title: Guyana -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guyana_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guyana_-covid-19_total_cases_and_deaths.md
+  anchor: Guyana
 - title: Haiti - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Haiti_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Haiti_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Hait
+  anchor: Haiti
+- title: Haiti -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Haiti_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Haiti_-covid-19_total_cases_and_deaths.md
+  anchor: Haiti
 - title: Holy See - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Holy_See_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Holy_See_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Holy Se
+  anchor: Holy See
+- title: Holy See -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Holy_See_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Holy_See_-covid-19_total_cases_and_deaths.md
+  anchor: Holy See
 - title: Honduras - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Honduras_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Honduras_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Hondura
+  anchor: Honduras
+- title: Honduras -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Honduras_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Honduras_-covid-19_total_cases_and_deaths.md
+  anchor: Honduras
 - title: Hungary - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Hungary_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Hungary_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Hungar
+  anchor: Hungary
+- title: Hungary -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Hungary_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Hungary_-covid-19_total_cases_and_deaths.md
+  anchor: Hungary
 - title: Iceland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iceland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Iceland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Icelan
+  anchor: Iceland
+- title: Iceland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Iceland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Iceland_-covid-19_total_cases_and_deaths.md
+  anchor: Iceland
 - title: India - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/India_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/India_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Indi
+  anchor: India
+- title: India -Covid-19 Total Cases And Deaths
+  url: graphs/countries/India_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/India_-covid-19_total_cases_and_deaths.md
+  anchor: India
 - title: Indonesia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Indonesia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Indonesia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Indonesi
+  anchor: Indonesia
+- title: Indonesia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Indonesia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Indonesia_-covid-19_total_cases_and_deaths.md
+  anchor: Indonesia
 - title: Iran - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iran_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Iran_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ira
+  anchor: Iran
+- title: Iran -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Iran_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Iran_-covid-19_total_cases_and_deaths.md
+  anchor: Iran
 - title: Iraq - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iraq_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Iraq_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ira
+  anchor: Iraq
+- title: Iraq -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Iraq_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Iraq_-covid-19_total_cases_and_deaths.md
+  anchor: Iraq
 - title: Ireland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ireland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Ireland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Irelan
+  anchor: Ireland
+- title: Ireland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Ireland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Ireland_-covid-19_total_cases_and_deaths.md
+  anchor: Ireland
 - title: Isle Of Man - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Isle_of_Man_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Isle_of_Man_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Isle of Ma
+  anchor: Isle of Man
+- title: Isle Of Man -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Isle_of_Man_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Isle_of_Man_-covid-19_total_cases_and_deaths.md
+  anchor: Isle of Man
 - title: Israel - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Israel_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Israel_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Israe
+  anchor: Israel
+- title: Israel -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Israel_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Israel_-covid-19_total_cases_and_deaths.md
+  anchor: Israel
 - title: Italy - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Italy_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Italy_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ital
+  anchor: Italy
+- title: Italy -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Italy_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Italy_-covid-19_total_cases_and_deaths.md
+  anchor: Italy
 - title: Jamaica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jamaica_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Jamaica_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Jamaic
+  anchor: Jamaica
+- title: Jamaica -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Jamaica_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Jamaica_-covid-19_total_cases_and_deaths.md
+  anchor: Jamaica
 - title: Japan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Japan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Japan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Japa
+  anchor: Japan
+- title: Japan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Japan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Japan_-covid-19_total_cases_and_deaths.md
+  anchor: Japan
 - title: Jersey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jersey_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Jersey_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Jerse
+  anchor: Jersey
+- title: Jersey -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Jersey_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Jersey_-covid-19_total_cases_and_deaths.md
+  anchor: Jersey
 - title: Jordan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jordan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Jordan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Jorda
+  anchor: Jordan
+- title: Jordan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Jordan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Jordan_-covid-19_total_cases_and_deaths.md
+  anchor: Jordan
 - title: Kazakhstan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kazakhstan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Kazakhstan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Kazakhsta
+  anchor: Kazakhstan
+- title: Kazakhstan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Kazakhstan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Kazakhstan_-covid-19_total_cases_and_deaths.md
+  anchor: Kazakhstan
 - title: Kenya - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kenya_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Kenya_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Keny
+  anchor: Kenya
+- title: Kenya -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Kenya_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Kenya_-covid-19_total_cases_and_deaths.md
+  anchor: Kenya
 - title: Kosovo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kosovo_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Kosovo_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Kosov
+  anchor: Kosovo
+- title: Kosovo -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Kosovo_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Kosovo_-covid-19_total_cases_and_deaths.md
+  anchor: Kosovo
 - title: Kuwait - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kuwait_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Kuwait_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Kuwai
+  anchor: Kuwait
+- title: Kuwait -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Kuwait_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Kuwait_-covid-19_total_cases_and_deaths.md
+  anchor: Kuwait
 - title: Kyrgyzstan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kyrgyzstan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Kyrgyzstan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Kyrgyzsta
+  anchor: Kyrgyzstan
+- title: Kyrgyzstan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Kyrgyzstan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Kyrgyzstan_-covid-19_total_cases_and_deaths.md
+  anchor: Kyrgyzstan
 - title: Laos - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Laos_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Laos_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Lao
+  anchor: Laos
+- title: Laos -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Laos_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Laos_-covid-19_total_cases_and_deaths.md
+  anchor: Laos
 - title: Latvia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Latvia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Latvia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Latvi
+  anchor: Latvia
+- title: Latvia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Latvia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Latvia_-covid-19_total_cases_and_deaths.md
+  anchor: Latvia
 - title: Lebanon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Lebanon_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Lebanon_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Lebano
+  anchor: Lebanon
+- title: Lebanon -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Lebanon_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Lebanon_-covid-19_total_cases_and_deaths.md
+  anchor: Lebanon
 - title: Liberia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Liberia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Liberia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Liberi
+  anchor: Liberia
+- title: Liberia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Liberia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Liberia_-covid-19_total_cases_and_deaths.md
+  anchor: Liberia
 - title: Libya - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Libya_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Libya_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Liby
+  anchor: Libya
+- title: Libya -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Libya_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Libya_-covid-19_total_cases_and_deaths.md
+  anchor: Libya
 - title: Liechtenstein - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Liechtenstein_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Liechtenstein_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Liechtenstei
+  anchor: Liechtenstein
+- title: Liechtenstein -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Liechtenstein_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Liechtenstein_-covid-19_total_cases_and_deaths.md
+  anchor: Liechtenstein
 - title: Lithuania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Lithuania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Lithuania_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Lithuani
+  anchor: Lithuania
+- title: Lithuania -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Lithuania_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Lithuania_-covid-19_total_cases_and_deaths.md
+  anchor: Lithuania
 - title: Luxembourg - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Luxembourg_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Luxembourg_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Luxembour
+  anchor: Luxembourg
+- title: Luxembourg -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Luxembourg_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Luxembourg_-covid-19_total_cases_and_deaths.md
+  anchor: Luxembourg
 - title: Madagascar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Madagascar_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Madagascar_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Madagasca
+  anchor: Madagascar
+- title: Madagascar -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Madagascar_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Madagascar_-covid-19_total_cases_and_deaths.md
+  anchor: Madagascar
 - title: Malawi - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malawi_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Malawi_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Malaw
+  anchor: Malawi
+- title: Malawi -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Malawi_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Malawi_-covid-19_total_cases_and_deaths.md
+  anchor: Malawi
 - title: Malaysia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malaysia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Malaysia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Malaysi
+  anchor: Malaysia
+- title: Malaysia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Malaysia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Malaysia_-covid-19_total_cases_and_deaths.md
+  anchor: Malaysia
 - title: Maldives - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Maldives_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Maldives_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Maldive
+  anchor: Maldives
+- title: Maldives -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Maldives_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Maldives_-covid-19_total_cases_and_deaths.md
+  anchor: Maldives
 - title: Mali - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mali_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mali_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mal
+  anchor: Mali
+- title: Mali -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mali_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mali_-covid-19_total_cases_and_deaths.md
+  anchor: Mali
 - title: Malta - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malta_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Malta_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Malt
+  anchor: Malta
+- title: Malta -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Malta_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Malta_-covid-19_total_cases_and_deaths.md
+  anchor: Malta
 - title: Mauritania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mauritania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mauritania_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mauritani
+  anchor: Mauritania
+- title: Mauritania -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mauritania_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mauritania_-covid-19_total_cases_and_deaths.md
+  anchor: Mauritania
 - title: Mauritius - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mauritius_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mauritius_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mauritiu
+  anchor: Mauritius
+- title: Mauritius -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mauritius_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mauritius_-covid-19_total_cases_and_deaths.md
+  anchor: Mauritius
 - title: Mexico - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mexico_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mexico_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mexic
+  anchor: Mexico
+- title: Mexico -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mexico_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mexico_-covid-19_total_cases_and_deaths.md
+  anchor: Mexico
 - title: Moldova - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Moldova_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Moldova_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Moldov
+  anchor: Moldova
+- title: Moldova -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Moldova_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Moldova_-covid-19_total_cases_and_deaths.md
+  anchor: Moldova
 - title: Monaco - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Monaco_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Monaco_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Monac
+  anchor: Monaco
+- title: Monaco -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Monaco_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Monaco_-covid-19_total_cases_and_deaths.md
+  anchor: Monaco
 - title: Mongolia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mongolia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mongolia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mongoli
+  anchor: Mongolia
+- title: Mongolia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mongolia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mongolia_-covid-19_total_cases_and_deaths.md
+  anchor: Mongolia
 - title: Montenegro - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Montenegro_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Montenegro_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Montenegr
+  anchor: Montenegro
+- title: Montenegro -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Montenegro_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Montenegro_-covid-19_total_cases_and_deaths.md
+  anchor: Montenegro
 - title: Montserrat - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Montserrat_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Montserrat_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Montserra
+  anchor: Montserrat
+- title: Montserrat -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Montserrat_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Montserrat_-covid-19_total_cases_and_deaths.md
+  anchor: Montserrat
 - title: Morocco - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Morocco_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Morocco_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Morocc
+  anchor: Morocco
+- title: Morocco -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Morocco_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Morocco_-covid-19_total_cases_and_deaths.md
+  anchor: Morocco
 - title: Mozambique - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mozambique_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Mozambique_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Mozambiqu
+  anchor: Mozambique
+- title: Mozambique -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Mozambique_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Mozambique_-covid-19_total_cases_and_deaths.md
+  anchor: Mozambique
 - title: Myanmar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Myanmar_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Myanmar_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Myanma
+  anchor: Myanmar
+- title: Myanmar -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Myanmar_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Myanmar_-covid-19_total_cases_and_deaths.md
+  anchor: Myanmar
 - title: Namibia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Namibia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Namibia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Namibi
+  anchor: Namibia
+- title: Namibia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Namibia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Namibia_-covid-19_total_cases_and_deaths.md
+  anchor: Namibia
 - title: Nepal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nepal_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Nepal_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Nepa
+  anchor: Nepal
+- title: Nepal -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Nepal_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Nepal_-covid-19_total_cases_and_deaths.md
+  anchor: Nepal
 - title: Netherlands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Netherlands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Netherlands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Netherland
+  anchor: Netherlands
+- title: Netherlands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Netherlands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Netherlands_-covid-19_total_cases_and_deaths.md
+  anchor: Netherlands
 - title: New Caledonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/New_Caledonia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/New_Caledonia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: New Caledoni
+  anchor: New Caledonia
+- title: New Caledonia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/New_Caledonia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/New_Caledonia_-covid-19_total_cases_and_deaths.md
+  anchor: New Caledonia
 - title: New Zealand - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/New_Zealand_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/New_Zealand_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: New Zealan
+  anchor: New Zealand
+- title: New Zealand -Covid-19 Total Cases And Deaths
+  url: graphs/countries/New_Zealand_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/New_Zealand_-covid-19_total_cases_and_deaths.md
+  anchor: New Zealand
 - title: Nicaragua - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nicaragua_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Nicaragua_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Nicaragu
+  anchor: Nicaragua
+- title: Nicaragua -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Nicaragua_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Nicaragua_-covid-19_total_cases_and_deaths.md
+  anchor: Nicaragua
 - title: Niger - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Nige
+  anchor: Niger
+- title: Niger -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Niger_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Niger_-covid-19_total_cases_and_deaths.md
+  anchor: Niger
 - title: Nigeria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Nigeri
+  anchor: Nigeria
+- title: Nigeria -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Nigeria_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Nigeria_-covid-19_total_cases_and_deaths.md
+  anchor: Nigeria
 - title: North Macedonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: North Macedoni
+  anchor: North Macedonia
+- title: North Macedonia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/North_Macedonia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/North_Macedonia_-covid-19_total_cases_and_deaths.md
+  anchor: North Macedonia
 - title: Northern Mariana Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Northern Mariana Island
+  anchor: Northern Mariana Islands
+- title: Northern Mariana Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Northern_Mariana_Islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Northern_Mariana_Islands_-covid-19_total_cases_and_deaths.md
+  anchor: Northern Mariana Islands
 - title: Norway - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Norway_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Norway_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Norwa
+  anchor: Norway
+- title: Norway -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Norway_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Norway_-covid-19_total_cases_and_deaths.md
+  anchor: Norway
 - title: Oman - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Oman_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Oman_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Oma
+  anchor: Oman
+- title: Oman -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Oman_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Oman_-covid-19_total_cases_and_deaths.md
+  anchor: Oman
 - title: Pakistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Pakistan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Pakistan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Pakista
+  anchor: Pakistan
+- title: Pakistan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Pakistan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Pakistan_-covid-19_total_cases_and_deaths.md
+  anchor: Pakistan
 - title: Palestine - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Palestine_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Palestine_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Palestin
+  anchor: Palestine
+- title: Palestine -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Palestine_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Palestine_-covid-19_total_cases_and_deaths.md
+  anchor: Palestine
 - title: Panama - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Panama_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Panama_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Panam
+  anchor: Panama
+- title: Panama -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Panama_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Panama_-covid-19_total_cases_and_deaths.md
+  anchor: Panama
 - title: Papua New Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Papua_New_Guinea_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Papua_New_Guinea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Papua New Guine
+  anchor: Papua New Guinea
+- title: Papua New Guinea -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Papua_New_Guinea_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Papua_New_Guinea_-covid-19_total_cases_and_deaths.md
+  anchor: Papua New Guinea
 - title: Paraguay - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Paraguay_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Paraguay_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Paragua
+  anchor: Paraguay
+- title: Paraguay -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Paraguay_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Paraguay_-covid-19_total_cases_and_deaths.md
+  anchor: Paraguay
 - title: Peru - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Peru_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Peru_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Per
+  anchor: Peru
+- title: Peru -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Peru_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Peru_-covid-19_total_cases_and_deaths.md
+  anchor: Peru
 - title: Philippines - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Philippines_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Philippines_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Philippine
+  anchor: Philippines
+- title: Philippines -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Philippines_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Philippines_-covid-19_total_cases_and_deaths.md
+  anchor: Philippines
 - title: Poland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Poland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Poland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Polan
+  anchor: Poland
+- title: Poland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Poland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Poland_-covid-19_total_cases_and_deaths.md
+  anchor: Poland
 - title: Portugal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Portugal_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Portugal_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Portuga
+  anchor: Portugal
+- title: Portugal -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Portugal_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Portugal_-covid-19_total_cases_and_deaths.md
+  anchor: Portugal
 - title: Puerto Rico - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Puerto_Rico_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Puerto_Rico_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Puerto Ric
+  anchor: Puerto Rico
+- title: Puerto Rico -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Puerto_Rico_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Puerto_Rico_-covid-19_total_cases_and_deaths.md
+  anchor: Puerto Rico
 - title: Qatar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Qatar_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Qatar_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Qata
+  anchor: Qatar
+- title: Qatar -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Qatar_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Qatar_-covid-19_total_cases_and_deaths.md
+  anchor: Qatar
 - title: Romania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Romania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Romania_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Romani
+  anchor: Romania
+- title: Romania -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Romania_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Romania_-covid-19_total_cases_and_deaths.md
+  anchor: Romania
 - title: Russia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Russia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Russia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Russi
+  anchor: Russia
+- title: Russia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Russia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Russia_-covid-19_total_cases_and_deaths.md
+  anchor: Russia
 - title: Rwanda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Rwanda_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Rwanda_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Rwand
+  anchor: Rwanda
+- title: Rwanda -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Rwanda_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Rwanda_-covid-19_total_cases_and_deaths.md
+  anchor: Rwanda
 - title: Saint Kitts And Nevis - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Kitts_and_Nevis_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Saint_Kitts_and_Nevis_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Saint Kitts and Nevi
+  anchor: Saint Kitts and Nevis
+- title: Saint Kitts And Nevis -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Saint_Kitts_and_Nevis_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Saint_Kitts_and_Nevis_-covid-19_total_cases_and_deaths.md
+  anchor: Saint Kitts and Nevis
 - title: Saint Lucia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Lucia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Saint_Lucia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Saint Luci
+  anchor: Saint Lucia
+- title: Saint Lucia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Saint_Lucia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Saint_Lucia_-covid-19_total_cases_and_deaths.md
+  anchor: Saint Lucia
 - title: Saint Vincent And The Grenadines - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Saint_Vincent_and_the_Grenadines_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Saint Vincent and the Grenadine
+  anchor: Saint Vincent and the Grenadines
+- title: Saint Vincent And The Grenadines -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Saint_Vincent_and_the_Grenadines_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Saint_Vincent_and_the_Grenadines_-covid-19_total_cases_and_deaths.md
+  anchor: Saint Vincent and the Grenadines
 - title: San Marino - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/San_Marino_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/San_Marino_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: San Marin
+  anchor: San Marino
+- title: San Marino -Covid-19 Total Cases And Deaths
+  url: graphs/countries/San_Marino_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/San_Marino_-covid-19_total_cases_and_deaths.md
+  anchor: San Marino
 - title: Sao Tome And Principe - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sao_Tome_and_Principe_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sao_Tome_and_Principe_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Sao Tome and Princip
+  anchor: Sao Tome and Principe
+- title: Sao Tome And Principe -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sao_Tome_and_Principe_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sao_Tome_and_Principe_-covid-19_total_cases_and_deaths.md
+  anchor: Sao Tome and Principe
 - title: Saudi Arabia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saudi_Arabia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Saudi_Arabia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Saudi Arabi
+  anchor: Saudi Arabia
+- title: Saudi Arabia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Saudi_Arabia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Saudi_Arabia_-covid-19_total_cases_and_deaths.md
+  anchor: Saudi Arabia
 - title: Senegal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Senegal_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Senegal_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Senega
+  anchor: Senegal
+- title: Senegal -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Senegal_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Senegal_-covid-19_total_cases_and_deaths.md
+  anchor: Senegal
 - title: Serbia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Serbia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Serbia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Serbi
+  anchor: Serbia
+- title: Serbia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Serbia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Serbia_-covid-19_total_cases_and_deaths.md
+  anchor: Serbia
 - title: Seychelles - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Seychelles_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Seychelles_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Seychelle
+  anchor: Seychelles
+- title: Seychelles -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Seychelles_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Seychelles_-covid-19_total_cases_and_deaths.md
+  anchor: Seychelles
 - title: Sierra Leone - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sierra_Leone_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sierra_Leone_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Sierra Leon
+  anchor: Sierra Leone
+- title: Sierra Leone -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sierra_Leone_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sierra_Leone_-covid-19_total_cases_and_deaths.md
+  anchor: Sierra Leone
 - title: Singapore - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Singapore_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Singapore_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Singapor
+  anchor: Singapore
+- title: Singapore -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Singapore_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Singapore_-covid-19_total_cases_and_deaths.md
+  anchor: Singapore
 - title: Sint Maarten - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sint_Maarten_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sint_Maarten_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Sint Maarte
+  anchor: Sint Maarten
+- title: Sint Maarten -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sint_Maarten_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sint_Maarten_-covid-19_total_cases_and_deaths.md
+  anchor: Sint Maarten
 - title: Slovakia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Slovakia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Slovakia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Slovaki
+  anchor: Slovakia
+- title: Slovakia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Slovakia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Slovakia_-covid-19_total_cases_and_deaths.md
+  anchor: Slovakia
 - title: Slovenia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Slovenia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Slovenia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Sloveni
+  anchor: Slovenia
+- title: Slovenia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Slovenia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Slovenia_-covid-19_total_cases_and_deaths.md
+  anchor: Slovenia
 - title: Somalia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Somalia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Somalia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Somali
+  anchor: Somalia
+- title: Somalia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Somalia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Somalia_-covid-19_total_cases_and_deaths.md
+  anchor: Somalia
 - title: South Africa - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Africa_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/South_Africa_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: South Afric
+  anchor: South Africa
+- title: South Africa -Covid-19 Total Cases And Deaths
+  url: graphs/countries/South_Africa_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/South_Africa_-covid-19_total_cases_and_deaths.md
+  anchor: South Africa
 - title: South Korea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Korea_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/South_Korea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: South Kore
+  anchor: South Korea
+- title: South Korea -Covid-19 Total Cases And Deaths
+  url: graphs/countries/South_Korea_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/South_Korea_-covid-19_total_cases_and_deaths.md
+  anchor: South Korea
 - title: South Sudan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Sudan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/South_Sudan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: South Suda
+  anchor: South Sudan
+- title: South Sudan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/South_Sudan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/South_Sudan_-covid-19_total_cases_and_deaths.md
+  anchor: South Sudan
 - title: Spain - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Spain_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Spain_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Spai
+  anchor: Spain
+- title: Spain -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Spain_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Spain_-covid-19_total_cases_and_deaths.md
+  anchor: Spain
 - title: Sri Lanka - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sri_Lanka_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sri_Lanka_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Sri Lank
+  anchor: Sri Lanka
+- title: Sri Lanka -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sri_Lanka_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sri_Lanka_-covid-19_total_cases_and_deaths.md
+  anchor: Sri Lanka
 - title: Sudan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sudan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sudan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Suda
+  anchor: Sudan
+- title: Sudan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sudan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sudan_-covid-19_total_cases_and_deaths.md
+  anchor: Sudan
 - title: Suriname - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Suriname_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Suriname_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Surinam
+  anchor: Suriname
+- title: Suriname -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Suriname_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Suriname_-covid-19_total_cases_and_deaths.md
+  anchor: Suriname
 - title: Sweden - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sweden_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Sweden_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Swede
+  anchor: Sweden
+- title: Sweden -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Sweden_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Sweden_-covid-19_total_cases_and_deaths.md
+  anchor: Sweden
 - title: Switzerland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Switzerland_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Switzerland_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Switzerlan
+  anchor: Switzerland
+- title: Switzerland -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Switzerland_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Switzerland_-covid-19_total_cases_and_deaths.md
+  anchor: Switzerland
 - title: Syria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Syria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Syria_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Syri
+  anchor: Syria
+- title: Syria -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Syria_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Syria_-covid-19_total_cases_and_deaths.md
+  anchor: Syria
 - title: Taiwan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Taiwan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Taiwan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Taiwa
+  anchor: Taiwan
+- title: Taiwan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Taiwan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Taiwan_-covid-19_total_cases_and_deaths.md
+  anchor: Taiwan
 - title: Thailand - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Thailand_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Thailand_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Thailan
+  anchor: Thailand
+- title: Thailand -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Thailand_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Thailand_-covid-19_total_cases_and_deaths.md
+  anchor: Thailand
 - title: Timor Leste - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Timor_Leste_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Timor_Leste_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Timor Lest
+  anchor: Timor Leste
+- title: Timor Leste -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Timor_Leste_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Timor_Leste_-covid-19_total_cases_and_deaths.md
+  anchor: Timor Leste
 - title: Togo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Togo_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Togo_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Tog
+  anchor: Togo
+- title: Togo -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Togo_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Togo_-covid-19_total_cases_and_deaths.md
+  anchor: Togo
 - title: Trinidad And Tobago - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Trinidad_and_Tobago_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Trinidad_and_Tobago_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Trinidad and Tobag
+  anchor: Trinidad and Tobago
+- title: Trinidad And Tobago -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Trinidad_and_Tobago_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Trinidad_and_Tobago_-covid-19_total_cases_and_deaths.md
+  anchor: Trinidad and Tobago
 - title: Tunisia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Tunisia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Tunisia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Tunisi
+  anchor: Tunisia
+- title: Tunisia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Tunisia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Tunisia_-covid-19_total_cases_and_deaths.md
+  anchor: Tunisia
 - title: Turkey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Turkey_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Turkey_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Turke
+  anchor: Turkey
+- title: Turkey -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Turkey_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Turkey_-covid-19_total_cases_and_deaths.md
+  anchor: Turkey
 - title: Turks And Caicos Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Turks_and_Caicos_islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Turks_and_Caicos_islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Turks and Caicos island
+  anchor: Turks and Caicos islands
+- title: Turks And Caicos Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Turks_and_Caicos_islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Turks_and_Caicos_islands_-covid-19_total_cases_and_deaths.md
+  anchor: Turks and Caicos islands
 - title: Uganda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uganda_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Uganda_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ugand
+  anchor: Uganda
+- title: Uganda -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Uganda_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Uganda_-covid-19_total_cases_and_deaths.md
+  anchor: Uganda
 - title: Ukraine - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ukraine_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Ukraine_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Ukrain
+  anchor: Ukraine
+- title: Ukraine -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Ukraine_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Ukraine_-covid-19_total_cases_and_deaths.md
+  anchor: Ukraine
 - title: United Arab Emirates - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Arab_Emirates_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_Arab_Emirates_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United Arab Emirate
+  anchor: United Arab Emirates
+- title: United Arab Emirates -Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_Arab_Emirates_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_Arab_Emirates_-covid-19_total_cases_and_deaths.md
+  anchor: United Arab Emirates
 - title: United Kingdom - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Kingdom_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_Kingdom_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United Kingdo
+  anchor: United Kingdom
+- title: United Kingdom -Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_Kingdom_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_Kingdom_-covid-19_total_cases_and_deaths.md
+  anchor: United Kingdom
 - title: United Republic Of Tanzania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United Republic of Tanzani
+  anchor: United Republic of Tanzania
+- title: United Republic Of Tanzania -Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_Republic_of_Tanzania_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_Republic_of_Tanzania_-covid-19_total_cases_and_deaths.md
+  anchor: United Republic of Tanzania
 - title: United States Virgin Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United States Virgin Island
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands -Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_States_Virgin_Islands_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_States_Virgin_Islands_-covid-19_total_cases_and_deaths.md
+  anchor: United States Virgin Islands
 - title: United States Of America - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United States of Americ
+  anchor: United States of America
+- title: United States Of America -Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_States_of_America_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_States_of_America_-covid-19_total_cases_and_deaths.md
+  anchor: United States of America
 - title: Uruguay - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uruguay_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Uruguay_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Urugua
+  anchor: Uruguay
+- title: Uruguay -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Uruguay_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Uruguay_-covid-19_total_cases_and_deaths.md
+  anchor: Uruguay
 - title: Uzbekistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uzbekistan_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Uzbekistan_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Uzbekista
+  anchor: Uzbekistan
+- title: Uzbekistan -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Uzbekistan_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Uzbekistan_-covid-19_total_cases_and_deaths.md
+  anchor: Uzbekistan
 - title: Venezuela - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Venezuela_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Venezuela_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Venezuel
+  anchor: Venezuela
+- title: Venezuela -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Venezuela_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Venezuela_-covid-19_total_cases_and_deaths.md
+  anchor: Venezuela
 - title: Vietnam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Vietnam_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Vietnam_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Vietna
+  anchor: Vietnam
+- title: Vietnam -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Vietnam_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Vietnam_-covid-19_total_cases_and_deaths.md
+  anchor: Vietnam
 - title: Western Sahara - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Western_Sahara_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Western_Sahara_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Western Sahar
+  anchor: Western Sahara
+- title: Western Sahara -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Western_Sahara_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Western_Sahara_-covid-19_total_cases_and_deaths.md
+  anchor: Western Sahara
 - title: Yemen - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Yemen_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Yemen_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Yeme
+  anchor: Yemen
+- title: Yemen -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Yemen_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Yemen_-covid-19_total_cases_and_deaths.md
+  anchor: Yemen
 - title: Zambia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Zambia_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Zambia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Zambi
+  anchor: Zambia
+- title: Zambia -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Zambia_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Zambia_-covid-19_total_cases_and_deaths.md
+  anchor: Zambia
 - title: Zimbabwe - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Zimbabwe_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Zimbabwe_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Zimbabw
+  anchor: Zimbabwe
+- title: Zimbabwe -Covid-19 Total Cases And Deaths
+  url: graphs/countries/Zimbabwe_-covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Zimbabwe_-covid-19_total_cases_and_deaths.md
+  anchor: Zimbabwe

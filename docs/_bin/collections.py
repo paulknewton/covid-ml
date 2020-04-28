@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
         # if list of countries then add a country name
         if args.format == "countries":
-            print("  anchor: %s" % filename_no_suffix[:filename_no_suffix.find("-") - 2:].replace("_", " "))
+            print("  anchor: %s" % filename_no_suffix[:filename_no_suffix.find("-") - 1:].replace("_", " "))
 
 
 

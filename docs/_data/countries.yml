@@ -1990,30 +1990,6 @@
   url: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_deaths.md
   anchor: Guernsey
-- title: Guinea - Covid-19 Cases Over Time 
-  url: graphs/countries/Guinea_-_covid-19_cases_over_time_.png
-  notes: graphs/countries/Guinea_-_covid-19_cases_over_time_.md
-  anchor: Guinea
-- title: Guinea - Covid-19 Cases Over Time  With Logarithmic Scale
-  url: graphs/countries/Guinea_-_covid-19_cases_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/Guinea_-_covid-19_cases_over_time__with_logarithmic_scale.md
-  anchor: Guinea
-- title: Guinea - Covid-19 Deaths Over Time 
-  url: graphs/countries/Guinea_-_covid-19_deaths_over_time_.png
-  notes: graphs/countries/Guinea_-_covid-19_deaths_over_time_.md
-  anchor: Guinea
-- title: Guinea - Covid-19 Deaths Over Time  With Logarithmic Scale
-  url: graphs/countries/Guinea_-_covid-19_deaths_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/Guinea_-_covid-19_deaths_over_time__with_logarithmic_scale.md
-  anchor: Guinea
-- title: Guinea - Covid-19 Total Cases And Deaths
-  url: graphs/countries/Guinea_-_covid-19_total_cases_and_deaths.png
-  notes: graphs/countries/Guinea_-_covid-19_total_cases_and_deaths.md
-  anchor: Guinea
-- title: Guinea - New Covid-19 Daily Cases And Deaths
-  url: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.png
-  notes: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Guinea
 - title: Guinea Bissau - Covid-19 Cases Over Time 
   url: graphs/countries/Guinea_Bissau_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Guinea_Bissau_-_covid-19_cases_over_time_.md
@@ -2038,6 +2014,30 @@
   url: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_deaths.md
   anchor: Guinea Bissau
+- title: Guinea - Covid-19 Cases Over Time 
+  url: graphs/countries/Guinea_-_covid-19_cases_over_time_.png
+  notes: graphs/countries/Guinea_-_covid-19_cases_over_time_.md
+  anchor: Guinea
+- title: Guinea - Covid-19 Cases Over Time  With Logarithmic Scale
+  url: graphs/countries/Guinea_-_covid-19_cases_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/Guinea_-_covid-19_cases_over_time__with_logarithmic_scale.md
+  anchor: Guinea
+- title: Guinea - Covid-19 Deaths Over Time 
+  url: graphs/countries/Guinea_-_covid-19_deaths_over_time_.png
+  notes: graphs/countries/Guinea_-_covid-19_deaths_over_time_.md
+  anchor: Guinea
+- title: Guinea - Covid-19 Deaths Over Time  With Logarithmic Scale
+  url: graphs/countries/Guinea_-_covid-19_deaths_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/Guinea_-_covid-19_deaths_over_time__with_logarithmic_scale.md
+  anchor: Guinea
+- title: Guinea - Covid-19 Total Cases And Deaths
+  url: graphs/countries/Guinea_-_covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/Guinea_-_covid-19_total_cases_and_deaths.md
+  anchor: Guinea
+- title: Guinea - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.png
+  notes: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.md
+  anchor: Guinea
 - title: Guyana - Covid-19 Cases Over Time 
   url: graphs/countries/Guyana_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Guyana_-_covid-19_cases_over_time_.md
@@ -3354,10 +3354,6 @@
   url: graphs/countries/Niger_-_covid-19_total_cases_and_deaths.png
   notes: graphs/countries/Niger_-_covid-19_total_cases_and_deaths.md
   anchor: Niger
-- title: Niger - New Covid-19 Daily Cases And Deaths
-  url: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.png
-  notes: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: Niger
 - title: Nigeria - Covid-19 Cases Over Time 
   url: graphs/countries/Nigeria_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Nigeria_-_covid-19_cases_over_time_.md
@@ -3382,30 +3378,10 @@
   url: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_deaths.md
   anchor: Nigeria
-- title: North Macedonia - Covid-19 Cases Over Time 
-  url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time_.png
-  notes: graphs/countries/North_Macedonia_-_covid-19_cases_over_time_.md
-  anchor: North Macedonia
-- title: North Macedonia - Covid-19 Cases Over Time  With Logarithmic Scale
-  url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/North_Macedonia_-_covid-19_cases_over_time__with_logarithmic_scale.md
-  anchor: North Macedonia
-- title: North Macedonia - Covid-19 Deaths Over Time 
-  url: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time_.png
-  notes: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time_.md
-  anchor: North Macedonia
-- title: North Macedonia - Covid-19 Deaths Over Time  With Logarithmic Scale
-  url: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time__with_logarithmic_scale.md
-  anchor: North Macedonia
-- title: North Macedonia - Covid-19 Total Cases And Deaths
-  url: graphs/countries/North_Macedonia_-_covid-19_total_cases_and_deaths.png
-  notes: graphs/countries/North_Macedonia_-_covid-19_total_cases_and_deaths.md
-  anchor: North Macedonia
-- title: North Macedonia - New Covid-19 Daily Cases And Deaths
-  url: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.png
-  notes: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: North Macedonia
+- title: Niger - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.png
+  notes: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.md
+  anchor: Niger
 - title: Northern Mariana Islands - Covid-19 Cases Over Time 
   url: graphs/countries/Northern_Mariana_Islands_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Northern_Mariana_Islands_-_covid-19_cases_over_time_.md
@@ -3430,6 +3406,30 @@
   url: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_deaths.md
   anchor: Northern Mariana Islands
+- title: North Macedonia - Covid-19 Cases Over Time 
+  url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time_.png
+  notes: graphs/countries/North_Macedonia_-_covid-19_cases_over_time_.md
+  anchor: North Macedonia
+- title: North Macedonia - Covid-19 Cases Over Time  With Logarithmic Scale
+  url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/North_Macedonia_-_covid-19_cases_over_time__with_logarithmic_scale.md
+  anchor: North Macedonia
+- title: North Macedonia - Covid-19 Deaths Over Time 
+  url: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time_.png
+  notes: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time_.md
+  anchor: North Macedonia
+- title: North Macedonia - Covid-19 Deaths Over Time  With Logarithmic Scale
+  url: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time__with_logarithmic_scale.md
+  anchor: North Macedonia
+- title: North Macedonia - Covid-19 Total Cases And Deaths
+  url: graphs/countries/North_Macedonia_-_covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/North_Macedonia_-_covid-19_total_cases_and_deaths.md
+  anchor: North Macedonia
+- title: North Macedonia - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.png
+  notes: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.md
+  anchor: North Macedonia
 - title: Norway - Covid-19 Cases Over Time 
   url: graphs/countries/Norway_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Norway_-_covid-19_cases_over_time_.md
@@ -4726,30 +4726,6 @@
   url: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_deaths.md
   anchor: United Republic of Tanzania
-- title: United States Virgin Islands - Covid-19 Cases Over Time 
-  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time_.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time_.md
-  anchor: United States Virgin Islands
-- title: United States Virgin Islands - Covid-19 Cases Over Time  With Logarithmic Scale
-  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time__with_logarithmic_scale.md
-  anchor: United States Virgin Islands
-- title: United States Virgin Islands - Covid-19 Deaths Over Time 
-  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time_.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time_.md
-  anchor: United States Virgin Islands
-- title: United States Virgin Islands - Covid-19 Deaths Over Time  With Logarithmic Scale
-  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time__with_logarithmic_scale.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time__with_logarithmic_scale.md
-  anchor: United States Virgin Islands
-- title: United States Virgin Islands - Covid-19 Total Cases And Deaths
-  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_total_cases_and_deaths.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_total_cases_and_deaths.md
-  anchor: United States Virgin Islands
-- title: United States Virgin Islands - New Covid-19 Daily Cases And Deaths
-  url: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
-  notes: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.md
-  anchor: United States Virgin Islands
 - title: United States Of America - Covid-19 Cases Over Time 
   url: graphs/countries/United_States_of_America_-_covid-19_cases_over_time_.png
   notes: graphs/countries/United_States_of_America_-_covid-19_cases_over_time_.md
@@ -4774,6 +4750,30 @@
   url: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_deaths.png
   notes: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_deaths.md
   anchor: United States of America
+- title: United States Virgin Islands - Covid-19 Cases Over Time 
+  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time_.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time_.md
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands - Covid-19 Cases Over Time  With Logarithmic Scale
+  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time__with_logarithmic_scale.md
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands - Covid-19 Deaths Over Time 
+  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time_.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time_.md
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands - Covid-19 Deaths Over Time  With Logarithmic Scale
+  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time__with_logarithmic_scale.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time__with_logarithmic_scale.md
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands - Covid-19 Total Cases And Deaths
+  url: graphs/countries/United_States_Virgin_Islands_-_covid-19_total_cases_and_deaths.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_covid-19_total_cases_and_deaths.md
+  anchor: United States Virgin Islands
+- title: United States Virgin Islands - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
+  notes: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.md
+  anchor: United States Virgin Islands
 - title: Uruguay - Covid-19 Cases Over Time 
   url: graphs/countries/Uruguay_-_covid-19_cases_over_time_.png
   notes: graphs/countries/Uruguay_-_covid-19_cases_over_time_.md

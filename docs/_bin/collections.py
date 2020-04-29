@@ -19,11 +19,11 @@ if __name__ == "__main__":
         print("  url: %s" % file)
 
         # notes: use the filename (no path, no suffix)
-        notes_file = file.with_suffix(".md")
-        print("  notes: %s" % notes_file)
+        #notes_file = file.with_suffix(".md")
+        #print("  notes: %s" % notes_file)
 
         # create a 'notes' file (if missing)
-        Path(notes_file).touch(exist_ok=True)
+        #Path(notes_file).touch(exist_ok=True)
 
         # if list of countries then add a country name
         if args.format == "countries":

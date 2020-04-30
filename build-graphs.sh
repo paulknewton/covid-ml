@@ -26,7 +26,7 @@ cd ..
 
 if [ "$1" = "--nogit" ]; then
   echo "Not adding to git. Exiting..."
-  exit 1
+  exit 0
 fi
 
 # commit to git

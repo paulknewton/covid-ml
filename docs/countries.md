@@ -6,13 +6,13 @@ title: Countries
 {% include graph_notes.md %}
 
 <ul>
-{% for graph in site.data.countries %}
-  <li><a href="#{{ graph.anchor }}">{{ graph.anchor }}</a></li>
+{% for country in site.data.countries %}
+  <li><a href="#{{ country.country }}">{{ country.country }}</a></li>
 {% endfor %}
 </ul>
 <hr>
 
-{% for graph in site.data.countries %}
-  <h1 id="{{ graph.anchor }}">{{ graph.title }}</h1>
+{% for graph in site.data.country_graphs %}
+  <h1 id="{{ graph.country }}">{{ graph.title }}</h1>
   <img src="{{ graph.url }}" />
 {% endfor %}

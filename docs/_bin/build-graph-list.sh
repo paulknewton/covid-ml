@@ -13,4 +13,4 @@ function build_yaml { # directory format output.yaml
 
 build_yaml graphs/totals standard _data/totals.yml
 build_yaml graphs/rates standard _data/rates.yml
-build_yaml graphs/countries countries _data/countries.yml
+build_yaml graphs/countries countries _data/country_graphs.yml

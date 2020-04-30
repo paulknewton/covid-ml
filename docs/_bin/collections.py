@@ -8,6 +8,8 @@ if __name__ == "__main__":
                         help='choose default YAML output or list of countries')
     args = parser.parse_args()
 
+    countries = set()  # set to prevent duplicates
+
     for file in sys.stdin:
         file = Path(file.strip())
         filename_no_suffix = file.stem
@@ -20,7 +22,11 @@ if __name__ == "__main__":
 
         # if list of countries then add a country name
         if args.format == "countries":
-            print("  anchor: %s" % filename_no_suffix[:filename_no_suffix.find("-") - 1:].replace("_", " "))
+            country = filename_no_suffix[:filename_no_suffix.find("-") - 1:].replace("_", " ")
+
+            # build up a set of unique countries
+            countries.add(country)
+            print("  country: %s" % country)
 
         # notes are not used for countries
         else:
@@ -31,6 +37,10 @@ if __name__ == "__main__":
             # create a 'notes' file (if missing)
             Path(notes_file).touch(exist_ok=True)
 
+    if args.format == "countries":
+        with open("_data/countries.yml", "w") as countries_yaml:
+            for c in sorted(countries):
+                countries_yaml.write("- country: %s\n" % c)
 
 
 

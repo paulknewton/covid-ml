@@ -8,7 +8,7 @@ PYTHON_EXE=python3
 
 function build_yaml { # directory format output.yaml
   echo "Processing `basename $1`..."
-  find $1 -name *.png | sort | $PYTHON_EXE $PYTHON_SCRIPT --format $2 > "$3"
+  find $1 -name "*.png" | sort | $PYTHON_EXE $PYTHON_SCRIPT --format $2 > "$3"
 }
 
 build_yaml graphs/totals standard _data/totals.yml

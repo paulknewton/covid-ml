@@ -1,14 +1,6 @@
 ---
 layout: home
-list_title: Blog Posts
----
-
-{% assign stat = site.data.statistics["cases"] %}
-**Worldwide cases: {{ stat.value }}**
-
-{% assign stat = site.data.statistics["deaths"] %}
-**Worldwide deaths: {{ stat.value }}**
-
+list_title: Data Science and COVID-19 Blog
 ---
 
 Welcome to the Data Science and COVID-19 project.
@@ -21,12 +13,24 @@ The code and supporting scripts are all hosted on the [COVID-ML github repositor
 
 ---
 
+## Headlines
+
+The number of officially recorded COVID-19 cases has now exceeded 3 million and the number of deaths over 200,000 worldwide.
+
+{% assign stat = site.data.statistics["cases"] %}
+**Worldwide cases: {{ stat.value }}**
+
+{% assign stat = site.data.statistics["deaths"] %}
+**Worldwide deaths: {{ stat.value }}**
+
+---
+
 ## COVID-19 Graph Repository
 
 Graphs and analyses relating to the COVID-19 pandemic are organised into categories to simplify navigation:
 
 ![bar-chart](https://img.icons8.com/cotton/64/000000/bar-chart--v2.png) | [Graphs showing cumulative statistics: total infections & deaths over time, top 20 hotpots, Case Fatality Risks etc](totals)
-![line-chart](https://img.icons8.com/cotton/64/000000/positive-dynamic.png) | [Graphs showing rates change in COVID-19 infections & mortality rates](rates)
+![line-chart](https://img.icons8.com/cotton/64/000000/positive-dynamic.png) | [Graphs showing the growth of the virus over time and infection/mortality rates](rates)
 ![countries](https://img.icons8.com/cotton/64/000000/flag-2.png) | [Country-specific graphs](countries)
 
 ---

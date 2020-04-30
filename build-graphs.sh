@@ -30,7 +30,7 @@ if [ "$1" = "--nogit" ]; then
 fi
 
 # commit to git
-git add docs/* covid.html
+git add covid.ipynb docs/* covid.html
 #git status
 git commit -m "Updated graphs"
 git push

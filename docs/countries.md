@@ -10,9 +10,10 @@ title: Countries
   <li><a href="#{{ country.country }}">{{ country.country }}</a></li>
 {% endfor %}
 </ul>
+
 <hr>
 
 {% for graph in site.data.country_graphs %}
-  <h1 id="{{ graph.country }}">{{ graph.title }}</h1>
-  <img src="{{ graph.url }}" />
+{% if graph.new_section %}<hr><h1 id="{{ graph.country }}">{{ graph.country }}</h1>{% endif %}
+<b>{{ graph.title }}</b><br><img src="{{ graph.url }}" />
 {% endfor %}

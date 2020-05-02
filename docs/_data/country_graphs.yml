@@ -790,6 +790,24 @@
 - title: Colombia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_deaths.png
   country: Colombia
+- title: Comoros - Covid-19 Cases Over Time
+  url: graphs/countries/Comoros_-_covid-19_cases_over_time.png
+  country: Comoros
+- title: Comoros - Covid-19 Cases Over Time With Logarithmic Scale
+  url: graphs/countries/Comoros_-_covid-19_cases_over_time_with_logarithmic_scale.png
+  country: Comoros
+- title: Comoros - Covid-19 Deaths Over Time
+  url: graphs/countries/Comoros_-_covid-19_deaths_over_time.png
+  country: Comoros
+- title: Comoros - Covid-19 Deaths Over Time With Logarithmic Scale
+  url: graphs/countries/Comoros_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Comoros
+- title: Comoros - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Comoros_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Comoros
+- title: Comoros - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Comoros_-_new_covid-19_daily_cases_and_deaths.png
+  country: Comoros
 - title: Congo - Covid-19 Cases Over Time
   url: graphs/countries/Congo_-_covid-19_cases_over_time.png
   country: Congo

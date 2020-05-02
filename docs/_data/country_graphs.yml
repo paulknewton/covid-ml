@@ -10,6 +10,9 @@
 - title: Afghanistan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Afghanistan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Afghanistan
+- title: Afghanistan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Afghanistan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Afghanistan
 - title: Afghanistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Afghanistan_-_new_covid-19_daily_cases_and_deaths.png
   country: Afghanistan
@@ -24,6 +27,9 @@
   country: Albania
 - title: Albania - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Albania_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Albania
+- title: Albania - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Albania_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Albania
 - title: Albania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Albania_-_new_covid-19_daily_cases_and_deaths.png
@@ -40,6 +46,9 @@
 - title: Algeria - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Algeria_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Algeria
+- title: Algeria - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Algeria_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Algeria
 - title: Algeria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Algeria_-_new_covid-19_daily_cases_and_deaths.png
   country: Algeria
@@ -54,6 +63,9 @@
   country: Andorra
 - title: Andorra - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Andorra_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Andorra
+- title: Andorra - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Andorra_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Andorra
 - title: Andorra - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Andorra_-_new_covid-19_daily_cases_and_deaths.png
@@ -70,6 +82,9 @@
 - title: Angola - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Angola_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Angola
+- title: Angola - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Angola_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Angola
 - title: Angola - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Angola_-_new_covid-19_daily_cases_and_deaths.png
   country: Angola
@@ -84,6 +99,9 @@
   country: Anguilla
 - title: Anguilla - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Anguilla_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Anguilla
+- title: Anguilla - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Anguilla_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Anguilla
 - title: Anguilla - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Anguilla_-_new_covid-19_daily_cases_and_deaths.png
@@ -100,6 +118,9 @@
 - title: Antigua And Barbuda - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Antigua_and_Barbuda_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Antigua and Barbuda
+- title: Antigua And Barbuda - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Antigua_and_Barbuda_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Antigua and Barbuda
 - title: Antigua And Barbuda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Antigua_and_Barbuda_-_new_covid-19_daily_cases_and_deaths.png
   country: Antigua and Barbuda
@@ -114,6 +135,9 @@
   country: Argentina
 - title: Argentina - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Argentina_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Argentina
+- title: Argentina - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Argentina_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Argentina
 - title: Argentina - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Argentina_-_new_covid-19_daily_cases_and_deaths.png
@@ -130,6 +154,9 @@
 - title: Armenia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Armenia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Armenia
+- title: Armenia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Armenia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Armenia
 - title: Armenia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Armenia_-_new_covid-19_daily_cases_and_deaths.png
   country: Armenia
@@ -144,6 +171,9 @@
   country: Aruba
 - title: Aruba - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Aruba_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Aruba
+- title: Aruba - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Aruba_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Aruba
 - title: Aruba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Aruba_-_new_covid-19_daily_cases_and_deaths.png
@@ -160,6 +190,9 @@
 - title: Australia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Australia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Australia
+- title: Australia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Australia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Australia
 - title: Australia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Australia_-_new_covid-19_daily_cases_and_deaths.png
   country: Australia
@@ -174,6 +207,9 @@
   country: Austria
 - title: Austria - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Austria_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Austria
+- title: Austria - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Austria_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Austria
 - title: Austria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Austria_-_new_covid-19_daily_cases_and_deaths.png
@@ -190,6 +226,9 @@
 - title: Azerbaijan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Azerbaijan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Azerbaijan
+- title: Azerbaijan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Azerbaijan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Azerbaijan
 - title: Azerbaijan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Azerbaijan_-_new_covid-19_daily_cases_and_deaths.png
   country: Azerbaijan
@@ -204,6 +243,9 @@
   country: Bahamas
 - title: Bahamas - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bahamas_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Bahamas
+- title: Bahamas - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bahamas_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Bahamas
 - title: Bahamas - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bahamas_-_new_covid-19_daily_cases_and_deaths.png
@@ -220,6 +262,9 @@
 - title: Bahrain - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bahrain_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Bahrain
+- title: Bahrain - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bahrain_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Bahrain
 - title: Bahrain - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bahrain_-_new_covid-19_daily_cases_and_deaths.png
   country: Bahrain
@@ -234,6 +279,9 @@
   country: Bangladesh
 - title: Bangladesh - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bangladesh_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Bangladesh
+- title: Bangladesh - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bangladesh_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Bangladesh
 - title: Bangladesh - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bangladesh_-_new_covid-19_daily_cases_and_deaths.png
@@ -250,6 +298,9 @@
 - title: Barbados - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Barbados_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Barbados
+- title: Barbados - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Barbados_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Barbados
 - title: Barbados - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Barbados_-_new_covid-19_daily_cases_and_deaths.png
   country: Barbados
@@ -264,6 +315,9 @@
   country: Belarus
 - title: Belarus - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Belarus_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Belarus
+- title: Belarus - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Belarus_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Belarus
 - title: Belarus - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belarus_-_new_covid-19_daily_cases_and_deaths.png
@@ -280,6 +334,9 @@
 - title: Belgium - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Belgium_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Belgium
+- title: Belgium - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Belgium_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Belgium
 - title: Belgium - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belgium_-_new_covid-19_daily_cases_and_deaths.png
   country: Belgium
@@ -294,6 +351,9 @@
   country: Belize
 - title: Belize - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Belize_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Belize
+- title: Belize - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Belize_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Belize
 - title: Belize - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Belize_-_new_covid-19_daily_cases_and_deaths.png
@@ -310,6 +370,9 @@
 - title: Benin - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Benin_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Benin
+- title: Benin - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Benin_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Benin
 - title: Benin - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Benin_-_new_covid-19_daily_cases_and_deaths.png
   country: Benin
@@ -324,6 +387,9 @@
   country: Bermuda
 - title: Bermuda - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bermuda_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Bermuda
+- title: Bermuda - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bermuda_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Bermuda
 - title: Bermuda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bermuda_-_new_covid-19_daily_cases_and_deaths.png
@@ -340,6 +406,9 @@
 - title: Bhutan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bhutan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Bhutan
+- title: Bhutan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bhutan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Bhutan
 - title: Bhutan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bhutan_-_new_covid-19_daily_cases_and_deaths.png
   country: Bhutan
@@ -354,6 +423,9 @@
   country: Bolivia
 - title: Bolivia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bolivia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Bolivia
+- title: Bolivia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bolivia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Bolivia
 - title: Bolivia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bolivia_-_new_covid-19_daily_cases_and_deaths.png
@@ -370,6 +442,9 @@
 - title: Bonaire, Saint Eustatius And Saba - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Bonaire, Saint Eustatius and Saba
+- title: Bonaire, Saint Eustatius And Saba - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Bonaire, Saint Eustatius and Saba
 - title: Bonaire, Saint Eustatius And Saba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_new_covid-19_daily_cases_and_deaths.png
   country: Bonaire, Saint Eustatius and Saba
@@ -384,6 +459,9 @@
   country: Bosnia and Herzegovina
 - title: Bosnia And Herzegovina - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bosnia_and_Herzegovina_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Bosnia and Herzegovina
+- title: Bosnia And Herzegovina - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bosnia_and_Herzegovina_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Bosnia and Herzegovina
 - title: Bosnia And Herzegovina - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bosnia_and_Herzegovina_-_new_covid-19_daily_cases_and_deaths.png
@@ -400,6 +478,9 @@
 - title: Botswana - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Botswana_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Botswana
+- title: Botswana - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Botswana_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Botswana
 - title: Botswana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Botswana_-_new_covid-19_daily_cases_and_deaths.png
   country: Botswana
@@ -414,6 +495,9 @@
   country: Brazil
 - title: Brazil - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Brazil_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Brazil
+- title: Brazil - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Brazil_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Brazil
 - title: Brazil - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Brazil_-_new_covid-19_daily_cases_and_deaths.png
@@ -430,6 +514,9 @@
 - title: British Virgin Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/British_Virgin_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: British Virgin Islands
+- title: British Virgin Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/British_Virgin_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: British Virgin Islands
 - title: British Virgin Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/British_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
   country: British Virgin Islands
@@ -444,6 +531,9 @@
   country: Brunei Darussalam
 - title: Brunei Darussalam - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Brunei_Darussalam_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Brunei Darussalam
+- title: Brunei Darussalam - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Brunei_Darussalam_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Brunei Darussalam
 - title: Brunei Darussalam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Brunei_Darussalam_-_new_covid-19_daily_cases_and_deaths.png
@@ -460,6 +550,9 @@
 - title: Bulgaria - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Bulgaria_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Bulgaria
+- title: Bulgaria - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Bulgaria_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Bulgaria
 - title: Bulgaria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Bulgaria_-_new_covid-19_daily_cases_and_deaths.png
   country: Bulgaria
@@ -474,6 +567,9 @@
   country: Burkina Faso
 - title: Burkina Faso - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Burkina_Faso_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Burkina Faso
+- title: Burkina Faso - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Burkina_Faso_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Burkina Faso
 - title: Burkina Faso - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Burkina_Faso_-_new_covid-19_daily_cases_and_deaths.png
@@ -490,6 +586,9 @@
 - title: Burundi - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Burundi_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Burundi
+- title: Burundi - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Burundi_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Burundi
 - title: Burundi - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Burundi_-_new_covid-19_daily_cases_and_deaths.png
   country: Burundi
@@ -504,6 +603,9 @@
   country: Cambodia
 - title: Cambodia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cambodia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Cambodia
+- title: Cambodia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cambodia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Cambodia
 - title: Cambodia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cambodia_-_new_covid-19_daily_cases_and_deaths.png
@@ -520,6 +622,9 @@
 - title: Cameroon - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cameroon_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cameroon
+- title: Cameroon - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cameroon_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cameroon
 - title: Cameroon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cameroon_-_new_covid-19_daily_cases_and_deaths.png
   country: Cameroon
@@ -534,6 +639,9 @@
   country: Canada
 - title: Canada - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Canada_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Canada
+- title: Canada - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Canada_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Canada
 - title: Canada - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Canada_-_new_covid-19_daily_cases_and_deaths.png
@@ -550,6 +658,9 @@
 - title: Cape Verde - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cape_Verde_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cape Verde
+- title: Cape Verde - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cape_Verde_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cape Verde
 - title: Cape Verde - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cape_Verde_-_new_covid-19_daily_cases_and_deaths.png
   country: Cape Verde
@@ -564,6 +675,9 @@
   country: Cases on an international conveyance Japan
 - title: Cases On An International Conveyance Japan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Cases on an international conveyance Japan
+- title: Cases On An International Conveyance Japan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Cases on an international conveyance Japan
 - title: Cases On An International Conveyance Japan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_new_covid-19_daily_cases_and_deaths.png
@@ -580,6 +694,9 @@
 - title: Cayman Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cayman_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cayman Islands
+- title: Cayman Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cayman_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cayman Islands
 - title: Cayman Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cayman_Islands_-_new_covid-19_daily_cases_and_deaths.png
   country: Cayman Islands
@@ -594,6 +711,9 @@
   country: Central African Republic
 - title: Central African Republic - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Central_African_Republic_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Central African Republic
+- title: Central African Republic - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Central_African_Republic_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Central African Republic
 - title: Central African Republic - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Central_African_Republic_-_new_covid-19_daily_cases_and_deaths.png
@@ -610,6 +730,9 @@
 - title: Chad - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Chad_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Chad
+- title: Chad - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Chad_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Chad
 - title: Chad - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Chad_-_new_covid-19_daily_cases_and_deaths.png
   country: Chad
@@ -624,6 +747,9 @@
   country: Chile
 - title: Chile - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Chile_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Chile
+- title: Chile - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Chile_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Chile
 - title: Chile - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Chile_-_new_covid-19_daily_cases_and_deaths.png
@@ -640,6 +766,9 @@
 - title: China - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/China_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: China
+- title: China - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/China_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: China
 - title: China - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/China_-_new_covid-19_daily_cases_and_deaths.png
   country: China
@@ -654,6 +783,9 @@
   country: Colombia
 - title: Colombia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Colombia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Colombia
+- title: Colombia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Colombia
 - title: Colombia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_deaths.png
@@ -670,6 +802,9 @@
 - title: Congo - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Congo_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Congo
+- title: Congo - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Congo_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Congo
 - title: Congo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Congo_-_new_covid-19_daily_cases_and_deaths.png
   country: Congo
@@ -684,6 +819,9 @@
   country: Costa Rica
 - title: Costa Rica - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Costa_Rica_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Costa Rica
+- title: Costa Rica - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Costa_Rica_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Costa Rica
 - title: Costa Rica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Costa_Rica_-_new_covid-19_daily_cases_and_deaths.png
@@ -700,6 +838,9 @@
 - title: Cote Divoire - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cote_dIvoire_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cote dIvoire
+- title: Cote Divoire - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cote_dIvoire_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cote dIvoire
 - title: Cote Divoire - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cote_dIvoire_-_new_covid-19_daily_cases_and_deaths.png
   country: Cote dIvoire
@@ -714,6 +855,9 @@
   country: Croatia
 - title: Croatia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Croatia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Croatia
+- title: Croatia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Croatia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Croatia
 - title: Croatia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Croatia_-_new_covid-19_daily_cases_and_deaths.png
@@ -730,6 +874,9 @@
 - title: Cuba - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cuba_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cuba
+- title: Cuba - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cuba_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cuba
 - title: Cuba - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cuba_-_new_covid-19_daily_cases_and_deaths.png
   country: Cuba
@@ -744,6 +891,9 @@
   country: CuraÃ§ao
 - title: Curaã§Ao - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/CuraÃ§ao_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: CuraÃ§ao
+- title: Curaã§Ao - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/CuraÃ§ao_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: CuraÃ§ao
 - title: Curaã§Ao - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/CuraÃ§ao_-_new_covid-19_daily_cases_and_deaths.png
@@ -760,6 +910,9 @@
 - title: Cyprus - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Cyprus_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Cyprus
+- title: Cyprus - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Cyprus_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Cyprus
 - title: Cyprus - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Cyprus_-_new_covid-19_daily_cases_and_deaths.png
   country: Cyprus
@@ -774,6 +927,9 @@
   country: Czechia
 - title: Czechia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Czechia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Czechia
+- title: Czechia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Czechia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Czechia
 - title: Czechia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Czechia_-_new_covid-19_daily_cases_and_deaths.png
@@ -790,6 +946,9 @@
 - title: Democratic Republic Of The Congo - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Democratic_Republic_of_the_Congo_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Democratic Republic of the Congo
+- title: Democratic Republic Of The Congo - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Democratic_Republic_of_the_Congo_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Democratic Republic of the Congo
 - title: Democratic Republic Of The Congo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Democratic_Republic_of_the_Congo_-_new_covid-19_daily_cases_and_deaths.png
   country: Democratic Republic of the Congo
@@ -804,6 +963,9 @@
   country: Denmark
 - title: Denmark - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Denmark_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Denmark
+- title: Denmark - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Denmark_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Denmark
 - title: Denmark - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Denmark_-_new_covid-19_daily_cases_and_deaths.png
@@ -820,6 +982,9 @@
 - title: Djibouti - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Djibouti_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Djibouti
+- title: Djibouti - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Djibouti_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Djibouti
 - title: Djibouti - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Djibouti_-_new_covid-19_daily_cases_and_deaths.png
   country: Djibouti
@@ -834,6 +999,9 @@
   country: Dominica
 - title: Dominica - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Dominica_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Dominica
+- title: Dominica - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Dominica_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Dominica
 - title: Dominica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Dominica_-_new_covid-19_daily_cases_and_deaths.png
@@ -850,6 +1018,9 @@
 - title: Dominican Republic - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Dominican_Republic_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Dominican Republic
+- title: Dominican Republic - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Dominican_Republic_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Dominican Republic
 - title: Dominican Republic - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Dominican_Republic_-_new_covid-19_daily_cases_and_deaths.png
   country: Dominican Republic
@@ -864,6 +1035,9 @@
   country: Ecuador
 - title: Ecuador - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Ecuador_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Ecuador
+- title: Ecuador - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Ecuador_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Ecuador
 - title: Ecuador - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ecuador_-_new_covid-19_daily_cases_and_deaths.png
@@ -880,6 +1054,9 @@
 - title: Egypt - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Egypt_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Egypt
+- title: Egypt - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Egypt_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Egypt
 - title: Egypt - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Egypt_-_new_covid-19_daily_cases_and_deaths.png
   country: Egypt
@@ -894,6 +1071,9 @@
   country: El Salvador
 - title: El Salvador - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/El_Salvador_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: El Salvador
+- title: El Salvador - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/El_Salvador_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: El Salvador
 - title: El Salvador - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/El_Salvador_-_new_covid-19_daily_cases_and_deaths.png
@@ -910,6 +1090,9 @@
 - title: Equatorial Guinea - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Equatorial_Guinea_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Equatorial Guinea
+- title: Equatorial Guinea - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Equatorial_Guinea_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Equatorial Guinea
 - title: Equatorial Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Equatorial_Guinea_-_new_covid-19_daily_cases_and_deaths.png
   country: Equatorial Guinea
@@ -924,6 +1107,9 @@
   country: Eritrea
 - title: Eritrea - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Eritrea_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Eritrea
+- title: Eritrea - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Eritrea_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Eritrea
 - title: Eritrea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Eritrea_-_new_covid-19_daily_cases_and_deaths.png
@@ -940,6 +1126,9 @@
 - title: Estonia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Estonia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Estonia
+- title: Estonia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Estonia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Estonia
 - title: Estonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Estonia_-_new_covid-19_daily_cases_and_deaths.png
   country: Estonia
@@ -954,6 +1143,9 @@
   country: Eswatini
 - title: Eswatini - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Eswatini_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Eswatini
+- title: Eswatini - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Eswatini_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Eswatini
 - title: Eswatini - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Eswatini_-_new_covid-19_daily_cases_and_deaths.png
@@ -970,6 +1162,9 @@
 - title: Ethiopia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Ethiopia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Ethiopia
+- title: Ethiopia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Ethiopia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Ethiopia
 - title: Ethiopia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ethiopia_-_new_covid-19_daily_cases_and_deaths.png
   country: Ethiopia
@@ -984,6 +1179,9 @@
   country: Falkland Islands (Malvinas)
 - title: Falkland Islands (Malvinas) - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Falkland_Islands_(Malvinas)_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Falkland Islands (Malvinas)
+- title: Falkland Islands (Malvinas) - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Falkland_Islands_(Malvinas)_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Falkland Islands (Malvinas)
 - title: Falkland Islands (Malvinas) - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Falkland_Islands_(Malvinas)_-_new_covid-19_daily_cases_and_deaths.png
@@ -1000,6 +1198,9 @@
 - title: Faroe Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Faroe_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Faroe Islands
+- title: Faroe Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Faroe_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Faroe Islands
 - title: Faroe Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Faroe_Islands_-_new_covid-19_daily_cases_and_deaths.png
   country: Faroe Islands
@@ -1014,6 +1215,9 @@
   country: Fiji
 - title: Fiji - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Fiji_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Fiji
+- title: Fiji - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Fiji_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Fiji
 - title: Fiji - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Fiji_-_new_covid-19_daily_cases_and_deaths.png
@@ -1030,6 +1234,9 @@
 - title: Finland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Finland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Finland
+- title: Finland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Finland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Finland
 - title: Finland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Finland_-_new_covid-19_daily_cases_and_deaths.png
   country: Finland
@@ -1044,6 +1251,9 @@
   country: France
 - title: France - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/France_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: France
+- title: France - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/France_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: France
 - title: France - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/France_-_new_covid-19_daily_cases_and_deaths.png
@@ -1060,6 +1270,9 @@
 - title: French Polynesia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/French_Polynesia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: French Polynesia
+- title: French Polynesia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/French_Polynesia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: French Polynesia
 - title: French Polynesia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/French_Polynesia_-_new_covid-19_daily_cases_and_deaths.png
   country: French Polynesia
@@ -1074,6 +1287,9 @@
   country: Gabon
 - title: Gabon - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Gabon_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Gabon
+- title: Gabon - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Gabon_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Gabon
 - title: Gabon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gabon_-_new_covid-19_daily_cases_and_deaths.png
@@ -1090,6 +1306,9 @@
 - title: Gambia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Gambia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Gambia
+- title: Gambia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Gambia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Gambia
 - title: Gambia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gambia_-_new_covid-19_daily_cases_and_deaths.png
   country: Gambia
@@ -1104,6 +1323,9 @@
   country: Georgia
 - title: Georgia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Georgia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Georgia
+- title: Georgia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Georgia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Georgia
 - title: Georgia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Georgia_-_new_covid-19_daily_cases_and_deaths.png
@@ -1120,6 +1342,9 @@
 - title: Germany - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Germany_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Germany
+- title: Germany - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Germany_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Germany
 - title: Germany - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Germany_-_new_covid-19_daily_cases_and_deaths.png
   country: Germany
@@ -1134,6 +1359,9 @@
   country: Ghana
 - title: Ghana - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Ghana_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Ghana
+- title: Ghana - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Ghana_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Ghana
 - title: Ghana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ghana_-_new_covid-19_daily_cases_and_deaths.png
@@ -1150,6 +1378,9 @@
 - title: Gibraltar - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Gibraltar_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Gibraltar
+- title: Gibraltar - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Gibraltar_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Gibraltar
 - title: Gibraltar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Gibraltar_-_new_covid-19_daily_cases_and_deaths.png
   country: Gibraltar
@@ -1164,6 +1395,9 @@
   country: Greece
 - title: Greece - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Greece_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Greece
+- title: Greece - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Greece_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Greece
 - title: Greece - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Greece_-_new_covid-19_daily_cases_and_deaths.png
@@ -1180,6 +1414,9 @@
 - title: Greenland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Greenland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Greenland
+- title: Greenland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Greenland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Greenland
 - title: Greenland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Greenland_-_new_covid-19_daily_cases_and_deaths.png
   country: Greenland
@@ -1194,6 +1431,9 @@
   country: Grenada
 - title: Grenada - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Grenada_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Grenada
+- title: Grenada - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Grenada_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Grenada
 - title: Grenada - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Grenada_-_new_covid-19_daily_cases_and_deaths.png
@@ -1210,6 +1450,9 @@
 - title: Guam - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guam_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Guam
+- title: Guam - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guam_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Guam
 - title: Guam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guam_-_new_covid-19_daily_cases_and_deaths.png
   country: Guam
@@ -1224,6 +1467,9 @@
   country: Guatemala
 - title: Guatemala - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guatemala_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Guatemala
+- title: Guatemala - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guatemala_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Guatemala
 - title: Guatemala - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guatemala_-_new_covid-19_daily_cases_and_deaths.png
@@ -1240,6 +1486,9 @@
 - title: Guernsey - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guernsey_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Guernsey
+- title: Guernsey - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Guernsey
 - title: Guernsey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guernsey_-_new_covid-19_daily_cases_and_deaths.png
   country: Guernsey
@@ -1254,6 +1503,9 @@
   country: Guinea
 - title: Guinea - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guinea_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Guinea
+- title: Guinea - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Guinea
 - title: Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guinea_-_new_covid-19_daily_cases_and_deaths.png
@@ -1270,6 +1522,9 @@
 - title: Guinea Bissau - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guinea_Bissau_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Guinea Bissau
+- title: Guinea Bissau - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Guinea Bissau
 - title: Guinea Bissau - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guinea_Bissau_-_new_covid-19_daily_cases_and_deaths.png
   country: Guinea Bissau
@@ -1284,6 +1539,9 @@
   country: Guyana
 - title: Guyana - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Guyana_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Guyana
+- title: Guyana - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Guyana_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Guyana
 - title: Guyana - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Guyana_-_new_covid-19_daily_cases_and_deaths.png
@@ -1300,6 +1558,9 @@
 - title: Haiti - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Haiti_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Haiti
+- title: Haiti - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Haiti_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Haiti
 - title: Haiti - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Haiti_-_new_covid-19_daily_cases_and_deaths.png
   country: Haiti
@@ -1314,6 +1575,9 @@
   country: Holy See
 - title: Holy See - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Holy_See_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Holy See
+- title: Holy See - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Holy_See_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Holy See
 - title: Holy See - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Holy_See_-_new_covid-19_daily_cases_and_deaths.png
@@ -1330,6 +1594,9 @@
 - title: Honduras - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Honduras_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Honduras
+- title: Honduras - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Honduras_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Honduras
 - title: Honduras - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Honduras_-_new_covid-19_daily_cases_and_deaths.png
   country: Honduras
@@ -1344,6 +1611,9 @@
   country: Hungary
 - title: Hungary - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Hungary_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Hungary
+- title: Hungary - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Hungary_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Hungary
 - title: Hungary - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Hungary_-_new_covid-19_daily_cases_and_deaths.png
@@ -1360,6 +1630,9 @@
 - title: Iceland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Iceland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Iceland
+- title: Iceland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Iceland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Iceland
 - title: Iceland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iceland_-_new_covid-19_daily_cases_and_deaths.png
   country: Iceland
@@ -1374,6 +1647,9 @@
   country: India
 - title: India - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/India_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: India
+- title: India - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/India_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: India
 - title: India - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/India_-_new_covid-19_daily_cases_and_deaths.png
@@ -1390,6 +1666,9 @@
 - title: Indonesia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Indonesia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Indonesia
+- title: Indonesia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Indonesia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Indonesia
 - title: Indonesia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Indonesia_-_new_covid-19_daily_cases_and_deaths.png
   country: Indonesia
@@ -1404,6 +1683,9 @@
   country: Iran
 - title: Iran - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Iran_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Iran
+- title: Iran - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Iran_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Iran
 - title: Iran - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iran_-_new_covid-19_daily_cases_and_deaths.png
@@ -1420,6 +1702,9 @@
 - title: Iraq - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Iraq_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Iraq
+- title: Iraq - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Iraq_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Iraq
 - title: Iraq - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Iraq_-_new_covid-19_daily_cases_and_deaths.png
   country: Iraq
@@ -1434,6 +1719,9 @@
   country: Ireland
 - title: Ireland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Ireland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Ireland
+- title: Ireland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Ireland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Ireland
 - title: Ireland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ireland_-_new_covid-19_daily_cases_and_deaths.png
@@ -1450,6 +1738,9 @@
 - title: Isle Of Man - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Isle_of_Man_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Isle of Man
+- title: Isle Of Man - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Isle_of_Man_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Isle of Man
 - title: Isle Of Man - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Isle_of_Man_-_new_covid-19_daily_cases_and_deaths.png
   country: Isle of Man
@@ -1464,6 +1755,9 @@
   country: Israel
 - title: Israel - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Israel_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Israel
+- title: Israel - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Israel_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Israel
 - title: Israel - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Israel_-_new_covid-19_daily_cases_and_deaths.png
@@ -1480,6 +1774,9 @@
 - title: Italy - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Italy_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Italy
+- title: Italy - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Italy_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Italy
 - title: Italy - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Italy_-_new_covid-19_daily_cases_and_deaths.png
   country: Italy
@@ -1494,6 +1791,9 @@
   country: Jamaica
 - title: Jamaica - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Jamaica_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Jamaica
+- title: Jamaica - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Jamaica_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Jamaica
 - title: Jamaica - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jamaica_-_new_covid-19_daily_cases_and_deaths.png
@@ -1510,6 +1810,9 @@
 - title: Japan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Japan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Japan
+- title: Japan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Japan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Japan
 - title: Japan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Japan_-_new_covid-19_daily_cases_and_deaths.png
   country: Japan
@@ -1524,6 +1827,9 @@
   country: Jersey
 - title: Jersey - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Jersey_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Jersey
+- title: Jersey - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Jersey_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Jersey
 - title: Jersey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jersey_-_new_covid-19_daily_cases_and_deaths.png
@@ -1540,6 +1846,9 @@
 - title: Jordan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Jordan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Jordan
+- title: Jordan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Jordan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Jordan
 - title: Jordan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Jordan_-_new_covid-19_daily_cases_and_deaths.png
   country: Jordan
@@ -1554,6 +1863,9 @@
   country: Kazakhstan
 - title: Kazakhstan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Kazakhstan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Kazakhstan
+- title: Kazakhstan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Kazakhstan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Kazakhstan
 - title: Kazakhstan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kazakhstan_-_new_covid-19_daily_cases_and_deaths.png
@@ -1570,6 +1882,9 @@
 - title: Kenya - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Kenya_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Kenya
+- title: Kenya - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Kenya_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Kenya
 - title: Kenya - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kenya_-_new_covid-19_daily_cases_and_deaths.png
   country: Kenya
@@ -1584,6 +1899,9 @@
   country: Kosovo
 - title: Kosovo - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Kosovo_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Kosovo
+- title: Kosovo - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Kosovo_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Kosovo
 - title: Kosovo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kosovo_-_new_covid-19_daily_cases_and_deaths.png
@@ -1600,6 +1918,9 @@
 - title: Kuwait - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Kuwait_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Kuwait
+- title: Kuwait - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Kuwait_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Kuwait
 - title: Kuwait - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kuwait_-_new_covid-19_daily_cases_and_deaths.png
   country: Kuwait
@@ -1614,6 +1935,9 @@
   country: Kyrgyzstan
 - title: Kyrgyzstan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Kyrgyzstan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Kyrgyzstan
+- title: Kyrgyzstan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Kyrgyzstan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Kyrgyzstan
 - title: Kyrgyzstan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Kyrgyzstan_-_new_covid-19_daily_cases_and_deaths.png
@@ -1630,6 +1954,9 @@
 - title: Laos - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Laos_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Laos
+- title: Laos - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Laos_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Laos
 - title: Laos - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Laos_-_new_covid-19_daily_cases_and_deaths.png
   country: Laos
@@ -1644,6 +1971,9 @@
   country: Latvia
 - title: Latvia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Latvia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Latvia
+- title: Latvia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Latvia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Latvia
 - title: Latvia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Latvia_-_new_covid-19_daily_cases_and_deaths.png
@@ -1660,6 +1990,9 @@
 - title: Lebanon - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Lebanon_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Lebanon
+- title: Lebanon - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Lebanon_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Lebanon
 - title: Lebanon - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Lebanon_-_new_covid-19_daily_cases_and_deaths.png
   country: Lebanon
@@ -1674,6 +2007,9 @@
   country: Liberia
 - title: Liberia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Liberia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Liberia
+- title: Liberia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Liberia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Liberia
 - title: Liberia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Liberia_-_new_covid-19_daily_cases_and_deaths.png
@@ -1690,6 +2026,9 @@
 - title: Libya - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Libya_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Libya
+- title: Libya - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Libya_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Libya
 - title: Libya - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Libya_-_new_covid-19_daily_cases_and_deaths.png
   country: Libya
@@ -1704,6 +2043,9 @@
   country: Liechtenstein
 - title: Liechtenstein - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Liechtenstein_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Liechtenstein
+- title: Liechtenstein - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Liechtenstein_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Liechtenstein
 - title: Liechtenstein - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Liechtenstein_-_new_covid-19_daily_cases_and_deaths.png
@@ -1720,6 +2062,9 @@
 - title: Lithuania - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Lithuania_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Lithuania
+- title: Lithuania - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Lithuania_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Lithuania
 - title: Lithuania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Lithuania_-_new_covid-19_daily_cases_and_deaths.png
   country: Lithuania
@@ -1734,6 +2079,9 @@
   country: Luxembourg
 - title: Luxembourg - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Luxembourg_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Luxembourg
+- title: Luxembourg - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Luxembourg_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Luxembourg
 - title: Luxembourg - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Luxembourg_-_new_covid-19_daily_cases_and_deaths.png
@@ -1750,6 +2098,9 @@
 - title: Madagascar - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Madagascar_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Madagascar
+- title: Madagascar - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Madagascar_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Madagascar
 - title: Madagascar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Madagascar_-_new_covid-19_daily_cases_and_deaths.png
   country: Madagascar
@@ -1764,6 +2115,9 @@
   country: Malawi
 - title: Malawi - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Malawi_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Malawi
+- title: Malawi - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Malawi_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Malawi
 - title: Malawi - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malawi_-_new_covid-19_daily_cases_and_deaths.png
@@ -1780,6 +2134,9 @@
 - title: Malaysia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Malaysia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Malaysia
+- title: Malaysia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Malaysia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Malaysia
 - title: Malaysia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malaysia_-_new_covid-19_daily_cases_and_deaths.png
   country: Malaysia
@@ -1794,6 +2151,9 @@
   country: Maldives
 - title: Maldives - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Maldives_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Maldives
+- title: Maldives - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Maldives_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Maldives
 - title: Maldives - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Maldives_-_new_covid-19_daily_cases_and_deaths.png
@@ -1810,6 +2170,9 @@
 - title: Mali - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mali_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Mali
+- title: Mali - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mali_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Mali
 - title: Mali - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mali_-_new_covid-19_daily_cases_and_deaths.png
   country: Mali
@@ -1824,6 +2187,9 @@
   country: Malta
 - title: Malta - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Malta_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Malta
+- title: Malta - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Malta_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Malta
 - title: Malta - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Malta_-_new_covid-19_daily_cases_and_deaths.png
@@ -1840,6 +2206,9 @@
 - title: Mauritania - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mauritania_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Mauritania
+- title: Mauritania - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mauritania_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Mauritania
 - title: Mauritania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mauritania_-_new_covid-19_daily_cases_and_deaths.png
   country: Mauritania
@@ -1854,6 +2223,9 @@
   country: Mauritius
 - title: Mauritius - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mauritius_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Mauritius
+- title: Mauritius - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mauritius_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Mauritius
 - title: Mauritius - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mauritius_-_new_covid-19_daily_cases_and_deaths.png
@@ -1870,6 +2242,9 @@
 - title: Mexico - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mexico_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Mexico
+- title: Mexico - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mexico_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Mexico
 - title: Mexico - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mexico_-_new_covid-19_daily_cases_and_deaths.png
   country: Mexico
@@ -1884,6 +2259,9 @@
   country: Moldova
 - title: Moldova - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Moldova_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Moldova
+- title: Moldova - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Moldova_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Moldova
 - title: Moldova - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Moldova_-_new_covid-19_daily_cases_and_deaths.png
@@ -1900,6 +2278,9 @@
 - title: Monaco - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Monaco_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Monaco
+- title: Monaco - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Monaco_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Monaco
 - title: Monaco - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Monaco_-_new_covid-19_daily_cases_and_deaths.png
   country: Monaco
@@ -1914,6 +2295,9 @@
   country: Mongolia
 - title: Mongolia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mongolia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Mongolia
+- title: Mongolia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mongolia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Mongolia
 - title: Mongolia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mongolia_-_new_covid-19_daily_cases_and_deaths.png
@@ -1930,6 +2314,9 @@
 - title: Montenegro - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Montenegro_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Montenegro
+- title: Montenegro - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Montenegro_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Montenegro
 - title: Montenegro - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Montenegro_-_new_covid-19_daily_cases_and_deaths.png
   country: Montenegro
@@ -1944,6 +2331,9 @@
   country: Montserrat
 - title: Montserrat - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Montserrat_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Montserrat
+- title: Montserrat - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Montserrat_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Montserrat
 - title: Montserrat - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Montserrat_-_new_covid-19_daily_cases_and_deaths.png
@@ -1960,6 +2350,9 @@
 - title: Morocco - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Morocco_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Morocco
+- title: Morocco - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Morocco_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Morocco
 - title: Morocco - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Morocco_-_new_covid-19_daily_cases_and_deaths.png
   country: Morocco
@@ -1974,6 +2367,9 @@
   country: Mozambique
 - title: Mozambique - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Mozambique_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Mozambique
+- title: Mozambique - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Mozambique_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Mozambique
 - title: Mozambique - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Mozambique_-_new_covid-19_daily_cases_and_deaths.png
@@ -1990,6 +2386,9 @@
 - title: Myanmar - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Myanmar_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Myanmar
+- title: Myanmar - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Myanmar_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Myanmar
 - title: Myanmar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Myanmar_-_new_covid-19_daily_cases_and_deaths.png
   country: Myanmar
@@ -2004,6 +2403,9 @@
   country: Namibia
 - title: Namibia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Namibia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Namibia
+- title: Namibia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Namibia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Namibia
 - title: Namibia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Namibia_-_new_covid-19_daily_cases_and_deaths.png
@@ -2020,6 +2422,9 @@
 - title: Nepal - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Nepal_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Nepal
+- title: Nepal - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Nepal_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Nepal
 - title: Nepal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nepal_-_new_covid-19_daily_cases_and_deaths.png
   country: Nepal
@@ -2034,6 +2439,9 @@
   country: Netherlands
 - title: Netherlands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Netherlands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Netherlands
+- title: Netherlands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Netherlands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Netherlands
 - title: Netherlands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Netherlands_-_new_covid-19_daily_cases_and_deaths.png
@@ -2050,6 +2458,9 @@
 - title: New Caledonia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/New_Caledonia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: New Caledonia
+- title: New Caledonia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/New_Caledonia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: New Caledonia
 - title: New Caledonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/New_Caledonia_-_new_covid-19_daily_cases_and_deaths.png
   country: New Caledonia
@@ -2064,6 +2475,9 @@
   country: New Zealand
 - title: New Zealand - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/New_Zealand_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: New Zealand
+- title: New Zealand - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/New_Zealand_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: New Zealand
 - title: New Zealand - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/New_Zealand_-_new_covid-19_daily_cases_and_deaths.png
@@ -2080,6 +2494,9 @@
 - title: Nicaragua - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Nicaragua_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Nicaragua
+- title: Nicaragua - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Nicaragua_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Nicaragua
 - title: Nicaragua - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nicaragua_-_new_covid-19_daily_cases_and_deaths.png
   country: Nicaragua
@@ -2094,6 +2511,9 @@
   country: Niger
 - title: Niger - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Niger_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Niger
+- title: Niger - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Niger_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Niger
 - title: Niger - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Niger_-_new_covid-19_daily_cases_and_deaths.png
@@ -2110,6 +2530,9 @@
 - title: Nigeria - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Nigeria_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Nigeria
+- title: Nigeria - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Nigeria
 - title: Nigeria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Nigeria_-_new_covid-19_daily_cases_and_deaths.png
   country: Nigeria
@@ -2124,6 +2547,9 @@
   country: North Macedonia
 - title: North Macedonia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/North_Macedonia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: North Macedonia
+- title: North Macedonia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: North Macedonia
 - title: North Macedonia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/North_Macedonia_-_new_covid-19_daily_cases_and_deaths.png
@@ -2140,6 +2566,9 @@
 - title: Northern Mariana Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Northern_Mariana_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Northern Mariana Islands
+- title: Northern Mariana Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Northern Mariana Islands
 - title: Northern Mariana Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Northern_Mariana_Islands_-_new_covid-19_daily_cases_and_deaths.png
   country: Northern Mariana Islands
@@ -2154,6 +2583,9 @@
   country: Norway
 - title: Norway - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Norway_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Norway
+- title: Norway - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Norway_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Norway
 - title: Norway - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Norway_-_new_covid-19_daily_cases_and_deaths.png
@@ -2170,6 +2602,9 @@
 - title: Oman - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Oman_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Oman
+- title: Oman - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Oman_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Oman
 - title: Oman - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Oman_-_new_covid-19_daily_cases_and_deaths.png
   country: Oman
@@ -2184,6 +2619,9 @@
   country: Pakistan
 - title: Pakistan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Pakistan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Pakistan
+- title: Pakistan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Pakistan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Pakistan
 - title: Pakistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Pakistan_-_new_covid-19_daily_cases_and_deaths.png
@@ -2200,6 +2638,9 @@
 - title: Palestine - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Palestine_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Palestine
+- title: Palestine - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Palestine_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Palestine
 - title: Palestine - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Palestine_-_new_covid-19_daily_cases_and_deaths.png
   country: Palestine
@@ -2214,6 +2655,9 @@
   country: Panama
 - title: Panama - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Panama_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Panama
+- title: Panama - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Panama_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Panama
 - title: Panama - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Panama_-_new_covid-19_daily_cases_and_deaths.png
@@ -2230,6 +2674,9 @@
 - title: Papua New Guinea - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Papua_New_Guinea_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Papua New Guinea
+- title: Papua New Guinea - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Papua_New_Guinea_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Papua New Guinea
 - title: Papua New Guinea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Papua_New_Guinea_-_new_covid-19_daily_cases_and_deaths.png
   country: Papua New Guinea
@@ -2244,6 +2691,9 @@
   country: Paraguay
 - title: Paraguay - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Paraguay_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Paraguay
+- title: Paraguay - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Paraguay_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Paraguay
 - title: Paraguay - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Paraguay_-_new_covid-19_daily_cases_and_deaths.png
@@ -2260,6 +2710,9 @@
 - title: Peru - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Peru_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Peru
+- title: Peru - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Peru_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Peru
 - title: Peru - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Peru_-_new_covid-19_daily_cases_and_deaths.png
   country: Peru
@@ -2274,6 +2727,9 @@
   country: Philippines
 - title: Philippines - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Philippines_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Philippines
+- title: Philippines - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Philippines_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Philippines
 - title: Philippines - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Philippines_-_new_covid-19_daily_cases_and_deaths.png
@@ -2290,6 +2746,9 @@
 - title: Poland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Poland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Poland
+- title: Poland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Poland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Poland
 - title: Poland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Poland_-_new_covid-19_daily_cases_and_deaths.png
   country: Poland
@@ -2304,6 +2763,9 @@
   country: Portugal
 - title: Portugal - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Portugal_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Portugal
+- title: Portugal - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Portugal_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Portugal
 - title: Portugal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Portugal_-_new_covid-19_daily_cases_and_deaths.png
@@ -2320,6 +2782,9 @@
 - title: Puerto Rico - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Puerto_Rico_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Puerto Rico
+- title: Puerto Rico - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Puerto_Rico_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Puerto Rico
 - title: Puerto Rico - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Puerto_Rico_-_new_covid-19_daily_cases_and_deaths.png
   country: Puerto Rico
@@ -2334,6 +2799,9 @@
   country: Qatar
 - title: Qatar - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Qatar_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Qatar
+- title: Qatar - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Qatar_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Qatar
 - title: Qatar - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Qatar_-_new_covid-19_daily_cases_and_deaths.png
@@ -2350,6 +2818,9 @@
 - title: Romania - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Romania_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Romania
+- title: Romania - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Romania_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Romania
 - title: Romania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Romania_-_new_covid-19_daily_cases_and_deaths.png
   country: Romania
@@ -2364,6 +2835,9 @@
   country: Russia
 - title: Russia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Russia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Russia
+- title: Russia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Russia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Russia
 - title: Russia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Russia_-_new_covid-19_daily_cases_and_deaths.png
@@ -2380,6 +2854,9 @@
 - title: Rwanda - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Rwanda_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Rwanda
+- title: Rwanda - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Rwanda_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Rwanda
 - title: Rwanda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Rwanda_-_new_covid-19_daily_cases_and_deaths.png
   country: Rwanda
@@ -2394,6 +2871,9 @@
   country: Saint Kitts and Nevis
 - title: Saint Kitts And Nevis - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Kitts_and_Nevis_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Saint Kitts and Nevis
+- title: Saint Kitts And Nevis - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Saint_Kitts_and_Nevis_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Saint Kitts and Nevis
 - title: Saint Kitts And Nevis - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Kitts_and_Nevis_-_new_covid-19_daily_cases_and_deaths.png
@@ -2410,6 +2890,9 @@
 - title: Saint Lucia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Lucia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Saint Lucia
+- title: Saint Lucia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Saint_Lucia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Saint Lucia
 - title: Saint Lucia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Lucia_-_new_covid-19_daily_cases_and_deaths.png
   country: Saint Lucia
@@ -2424,6 +2907,9 @@
   country: Saint Vincent and the Grenadines
 - title: Saint Vincent And The Grenadines - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Saint Vincent and the Grenadines
+- title: Saint Vincent And The Grenadines - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Saint Vincent and the Grenadines
 - title: Saint Vincent And The Grenadines - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_new_covid-19_daily_cases_and_deaths.png
@@ -2440,6 +2926,9 @@
 - title: San Marino - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/San_Marino_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: San Marino
+- title: San Marino - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/San_Marino_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: San Marino
 - title: San Marino - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/San_Marino_-_new_covid-19_daily_cases_and_deaths.png
   country: San Marino
@@ -2454,6 +2943,9 @@
   country: Sao Tome and Principe
 - title: Sao Tome And Principe - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sao_Tome_and_Principe_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Sao Tome and Principe
+- title: Sao Tome And Principe - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sao_Tome_and_Principe_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Sao Tome and Principe
 - title: Sao Tome And Principe - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sao_Tome_and_Principe_-_new_covid-19_daily_cases_and_deaths.png
@@ -2470,6 +2962,9 @@
 - title: Saudi Arabia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Saudi_Arabia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Saudi Arabia
+- title: Saudi Arabia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Saudi_Arabia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Saudi Arabia
 - title: Saudi Arabia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Saudi_Arabia_-_new_covid-19_daily_cases_and_deaths.png
   country: Saudi Arabia
@@ -2484,6 +2979,9 @@
   country: Senegal
 - title: Senegal - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Senegal_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Senegal
+- title: Senegal - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Senegal_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Senegal
 - title: Senegal - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Senegal_-_new_covid-19_daily_cases_and_deaths.png
@@ -2500,6 +2998,9 @@
 - title: Serbia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Serbia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Serbia
+- title: Serbia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Serbia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Serbia
 - title: Serbia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Serbia_-_new_covid-19_daily_cases_and_deaths.png
   country: Serbia
@@ -2514,6 +3015,9 @@
   country: Seychelles
 - title: Seychelles - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Seychelles_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Seychelles
+- title: Seychelles - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Seychelles_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Seychelles
 - title: Seychelles - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Seychelles_-_new_covid-19_daily_cases_and_deaths.png
@@ -2530,6 +3034,9 @@
 - title: Sierra Leone - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sierra_Leone_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Sierra Leone
+- title: Sierra Leone - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sierra_Leone_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Sierra Leone
 - title: Sierra Leone - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sierra_Leone_-_new_covid-19_daily_cases_and_deaths.png
   country: Sierra Leone
@@ -2544,6 +3051,9 @@
   country: Singapore
 - title: Singapore - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Singapore_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Singapore
+- title: Singapore - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Singapore_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Singapore
 - title: Singapore - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Singapore_-_new_covid-19_daily_cases_and_deaths.png
@@ -2560,6 +3070,9 @@
 - title: Sint Maarten - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sint_Maarten_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Sint Maarten
+- title: Sint Maarten - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sint_Maarten_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Sint Maarten
 - title: Sint Maarten - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sint_Maarten_-_new_covid-19_daily_cases_and_deaths.png
   country: Sint Maarten
@@ -2574,6 +3087,9 @@
   country: Slovakia
 - title: Slovakia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Slovakia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Slovakia
+- title: Slovakia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Slovakia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Slovakia
 - title: Slovakia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Slovakia_-_new_covid-19_daily_cases_and_deaths.png
@@ -2590,6 +3106,9 @@
 - title: Slovenia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Slovenia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Slovenia
+- title: Slovenia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Slovenia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Slovenia
 - title: Slovenia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Slovenia_-_new_covid-19_daily_cases_and_deaths.png
   country: Slovenia
@@ -2604,6 +3123,9 @@
   country: Somalia
 - title: Somalia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Somalia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Somalia
+- title: Somalia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Somalia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Somalia
 - title: Somalia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Somalia_-_new_covid-19_daily_cases_and_deaths.png
@@ -2620,6 +3142,9 @@
 - title: South Africa - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/South_Africa_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: South Africa
+- title: South Africa - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/South_Africa_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: South Africa
 - title: South Africa - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Africa_-_new_covid-19_daily_cases_and_deaths.png
   country: South Africa
@@ -2634,6 +3159,9 @@
   country: South Korea
 - title: South Korea - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/South_Korea_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: South Korea
+- title: South Korea - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/South_Korea_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: South Korea
 - title: South Korea - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Korea_-_new_covid-19_daily_cases_and_deaths.png
@@ -2650,6 +3178,9 @@
 - title: South Sudan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/South_Sudan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: South Sudan
+- title: South Sudan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/South_Sudan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: South Sudan
 - title: South Sudan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/South_Sudan_-_new_covid-19_daily_cases_and_deaths.png
   country: South Sudan
@@ -2664,6 +3195,9 @@
   country: Spain
 - title: Spain - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Spain_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Spain
+- title: Spain - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Spain_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Spain
 - title: Spain - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Spain_-_new_covid-19_daily_cases_and_deaths.png
@@ -2680,6 +3214,9 @@
 - title: Sri Lanka - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sri_Lanka_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Sri Lanka
+- title: Sri Lanka - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sri_Lanka_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Sri Lanka
 - title: Sri Lanka - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sri_Lanka_-_new_covid-19_daily_cases_and_deaths.png
   country: Sri Lanka
@@ -2694,6 +3231,9 @@
   country: Sudan
 - title: Sudan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sudan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Sudan
+- title: Sudan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sudan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Sudan
 - title: Sudan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sudan_-_new_covid-19_daily_cases_and_deaths.png
@@ -2710,6 +3250,9 @@
 - title: Suriname - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Suriname_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Suriname
+- title: Suriname - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Suriname_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Suriname
 - title: Suriname - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Suriname_-_new_covid-19_daily_cases_and_deaths.png
   country: Suriname
@@ -2724,6 +3267,9 @@
   country: Sweden
 - title: Sweden - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Sweden_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Sweden
+- title: Sweden - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Sweden_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Sweden
 - title: Sweden - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Sweden_-_new_covid-19_daily_cases_and_deaths.png
@@ -2740,6 +3286,9 @@
 - title: Switzerland - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Switzerland_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Switzerland
+- title: Switzerland - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Switzerland_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Switzerland
 - title: Switzerland - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Switzerland_-_new_covid-19_daily_cases_and_deaths.png
   country: Switzerland
@@ -2754,6 +3303,9 @@
   country: Syria
 - title: Syria - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Syria_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Syria
+- title: Syria - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Syria_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Syria
 - title: Syria - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Syria_-_new_covid-19_daily_cases_and_deaths.png
@@ -2770,6 +3322,9 @@
 - title: Taiwan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Taiwan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Taiwan
+- title: Taiwan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Taiwan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Taiwan
 - title: Taiwan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Taiwan_-_new_covid-19_daily_cases_and_deaths.png
   country: Taiwan
@@ -2784,6 +3339,9 @@
   country: Tajikistan
 - title: Tajikistan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Tajikistan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Tajikistan
+- title: Tajikistan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Tajikistan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Tajikistan
 - title: Tajikistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Tajikistan_-_new_covid-19_daily_cases_and_deaths.png
@@ -2800,6 +3358,9 @@
 - title: Thailand - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Thailand_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Thailand
+- title: Thailand - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Thailand_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Thailand
 - title: Thailand - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Thailand_-_new_covid-19_daily_cases_and_deaths.png
   country: Thailand
@@ -2814,6 +3375,9 @@
   country: Timor Leste
 - title: Timor Leste - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Timor_Leste_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Timor Leste
+- title: Timor Leste - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Timor_Leste_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Timor Leste
 - title: Timor Leste - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Timor_Leste_-_new_covid-19_daily_cases_and_deaths.png
@@ -2830,6 +3394,9 @@
 - title: Togo - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Togo_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Togo
+- title: Togo - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Togo_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Togo
 - title: Togo - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Togo_-_new_covid-19_daily_cases_and_deaths.png
   country: Togo
@@ -2844,6 +3411,9 @@
   country: Trinidad and Tobago
 - title: Trinidad And Tobago - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Trinidad_and_Tobago_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Trinidad and Tobago
+- title: Trinidad And Tobago - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Trinidad_and_Tobago_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Trinidad and Tobago
 - title: Trinidad And Tobago - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Trinidad_and_Tobago_-_new_covid-19_daily_cases_and_deaths.png
@@ -2860,6 +3430,9 @@
 - title: Tunisia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Tunisia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Tunisia
+- title: Tunisia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Tunisia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Tunisia
 - title: Tunisia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Tunisia_-_new_covid-19_daily_cases_and_deaths.png
   country: Tunisia
@@ -2874,6 +3447,9 @@
   country: Turkey
 - title: Turkey - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Turkey_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Turkey
+- title: Turkey - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Turkey_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Turkey
 - title: Turkey - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Turkey_-_new_covid-19_daily_cases_and_deaths.png
@@ -2890,6 +3466,9 @@
 - title: Turks And Caicos Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Turks_and_Caicos_islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Turks and Caicos islands
+- title: Turks And Caicos Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Turks_and_Caicos_islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Turks and Caicos islands
 - title: Turks And Caicos Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Turks_and_Caicos_islands_-_new_covid-19_daily_cases_and_deaths.png
   country: Turks and Caicos islands
@@ -2904,6 +3483,9 @@
   country: Uganda
 - title: Uganda - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Uganda_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Uganda
+- title: Uganda - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Uganda_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Uganda
 - title: Uganda - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uganda_-_new_covid-19_daily_cases_and_deaths.png
@@ -2920,6 +3502,9 @@
 - title: Ukraine - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Ukraine_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Ukraine
+- title: Ukraine - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Ukraine_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Ukraine
 - title: Ukraine - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Ukraine_-_new_covid-19_daily_cases_and_deaths.png
   country: Ukraine
@@ -2934,6 +3519,9 @@
   country: United Arab Emirates
 - title: United Arab Emirates - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/United_Arab_Emirates_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: United Arab Emirates
+- title: United Arab Emirates - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/United_Arab_Emirates_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: United Arab Emirates
 - title: United Arab Emirates - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Arab_Emirates_-_new_covid-19_daily_cases_and_deaths.png
@@ -2950,6 +3538,9 @@
 - title: United Kingdom - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/United_Kingdom_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: United Kingdom
+- title: United Kingdom - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/United_Kingdom_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: United Kingdom
 - title: United Kingdom - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Kingdom_-_new_covid-19_daily_cases_and_deaths.png
   country: United Kingdom
@@ -2964,6 +3555,9 @@
   country: United Republic of Tanzania
 - title: United Republic Of Tanzania - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/United_Republic_of_Tanzania_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: United Republic of Tanzania
+- title: United Republic Of Tanzania - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: United Republic of Tanzania
 - title: United Republic Of Tanzania - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_Republic_of_Tanzania_-_new_covid-19_daily_cases_and_deaths.png
@@ -2980,6 +3574,9 @@
 - title: United States Virgin Islands - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/United_States_Virgin_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: United States Virgin Islands
+- title: United States Virgin Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: United States Virgin Islands
 - title: United States Virgin Islands - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_States_Virgin_Islands_-_new_covid-19_daily_cases_and_deaths.png
   country: United States Virgin Islands
@@ -2994,6 +3591,9 @@
   country: United States of America
 - title: United States Of America - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/United_States_of_America_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: United States of America
+- title: United States Of America - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: United States of America
 - title: United States Of America - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/United_States_of_America_-_new_covid-19_daily_cases_and_deaths.png
@@ -3010,6 +3610,9 @@
 - title: Uruguay - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Uruguay_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Uruguay
+- title: Uruguay - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Uruguay_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Uruguay
 - title: Uruguay - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uruguay_-_new_covid-19_daily_cases_and_deaths.png
   country: Uruguay
@@ -3024,6 +3627,9 @@
   country: Uzbekistan
 - title: Uzbekistan - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Uzbekistan_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Uzbekistan
+- title: Uzbekistan - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Uzbekistan_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Uzbekistan
 - title: Uzbekistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uzbekistan_-_new_covid-19_daily_cases_and_deaths.png
@@ -3040,6 +3646,9 @@
 - title: Venezuela - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Venezuela_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Venezuela
+- title: Venezuela - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Venezuela_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Venezuela
 - title: Venezuela - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Venezuela_-_new_covid-19_daily_cases_and_deaths.png
   country: Venezuela
@@ -3054,6 +3663,9 @@
   country: Vietnam
 - title: Vietnam - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Vietnam_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Vietnam
+- title: Vietnam - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Vietnam_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Vietnam
 - title: Vietnam - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Vietnam_-_new_covid-19_daily_cases_and_deaths.png
@@ -3070,6 +3682,9 @@
 - title: Western Sahara - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Western_Sahara_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Western Sahara
+- title: Western Sahara - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Western_Sahara_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Western Sahara
 - title: Western Sahara - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Western_Sahara_-_new_covid-19_daily_cases_and_deaths.png
   country: Western Sahara
@@ -3084,6 +3699,9 @@
   country: Yemen
 - title: Yemen - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Yemen_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Yemen
+- title: Yemen - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Yemen_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Yemen
 - title: Yemen - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Yemen_-_new_covid-19_daily_cases_and_deaths.png
@@ -3100,6 +3718,9 @@
 - title: Zambia - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Zambia_-_covid-19_deaths_over_time_with_logarithmic_scale.png
   country: Zambia
+- title: Zambia - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Zambia_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Zambia
 - title: Zambia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Zambia_-_new_covid-19_daily_cases_and_deaths.png
   country: Zambia
@@ -3114,6 +3735,9 @@
   country: Zimbabwe
 - title: Zimbabwe - Covid-19 Deaths Over Time With Logarithmic Scale
   url: graphs/countries/Zimbabwe_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Zimbabwe
+- title: Zimbabwe - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Zimbabwe_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
   country: Zimbabwe
 - title: Zimbabwe - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Zimbabwe_-_new_covid-19_daily_cases_and_deaths.png

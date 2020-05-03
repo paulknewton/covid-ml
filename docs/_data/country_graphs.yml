@@ -836,6 +836,7 @@
   country: Colombia
 - title: Comoros - Covid-19 Cases Over Time
   url: graphs/countries/Comoros_-_covid-19_cases_over_time.png
+  new_section: true
   country: Comoros
 - title: Comoros - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Comoros_-_covid-19_cases_over_time_with_logarithmic_scale.png

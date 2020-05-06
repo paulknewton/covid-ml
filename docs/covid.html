@@ -13077,7 +13077,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-Last updated: Wed May  6 19:38:53 CEST 2020<hr><h1 id="Data-Science-and-COVID-19">Data Science and COVID-19<a class="anchor-link" href="#Data-Science-and-COVID-19">&#182;</a></h1><p>This Jupyter notebook analyses publicly available data on COVID-19 infections and deaths using the <code>pandas</code> data framework.</p>
+Last updated: Wed May  6 19:59:43 CEST 2020<hr><h1 id="Data-Science-and-COVID-19">Data Science and COVID-19<a class="anchor-link" href="#Data-Science-and-COVID-19">&#182;</a></h1><p>This Jupyter notebook analyses publicly available data on COVID-19 infections and deaths using the <code>pandas</code> data framework.</p>
 
 </div>
 </div>
@@ -13116,7 +13116,7 @@ Last updated: Wed May  6 19:38:53 CEST 2020<hr><h1 id="Data-Science-and-COVID-19
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-100  702k  100  702k    0     0   911k      0 --:--:-- --:--:-- --:--:--  912k
+100  702k  100  702k    0     0  1192k      0 --:--:-- --:--:-- --:--:-- 1192k
 </pre>
 </div>
 </div>
@@ -13883,13 +13883,16 @@ Again, the figures are presented directly without any scaling to take into accou
             <span class="n">y</span><span class="o">=</span><span class="s2">&quot;countriesAndTerritories&quot;</span><span class="p">,</span>
             <span class="n">data</span><span class="o">=</span><span class="n">cases_deaths_pop_df</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s2">&quot;cases_per_capita&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">tail</span><span class="p">(</span><span class="mi">20</span><span class="p">)</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(),</span>
             <span class="n">palette</span><span class="o">=</span><span class="s2">&quot;Blues_d&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;Countries with highest recorded COVID-19 infection rates&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s2">&quot;docs/graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases_per_capita.png&quot;</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
 <span class="c1"># mortality rates</span>
 <span class="c1">#cases_deaths_df.sort_values(&quot;deaths_per_capita&quot;).tail(20).plot(kind=&quot;barh&quot;, y=&quot;deaths_per_capita&quot;, title=&quot;Countries with highest recorded COVID-19 mortality rates&quot;)</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">barplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s2">&quot;deaths_per_capita&quot;</span><span class="p">,</span>
             <span class="n">y</span><span class="o">=</span><span class="s2">&quot;countriesAndTerritories&quot;</span><span class="p">,</span>
             <span class="n">data</span><span class="o">=</span><span class="n">cases_deaths_pop_df</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s2">&quot;deaths_per_capita&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">tail</span><span class="p">(</span><span class="mi">20</span><span class="p">)</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(),</span>
             <span class="n">palette</span><span class="o">=</span><span class="s2">&quot;Blues_d&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;Countries with highest recorded COVID-19 mortality rates (per 1000)&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s2">&quot;docs/graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths_per_capita.png&quot;</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 

@@ -44,10 +44,10 @@ jupyter notebook covid.ipynb
 This will start the Jupyter server and open the notebook in a browser window.
 Press the 'h' key to get help on using Jupyter.
 
-To execute the notebook in non-interactive mode (i.e. to just force a download of the latest data and the generation of the graphs), type:
+To execute the notebook in non-interactive mode (i.e. to just force a download of the latest data, re-generate the graphs and save a HTML file), type:
 
 ```
-jupyter notebook --execute covid.ipynb
+jupyter nbconvert --to html --execute --ExecutePreprocessor.timeout=-1 covid.ipynb
 ```
 
 This will execute the notebook silently and create a ```covid.html``` file as output.

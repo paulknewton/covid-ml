@@ -1,7 +1,7 @@
 ---
 title:  "When is a peak not a peak?"
 date:   2020-05-07 08:00 +0200
-categories: statistics
+categories: covid-19
 ---
 
 Epidemiological spread often starts slowly by infecting a small number of carriers, but quickly takes hold as these people go on to infect multiple other people. A virus that is highly contagious will have a high R0 value, meaning that each person transmits the infection to many other carriers. The infection curve rapidly increases as the virus takes hold in the population. Only as it works its way through a population will the virus eventually slow down before tapering off.

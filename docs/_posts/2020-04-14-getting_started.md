@@ -1,7 +1,7 @@
 ---
 title:  "Getting started with pandas and COVID-19 data"
 date:   2020-04-14 22:14:00 +0200
-categories: pandas
+categories: python
 ---
 [Python](https://www.python.org/) is a simple and elegant programming language used widely in the scientific community. There are thousands of libraries and frameworks that extend the reach of the language even further.
 [Pandas](https://pandas.pydata.org/) is a data analysis framework that can be used to easily read data files then manipulate them to analyse the information. You can even plot graphs of your results.

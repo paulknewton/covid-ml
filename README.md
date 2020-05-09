@@ -10,15 +10,15 @@ Examples of graphs that are produced:
 
 **Covid-19 Infection Rate Over Time**
 
-![covid-19_infection_rate_over_time](docs/graphs/rates/covid-19_infection_rate_over_time.png)
+![covid-19_infection_rate_over_time](https://paulknewton.github.io/covid-ml/graphs/rates/covid-19_infection_rate_over_time.png)
 
 **Countries With Highest Number Of Recorded Covid-19 Cases**
 
-![countries_with_highest_number_of_recorded_COVID-19_cases](docs/graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.png)
+![countries_with_highest_number_of_recorded_COVID-19_cases](https://paulknewton.github.io/covid-ml/graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.png)
 
 **Countries With Highest Case Fatality Risk**
 
-![countries_with_highest_case_fatality_risk](docs/graphs/totals/countries_with_highest_case_fatality_risk.png)
+![countries_with_highest_case_fatality_risk](https://paulknewton.github.io/covid-ml/graphs/totals/countries_with_highest_case_fatality_risk.png)
 
 ## Installation
 The data runs inside a Jupyter notebook.
@@ -44,10 +44,10 @@ jupyter notebook covid.ipynb
 This will start the Jupyter server and open the notebook in a browser window.
 Press the 'h' key to get help on using Jupyter.
 
-To execute the notebook in non-interactive mode (i.e. to just force a download of the latest data and the generation of the graphs), type:
+To execute the notebook in non-interactive mode (i.e. to just force a download of the latest data, re-generate the graphs and save a HTML file), type:
 
 ```
-jupyter notebook --execute covid.ipynb
+jupyter nbconvert --to html --execute --ExecutePreprocessor.timeout=-1 covid.ipynb
 ```
 
 This will execute the notebook silently and create a ```covid.html``` file as output.

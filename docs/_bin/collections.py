@@ -10,9 +10,14 @@ if __name__ == "__main__":
 
     countries = set()  # set to prevent duplicates
 
+    last_country = ""
+
     for file in sys.stdin:
         file = Path(file.strip())
         filename_no_suffix = file.stem
+
+        if args.format == "countries":
+            country = filename_no_suffix[:filename_no_suffix.find("-") - 1:].replace("_", " ")
 
         # title: Derive from the filename. Replace _ with spaces. Convert to CamelCase.
         print("- title: %s" % filename_no_suffix.replace("_", " ").title())
@@ -22,7 +27,11 @@ if __name__ == "__main__":
 
         # if list of countries then add a country name
         if args.format == "countries":
-            country = filename_no_suffix[:filename_no_suffix.find("-") - 1:].replace("_", " ")
+
+            # is this a new country?
+            if country != last_country:
+                last_country = country
+                print("  new_section: true")
 
             # build up a set of unique countries
             countries.add(country)
@@ -37,6 +46,7 @@ if __name__ == "__main__":
             # create a 'notes' file (if missing)
             Path(notes_file).touch(exist_ok=True)
 
+    # when all files are processed, generate a list of countries (to be used as in index)
     if args.format == "countries":
         with open("_data/countries.yml", "w") as countries_yaml:
             for c in sorted(countries):

@@ -23,6 +23,9 @@ The number of officially recorded COVID-19 cases has now exceeded 3 million and 
 {% assign stat = site.data.statistics["deaths"] %}
 **Worldwide deaths: {{ stat.value }}**
 
+{% assign stat = site.data.statistics["updated"] %}
+*Data last updated {{ stat.value }}*
+
 ---
 
 ## COVID-19 Graph Repository

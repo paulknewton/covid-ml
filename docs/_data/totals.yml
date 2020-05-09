@@ -4,9 +4,15 @@
 - title: Countries With Highest Number Of Recorded Covid-19 Cases
   url: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.png
   notes: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases.md
+- title: Countries With Highest Number Of Recorded Covid-19 Cases Per Capita
+  url: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases_per_capita.png
+  notes: graphs/totals/countries_with_highest_number_of_recorded_COVID-19_cases_per_capita.md
 - title: Countries With Highest Number Of Recorded Covid-19 Deaths
   url: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths.png
   notes: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths.md
+- title: Countries With Highest Number Of Recorded Covid-19 Deaths Per Capita
+  url: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths_per_capita.png
+  notes: graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths_per_capita.md
 - title: Countries With No Recorded Covid-19 Deaths
   url: graphs/totals/countries_with_no_recorded_covid-19_deaths.png
   notes: graphs/totals/countries_with_no_recorded_covid-19_deaths.md

@@ -1,5 +1,6 @@
 - title: Afghanistan - Covid-19 Cases Over Time
   url: graphs/countries/Afghanistan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Afghanistan
 - title: Afghanistan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Afghanistan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -18,6 +19,7 @@
   country: Afghanistan
 - title: Albania - Covid-19 Cases Over Time
   url: graphs/countries/Albania_-_covid-19_cases_over_time.png
+  new_section: true
   country: Albania
 - title: Albania - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Albania_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -36,6 +38,7 @@
   country: Albania
 - title: Algeria - Covid-19 Cases Over Time
   url: graphs/countries/Algeria_-_covid-19_cases_over_time.png
+  new_section: true
   country: Algeria
 - title: Algeria - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Algeria_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -54,6 +57,7 @@
   country: Algeria
 - title: Andorra - Covid-19 Cases Over Time
   url: graphs/countries/Andorra_-_covid-19_cases_over_time.png
+  new_section: true
   country: Andorra
 - title: Andorra - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Andorra_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -72,6 +76,7 @@
   country: Andorra
 - title: Angola - Covid-19 Cases Over Time
   url: graphs/countries/Angola_-_covid-19_cases_over_time.png
+  new_section: true
   country: Angola
 - title: Angola - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Angola_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -90,6 +95,7 @@
   country: Angola
 - title: Anguilla - Covid-19 Cases Over Time
   url: graphs/countries/Anguilla_-_covid-19_cases_over_time.png
+  new_section: true
   country: Anguilla
 - title: Anguilla - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Anguilla_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -108,6 +114,7 @@
   country: Anguilla
 - title: Antigua And Barbuda - Covid-19 Cases Over Time
   url: graphs/countries/Antigua_and_Barbuda_-_covid-19_cases_over_time.png
+  new_section: true
   country: Antigua and Barbuda
 - title: Antigua And Barbuda - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Antigua_and_Barbuda_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -126,6 +133,7 @@
   country: Antigua and Barbuda
 - title: Argentina - Covid-19 Cases Over Time
   url: graphs/countries/Argentina_-_covid-19_cases_over_time.png
+  new_section: true
   country: Argentina
 - title: Argentina - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Argentina_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -144,6 +152,7 @@
   country: Argentina
 - title: Armenia - Covid-19 Cases Over Time
   url: graphs/countries/Armenia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Armenia
 - title: Armenia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Armenia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -162,6 +171,7 @@
   country: Armenia
 - title: Aruba - Covid-19 Cases Over Time
   url: graphs/countries/Aruba_-_covid-19_cases_over_time.png
+  new_section: true
   country: Aruba
 - title: Aruba - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Aruba_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -180,6 +190,7 @@
   country: Aruba
 - title: Australia - Covid-19 Cases Over Time
   url: graphs/countries/Australia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Australia
 - title: Australia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Australia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -198,6 +209,7 @@
   country: Australia
 - title: Austria - Covid-19 Cases Over Time
   url: graphs/countries/Austria_-_covid-19_cases_over_time.png
+  new_section: true
   country: Austria
 - title: Austria - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Austria_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -216,6 +228,7 @@
   country: Austria
 - title: Azerbaijan - Covid-19 Cases Over Time
   url: graphs/countries/Azerbaijan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Azerbaijan
 - title: Azerbaijan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Azerbaijan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -234,6 +247,7 @@
   country: Azerbaijan
 - title: Bahamas - Covid-19 Cases Over Time
   url: graphs/countries/Bahamas_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bahamas
 - title: Bahamas - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bahamas_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -252,6 +266,7 @@
   country: Bahamas
 - title: Bahrain - Covid-19 Cases Over Time
   url: graphs/countries/Bahrain_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bahrain
 - title: Bahrain - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bahrain_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -270,6 +285,7 @@
   country: Bahrain
 - title: Bangladesh - Covid-19 Cases Over Time
   url: graphs/countries/Bangladesh_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bangladesh
 - title: Bangladesh - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bangladesh_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -288,6 +304,7 @@
   country: Bangladesh
 - title: Barbados - Covid-19 Cases Over Time
   url: graphs/countries/Barbados_-_covid-19_cases_over_time.png
+  new_section: true
   country: Barbados
 - title: Barbados - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Barbados_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -306,6 +323,7 @@
   country: Barbados
 - title: Belarus - Covid-19 Cases Over Time
   url: graphs/countries/Belarus_-_covid-19_cases_over_time.png
+  new_section: true
   country: Belarus
 - title: Belarus - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Belarus_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -324,6 +342,7 @@
   country: Belarus
 - title: Belgium - Covid-19 Cases Over Time
   url: graphs/countries/Belgium_-_covid-19_cases_over_time.png
+  new_section: true
   country: Belgium
 - title: Belgium - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Belgium_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -342,6 +361,7 @@
   country: Belgium
 - title: Belize - Covid-19 Cases Over Time
   url: graphs/countries/Belize_-_covid-19_cases_over_time.png
+  new_section: true
   country: Belize
 - title: Belize - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Belize_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -360,6 +380,7 @@
   country: Belize
 - title: Benin - Covid-19 Cases Over Time
   url: graphs/countries/Benin_-_covid-19_cases_over_time.png
+  new_section: true
   country: Benin
 - title: Benin - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Benin_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -378,6 +399,7 @@
   country: Benin
 - title: Bermuda - Covid-19 Cases Over Time
   url: graphs/countries/Bermuda_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bermuda
 - title: Bermuda - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bermuda_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -396,6 +418,7 @@
   country: Bermuda
 - title: Bhutan - Covid-19 Cases Over Time
   url: graphs/countries/Bhutan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bhutan
 - title: Bhutan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bhutan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -414,6 +437,7 @@
   country: Bhutan
 - title: Bolivia - Covid-19 Cases Over Time
   url: graphs/countries/Bolivia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bolivia
 - title: Bolivia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bolivia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -432,6 +456,7 @@
   country: Bolivia
 - title: Bonaire, Saint Eustatius And Saba - Covid-19 Cases Over Time
   url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bonaire, Saint Eustatius and Saba
 - title: Bonaire, Saint Eustatius And Saba - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bonaire, Saint Eustatius and Saba_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -450,6 +475,7 @@
   country: Bonaire, Saint Eustatius and Saba
 - title: Bosnia And Herzegovina - Covid-19 Cases Over Time
   url: graphs/countries/Bosnia_and_Herzegovina_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bosnia and Herzegovina
 - title: Bosnia And Herzegovina - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bosnia_and_Herzegovina_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -468,6 +494,7 @@
   country: Bosnia and Herzegovina
 - title: Botswana - Covid-19 Cases Over Time
   url: graphs/countries/Botswana_-_covid-19_cases_over_time.png
+  new_section: true
   country: Botswana
 - title: Botswana - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Botswana_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -486,6 +513,7 @@
   country: Botswana
 - title: Brazil - Covid-19 Cases Over Time
   url: graphs/countries/Brazil_-_covid-19_cases_over_time.png
+  new_section: true
   country: Brazil
 - title: Brazil - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Brazil_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -504,6 +532,7 @@
   country: Brazil
 - title: British Virgin Islands - Covid-19 Cases Over Time
   url: graphs/countries/British_Virgin_Islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: British Virgin Islands
 - title: British Virgin Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/British_Virgin_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -522,6 +551,7 @@
   country: British Virgin Islands
 - title: Brunei Darussalam - Covid-19 Cases Over Time
   url: graphs/countries/Brunei_Darussalam_-_covid-19_cases_over_time.png
+  new_section: true
   country: Brunei Darussalam
 - title: Brunei Darussalam - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Brunei_Darussalam_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -540,6 +570,7 @@
   country: Brunei Darussalam
 - title: Bulgaria - Covid-19 Cases Over Time
   url: graphs/countries/Bulgaria_-_covid-19_cases_over_time.png
+  new_section: true
   country: Bulgaria
 - title: Bulgaria - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Bulgaria_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -558,6 +589,7 @@
   country: Bulgaria
 - title: Burkina Faso - Covid-19 Cases Over Time
   url: graphs/countries/Burkina_Faso_-_covid-19_cases_over_time.png
+  new_section: true
   country: Burkina Faso
 - title: Burkina Faso - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Burkina_Faso_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -576,6 +608,7 @@
   country: Burkina Faso
 - title: Burundi - Covid-19 Cases Over Time
   url: graphs/countries/Burundi_-_covid-19_cases_over_time.png
+  new_section: true
   country: Burundi
 - title: Burundi - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Burundi_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -594,6 +627,7 @@
   country: Burundi
 - title: Cambodia - Covid-19 Cases Over Time
   url: graphs/countries/Cambodia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cambodia
 - title: Cambodia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cambodia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -612,6 +646,7 @@
   country: Cambodia
 - title: Cameroon - Covid-19 Cases Over Time
   url: graphs/countries/Cameroon_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cameroon
 - title: Cameroon - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cameroon_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -630,6 +665,7 @@
   country: Cameroon
 - title: Canada - Covid-19 Cases Over Time
   url: graphs/countries/Canada_-_covid-19_cases_over_time.png
+  new_section: true
   country: Canada
 - title: Canada - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Canada_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -648,6 +684,7 @@
   country: Canada
 - title: Cape Verde - Covid-19 Cases Over Time
   url: graphs/countries/Cape_Verde_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cape Verde
 - title: Cape Verde - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cape_Verde_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -666,6 +703,7 @@
   country: Cape Verde
 - title: Cases On An International Conveyance Japan - Covid-19 Cases Over Time
   url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cases on an international conveyance Japan
 - title: Cases On An International Conveyance Japan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cases_on_an_international_conveyance_Japan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -684,6 +722,7 @@
   country: Cases on an international conveyance Japan
 - title: Cayman Islands - Covid-19 Cases Over Time
   url: graphs/countries/Cayman_Islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cayman Islands
 - title: Cayman Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cayman_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -702,6 +741,7 @@
   country: Cayman Islands
 - title: Central African Republic - Covid-19 Cases Over Time
   url: graphs/countries/Central_African_Republic_-_covid-19_cases_over_time.png
+  new_section: true
   country: Central African Republic
 - title: Central African Republic - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Central_African_Republic_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -720,6 +760,7 @@
   country: Central African Republic
 - title: Chad - Covid-19 Cases Over Time
   url: graphs/countries/Chad_-_covid-19_cases_over_time.png
+  new_section: true
   country: Chad
 - title: Chad - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Chad_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -738,6 +779,7 @@
   country: Chad
 - title: Chile - Covid-19 Cases Over Time
   url: graphs/countries/Chile_-_covid-19_cases_over_time.png
+  new_section: true
   country: Chile
 - title: Chile - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Chile_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -756,6 +798,7 @@
   country: Chile
 - title: China - Covid-19 Cases Over Time
   url: graphs/countries/China_-_covid-19_cases_over_time.png
+  new_section: true
   country: China
 - title: China - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/China_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -774,6 +817,7 @@
   country: China
 - title: Colombia - Covid-19 Cases Over Time
   url: graphs/countries/Colombia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Colombia
 - title: Colombia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Colombia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -790,8 +834,28 @@
 - title: Colombia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Colombia_-_new_covid-19_daily_cases_and_deaths.png
   country: Colombia
+- title: Comoros - Covid-19 Cases Over Time
+  url: graphs/countries/Comoros_-_covid-19_cases_over_time.png
+  new_section: true
+  country: Comoros
+- title: Comoros - Covid-19 Cases Over Time With Logarithmic Scale
+  url: graphs/countries/Comoros_-_covid-19_cases_over_time_with_logarithmic_scale.png
+  country: Comoros
+- title: Comoros - Covid-19 Deaths Over Time
+  url: graphs/countries/Comoros_-_covid-19_deaths_over_time.png
+  country: Comoros
+- title: Comoros - Covid-19 Deaths Over Time With Logarithmic Scale
+  url: graphs/countries/Comoros_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Comoros
+- title: Comoros - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Comoros_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Comoros
+- title: Comoros - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Comoros_-_new_covid-19_daily_cases_and_deaths.png
+  country: Comoros
 - title: Congo - Covid-19 Cases Over Time
   url: graphs/countries/Congo_-_covid-19_cases_over_time.png
+  new_section: true
   country: Congo
 - title: Congo - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Congo_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -810,6 +874,7 @@
   country: Congo
 - title: Costa Rica - Covid-19 Cases Over Time
   url: graphs/countries/Costa_Rica_-_covid-19_cases_over_time.png
+  new_section: true
   country: Costa Rica
 - title: Costa Rica - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Costa_Rica_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -828,6 +893,7 @@
   country: Costa Rica
 - title: Cote Divoire - Covid-19 Cases Over Time
   url: graphs/countries/Cote_dIvoire_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cote dIvoire
 - title: Cote Divoire - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cote_dIvoire_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -846,6 +912,7 @@
   country: Cote dIvoire
 - title: Croatia - Covid-19 Cases Over Time
   url: graphs/countries/Croatia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Croatia
 - title: Croatia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Croatia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -864,6 +931,7 @@
   country: Croatia
 - title: Cuba - Covid-19 Cases Over Time
   url: graphs/countries/Cuba_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cuba
 - title: Cuba - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cuba_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -882,6 +950,7 @@
   country: Cuba
 - title: Curaã§Ao - Covid-19 Cases Over Time
   url: graphs/countries/CuraÃ§ao_-_covid-19_cases_over_time.png
+  new_section: true
   country: CuraÃ§ao
 - title: Curaã§Ao - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/CuraÃ§ao_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -900,6 +969,7 @@
   country: CuraÃ§ao
 - title: Cyprus - Covid-19 Cases Over Time
   url: graphs/countries/Cyprus_-_covid-19_cases_over_time.png
+  new_section: true
   country: Cyprus
 - title: Cyprus - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Cyprus_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -918,6 +988,7 @@
   country: Cyprus
 - title: Czechia - Covid-19 Cases Over Time
   url: graphs/countries/Czechia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Czechia
 - title: Czechia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Czechia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -936,6 +1007,7 @@
   country: Czechia
 - title: Democratic Republic Of The Congo - Covid-19 Cases Over Time
   url: graphs/countries/Democratic_Republic_of_the_Congo_-_covid-19_cases_over_time.png
+  new_section: true
   country: Democratic Republic of the Congo
 - title: Democratic Republic Of The Congo - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Democratic_Republic_of_the_Congo_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -954,6 +1026,7 @@
   country: Democratic Republic of the Congo
 - title: Denmark - Covid-19 Cases Over Time
   url: graphs/countries/Denmark_-_covid-19_cases_over_time.png
+  new_section: true
   country: Denmark
 - title: Denmark - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Denmark_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -972,6 +1045,7 @@
   country: Denmark
 - title: Djibouti - Covid-19 Cases Over Time
   url: graphs/countries/Djibouti_-_covid-19_cases_over_time.png
+  new_section: true
   country: Djibouti
 - title: Djibouti - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Djibouti_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -990,6 +1064,7 @@
   country: Djibouti
 - title: Dominica - Covid-19 Cases Over Time
   url: graphs/countries/Dominica_-_covid-19_cases_over_time.png
+  new_section: true
   country: Dominica
 - title: Dominica - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Dominica_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1008,6 +1083,7 @@
   country: Dominica
 - title: Dominican Republic - Covid-19 Cases Over Time
   url: graphs/countries/Dominican_Republic_-_covid-19_cases_over_time.png
+  new_section: true
   country: Dominican Republic
 - title: Dominican Republic - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Dominican_Republic_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1026,6 +1102,7 @@
   country: Dominican Republic
 - title: Ecuador - Covid-19 Cases Over Time
   url: graphs/countries/Ecuador_-_covid-19_cases_over_time.png
+  new_section: true
   country: Ecuador
 - title: Ecuador - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Ecuador_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1044,6 +1121,7 @@
   country: Ecuador
 - title: Egypt - Covid-19 Cases Over Time
   url: graphs/countries/Egypt_-_covid-19_cases_over_time.png
+  new_section: true
   country: Egypt
 - title: Egypt - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Egypt_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1062,6 +1140,7 @@
   country: Egypt
 - title: El Salvador - Covid-19 Cases Over Time
   url: graphs/countries/El_Salvador_-_covid-19_cases_over_time.png
+  new_section: true
   country: El Salvador
 - title: El Salvador - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/El_Salvador_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1080,6 +1159,7 @@
   country: El Salvador
 - title: Equatorial Guinea - Covid-19 Cases Over Time
   url: graphs/countries/Equatorial_Guinea_-_covid-19_cases_over_time.png
+  new_section: true
   country: Equatorial Guinea
 - title: Equatorial Guinea - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Equatorial_Guinea_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1098,6 +1178,7 @@
   country: Equatorial Guinea
 - title: Eritrea - Covid-19 Cases Over Time
   url: graphs/countries/Eritrea_-_covid-19_cases_over_time.png
+  new_section: true
   country: Eritrea
 - title: Eritrea - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Eritrea_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1116,6 +1197,7 @@
   country: Eritrea
 - title: Estonia - Covid-19 Cases Over Time
   url: graphs/countries/Estonia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Estonia
 - title: Estonia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Estonia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1134,6 +1216,7 @@
   country: Estonia
 - title: Eswatini - Covid-19 Cases Over Time
   url: graphs/countries/Eswatini_-_covid-19_cases_over_time.png
+  new_section: true
   country: Eswatini
 - title: Eswatini - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Eswatini_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1152,6 +1235,7 @@
   country: Eswatini
 - title: Ethiopia - Covid-19 Cases Over Time
   url: graphs/countries/Ethiopia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Ethiopia
 - title: Ethiopia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Ethiopia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1170,6 +1254,7 @@
   country: Ethiopia
 - title: Falkland Islands (Malvinas) - Covid-19 Cases Over Time
   url: graphs/countries/Falkland_Islands_(Malvinas)_-_covid-19_cases_over_time.png
+  new_section: true
   country: Falkland Islands (Malvinas)
 - title: Falkland Islands (Malvinas) - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Falkland_Islands_(Malvinas)_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1188,6 +1273,7 @@
   country: Falkland Islands (Malvinas)
 - title: Faroe Islands - Covid-19 Cases Over Time
   url: graphs/countries/Faroe_Islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: Faroe Islands
 - title: Faroe Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Faroe_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1206,6 +1292,7 @@
   country: Faroe Islands
 - title: Fiji - Covid-19 Cases Over Time
   url: graphs/countries/Fiji_-_covid-19_cases_over_time.png
+  new_section: true
   country: Fiji
 - title: Fiji - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Fiji_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1224,6 +1311,7 @@
   country: Fiji
 - title: Finland - Covid-19 Cases Over Time
   url: graphs/countries/Finland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Finland
 - title: Finland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Finland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1242,6 +1330,7 @@
   country: Finland
 - title: France - Covid-19 Cases Over Time
   url: graphs/countries/France_-_covid-19_cases_over_time.png
+  new_section: true
   country: France
 - title: France - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/France_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1260,6 +1349,7 @@
   country: France
 - title: French Polynesia - Covid-19 Cases Over Time
   url: graphs/countries/French_Polynesia_-_covid-19_cases_over_time.png
+  new_section: true
   country: French Polynesia
 - title: French Polynesia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/French_Polynesia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1278,6 +1368,7 @@
   country: French Polynesia
 - title: Gabon - Covid-19 Cases Over Time
   url: graphs/countries/Gabon_-_covid-19_cases_over_time.png
+  new_section: true
   country: Gabon
 - title: Gabon - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Gabon_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1296,6 +1387,7 @@
   country: Gabon
 - title: Gambia - Covid-19 Cases Over Time
   url: graphs/countries/Gambia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Gambia
 - title: Gambia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Gambia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1314,6 +1406,7 @@
   country: Gambia
 - title: Georgia - Covid-19 Cases Over Time
   url: graphs/countries/Georgia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Georgia
 - title: Georgia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Georgia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1332,6 +1425,7 @@
   country: Georgia
 - title: Germany - Covid-19 Cases Over Time
   url: graphs/countries/Germany_-_covid-19_cases_over_time.png
+  new_section: true
   country: Germany
 - title: Germany - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Germany_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1350,6 +1444,7 @@
   country: Germany
 - title: Ghana - Covid-19 Cases Over Time
   url: graphs/countries/Ghana_-_covid-19_cases_over_time.png
+  new_section: true
   country: Ghana
 - title: Ghana - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Ghana_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1368,6 +1463,7 @@
   country: Ghana
 - title: Gibraltar - Covid-19 Cases Over Time
   url: graphs/countries/Gibraltar_-_covid-19_cases_over_time.png
+  new_section: true
   country: Gibraltar
 - title: Gibraltar - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Gibraltar_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1386,6 +1482,7 @@
   country: Gibraltar
 - title: Greece - Covid-19 Cases Over Time
   url: graphs/countries/Greece_-_covid-19_cases_over_time.png
+  new_section: true
   country: Greece
 - title: Greece - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Greece_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1404,6 +1501,7 @@
   country: Greece
 - title: Greenland - Covid-19 Cases Over Time
   url: graphs/countries/Greenland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Greenland
 - title: Greenland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Greenland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1422,6 +1520,7 @@
   country: Greenland
 - title: Grenada - Covid-19 Cases Over Time
   url: graphs/countries/Grenada_-_covid-19_cases_over_time.png
+  new_section: true
   country: Grenada
 - title: Grenada - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Grenada_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1440,6 +1539,7 @@
   country: Grenada
 - title: Guam - Covid-19 Cases Over Time
   url: graphs/countries/Guam_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guam
 - title: Guam - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guam_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1458,6 +1558,7 @@
   country: Guam
 - title: Guatemala - Covid-19 Cases Over Time
   url: graphs/countries/Guatemala_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guatemala
 - title: Guatemala - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guatemala_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1476,6 +1577,7 @@
   country: Guatemala
 - title: Guernsey - Covid-19 Cases Over Time
   url: graphs/countries/Guernsey_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guernsey
 - title: Guernsey - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guernsey_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1494,6 +1596,7 @@
   country: Guernsey
 - title: Guinea - Covid-19 Cases Over Time
   url: graphs/countries/Guinea_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guinea
 - title: Guinea - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guinea_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1512,6 +1615,7 @@
   country: Guinea
 - title: Guinea Bissau - Covid-19 Cases Over Time
   url: graphs/countries/Guinea_Bissau_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guinea Bissau
 - title: Guinea Bissau - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guinea_Bissau_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1530,6 +1634,7 @@
   country: Guinea Bissau
 - title: Guyana - Covid-19 Cases Over Time
   url: graphs/countries/Guyana_-_covid-19_cases_over_time.png
+  new_section: true
   country: Guyana
 - title: Guyana - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Guyana_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1548,6 +1653,7 @@
   country: Guyana
 - title: Haiti - Covid-19 Cases Over Time
   url: graphs/countries/Haiti_-_covid-19_cases_over_time.png
+  new_section: true
   country: Haiti
 - title: Haiti - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Haiti_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1566,6 +1672,7 @@
   country: Haiti
 - title: Holy See - Covid-19 Cases Over Time
   url: graphs/countries/Holy_See_-_covid-19_cases_over_time.png
+  new_section: true
   country: Holy See
 - title: Holy See - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Holy_See_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1584,6 +1691,7 @@
   country: Holy See
 - title: Honduras - Covid-19 Cases Over Time
   url: graphs/countries/Honduras_-_covid-19_cases_over_time.png
+  new_section: true
   country: Honduras
 - title: Honduras - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Honduras_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1602,6 +1710,7 @@
   country: Honduras
 - title: Hungary - Covid-19 Cases Over Time
   url: graphs/countries/Hungary_-_covid-19_cases_over_time.png
+  new_section: true
   country: Hungary
 - title: Hungary - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Hungary_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1620,6 +1729,7 @@
   country: Hungary
 - title: Iceland - Covid-19 Cases Over Time
   url: graphs/countries/Iceland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Iceland
 - title: Iceland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Iceland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1638,6 +1748,7 @@
   country: Iceland
 - title: India - Covid-19 Cases Over Time
   url: graphs/countries/India_-_covid-19_cases_over_time.png
+  new_section: true
   country: India
 - title: India - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/India_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1656,6 +1767,7 @@
   country: India
 - title: Indonesia - Covid-19 Cases Over Time
   url: graphs/countries/Indonesia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Indonesia
 - title: Indonesia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Indonesia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1674,6 +1786,7 @@
   country: Indonesia
 - title: Iran - Covid-19 Cases Over Time
   url: graphs/countries/Iran_-_covid-19_cases_over_time.png
+  new_section: true
   country: Iran
 - title: Iran - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Iran_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1692,6 +1805,7 @@
   country: Iran
 - title: Iraq - Covid-19 Cases Over Time
   url: graphs/countries/Iraq_-_covid-19_cases_over_time.png
+  new_section: true
   country: Iraq
 - title: Iraq - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Iraq_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1710,6 +1824,7 @@
   country: Iraq
 - title: Ireland - Covid-19 Cases Over Time
   url: graphs/countries/Ireland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Ireland
 - title: Ireland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Ireland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1728,6 +1843,7 @@
   country: Ireland
 - title: Isle Of Man - Covid-19 Cases Over Time
   url: graphs/countries/Isle_of_Man_-_covid-19_cases_over_time.png
+  new_section: true
   country: Isle of Man
 - title: Isle Of Man - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Isle_of_Man_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1746,6 +1862,7 @@
   country: Isle of Man
 - title: Israel - Covid-19 Cases Over Time
   url: graphs/countries/Israel_-_covid-19_cases_over_time.png
+  new_section: true
   country: Israel
 - title: Israel - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Israel_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1764,6 +1881,7 @@
   country: Israel
 - title: Italy - Covid-19 Cases Over Time
   url: graphs/countries/Italy_-_covid-19_cases_over_time.png
+  new_section: true
   country: Italy
 - title: Italy - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Italy_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1782,6 +1900,7 @@
   country: Italy
 - title: Jamaica - Covid-19 Cases Over Time
   url: graphs/countries/Jamaica_-_covid-19_cases_over_time.png
+  new_section: true
   country: Jamaica
 - title: Jamaica - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Jamaica_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1800,6 +1919,7 @@
   country: Jamaica
 - title: Japan - Covid-19 Cases Over Time
   url: graphs/countries/Japan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Japan
 - title: Japan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Japan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1818,6 +1938,7 @@
   country: Japan
 - title: Jersey - Covid-19 Cases Over Time
   url: graphs/countries/Jersey_-_covid-19_cases_over_time.png
+  new_section: true
   country: Jersey
 - title: Jersey - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Jersey_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1836,6 +1957,7 @@
   country: Jersey
 - title: Jordan - Covid-19 Cases Over Time
   url: graphs/countries/Jordan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Jordan
 - title: Jordan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Jordan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1854,6 +1976,7 @@
   country: Jordan
 - title: Kazakhstan - Covid-19 Cases Over Time
   url: graphs/countries/Kazakhstan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Kazakhstan
 - title: Kazakhstan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Kazakhstan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1872,6 +1995,7 @@
   country: Kazakhstan
 - title: Kenya - Covid-19 Cases Over Time
   url: graphs/countries/Kenya_-_covid-19_cases_over_time.png
+  new_section: true
   country: Kenya
 - title: Kenya - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Kenya_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1890,6 +2014,7 @@
   country: Kenya
 - title: Kosovo - Covid-19 Cases Over Time
   url: graphs/countries/Kosovo_-_covid-19_cases_over_time.png
+  new_section: true
   country: Kosovo
 - title: Kosovo - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Kosovo_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1908,6 +2033,7 @@
   country: Kosovo
 - title: Kuwait - Covid-19 Cases Over Time
   url: graphs/countries/Kuwait_-_covid-19_cases_over_time.png
+  new_section: true
   country: Kuwait
 - title: Kuwait - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Kuwait_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1926,6 +2052,7 @@
   country: Kuwait
 - title: Kyrgyzstan - Covid-19 Cases Over Time
   url: graphs/countries/Kyrgyzstan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Kyrgyzstan
 - title: Kyrgyzstan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Kyrgyzstan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1944,6 +2071,7 @@
   country: Kyrgyzstan
 - title: Laos - Covid-19 Cases Over Time
   url: graphs/countries/Laos_-_covid-19_cases_over_time.png
+  new_section: true
   country: Laos
 - title: Laos - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Laos_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1962,6 +2090,7 @@
   country: Laos
 - title: Latvia - Covid-19 Cases Over Time
   url: graphs/countries/Latvia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Latvia
 - title: Latvia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Latvia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1980,6 +2109,7 @@
   country: Latvia
 - title: Lebanon - Covid-19 Cases Over Time
   url: graphs/countries/Lebanon_-_covid-19_cases_over_time.png
+  new_section: true
   country: Lebanon
 - title: Lebanon - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Lebanon_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -1998,6 +2128,7 @@
   country: Lebanon
 - title: Liberia - Covid-19 Cases Over Time
   url: graphs/countries/Liberia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Liberia
 - title: Liberia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Liberia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2016,6 +2147,7 @@
   country: Liberia
 - title: Libya - Covid-19 Cases Over Time
   url: graphs/countries/Libya_-_covid-19_cases_over_time.png
+  new_section: true
   country: Libya
 - title: Libya - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Libya_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2034,6 +2166,7 @@
   country: Libya
 - title: Liechtenstein - Covid-19 Cases Over Time
   url: graphs/countries/Liechtenstein_-_covid-19_cases_over_time.png
+  new_section: true
   country: Liechtenstein
 - title: Liechtenstein - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Liechtenstein_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2052,6 +2185,7 @@
   country: Liechtenstein
 - title: Lithuania - Covid-19 Cases Over Time
   url: graphs/countries/Lithuania_-_covid-19_cases_over_time.png
+  new_section: true
   country: Lithuania
 - title: Lithuania - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Lithuania_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2070,6 +2204,7 @@
   country: Lithuania
 - title: Luxembourg - Covid-19 Cases Over Time
   url: graphs/countries/Luxembourg_-_covid-19_cases_over_time.png
+  new_section: true
   country: Luxembourg
 - title: Luxembourg - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Luxembourg_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2088,6 +2223,7 @@
   country: Luxembourg
 - title: Madagascar - Covid-19 Cases Over Time
   url: graphs/countries/Madagascar_-_covid-19_cases_over_time.png
+  new_section: true
   country: Madagascar
 - title: Madagascar - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Madagascar_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2106,6 +2242,7 @@
   country: Madagascar
 - title: Malawi - Covid-19 Cases Over Time
   url: graphs/countries/Malawi_-_covid-19_cases_over_time.png
+  new_section: true
   country: Malawi
 - title: Malawi - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Malawi_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2124,6 +2261,7 @@
   country: Malawi
 - title: Malaysia - Covid-19 Cases Over Time
   url: graphs/countries/Malaysia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Malaysia
 - title: Malaysia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Malaysia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2142,6 +2280,7 @@
   country: Malaysia
 - title: Maldives - Covid-19 Cases Over Time
   url: graphs/countries/Maldives_-_covid-19_cases_over_time.png
+  new_section: true
   country: Maldives
 - title: Maldives - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Maldives_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2160,6 +2299,7 @@
   country: Maldives
 - title: Mali - Covid-19 Cases Over Time
   url: graphs/countries/Mali_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mali
 - title: Mali - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mali_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2178,6 +2318,7 @@
   country: Mali
 - title: Malta - Covid-19 Cases Over Time
   url: graphs/countries/Malta_-_covid-19_cases_over_time.png
+  new_section: true
   country: Malta
 - title: Malta - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Malta_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2196,6 +2337,7 @@
   country: Malta
 - title: Mauritania - Covid-19 Cases Over Time
   url: graphs/countries/Mauritania_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mauritania
 - title: Mauritania - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mauritania_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2214,6 +2356,7 @@
   country: Mauritania
 - title: Mauritius - Covid-19 Cases Over Time
   url: graphs/countries/Mauritius_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mauritius
 - title: Mauritius - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mauritius_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2232,6 +2375,7 @@
   country: Mauritius
 - title: Mexico - Covid-19 Cases Over Time
   url: graphs/countries/Mexico_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mexico
 - title: Mexico - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mexico_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2250,6 +2394,7 @@
   country: Mexico
 - title: Moldova - Covid-19 Cases Over Time
   url: graphs/countries/Moldova_-_covid-19_cases_over_time.png
+  new_section: true
   country: Moldova
 - title: Moldova - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Moldova_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2268,6 +2413,7 @@
   country: Moldova
 - title: Monaco - Covid-19 Cases Over Time
   url: graphs/countries/Monaco_-_covid-19_cases_over_time.png
+  new_section: true
   country: Monaco
 - title: Monaco - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Monaco_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2286,6 +2432,7 @@
   country: Monaco
 - title: Mongolia - Covid-19 Cases Over Time
   url: graphs/countries/Mongolia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mongolia
 - title: Mongolia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mongolia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2304,6 +2451,7 @@
   country: Mongolia
 - title: Montenegro - Covid-19 Cases Over Time
   url: graphs/countries/Montenegro_-_covid-19_cases_over_time.png
+  new_section: true
   country: Montenegro
 - title: Montenegro - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Montenegro_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2322,6 +2470,7 @@
   country: Montenegro
 - title: Montserrat - Covid-19 Cases Over Time
   url: graphs/countries/Montserrat_-_covid-19_cases_over_time.png
+  new_section: true
   country: Montserrat
 - title: Montserrat - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Montserrat_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2340,6 +2489,7 @@
   country: Montserrat
 - title: Morocco - Covid-19 Cases Over Time
   url: graphs/countries/Morocco_-_covid-19_cases_over_time.png
+  new_section: true
   country: Morocco
 - title: Morocco - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Morocco_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2358,6 +2508,7 @@
   country: Morocco
 - title: Mozambique - Covid-19 Cases Over Time
   url: graphs/countries/Mozambique_-_covid-19_cases_over_time.png
+  new_section: true
   country: Mozambique
 - title: Mozambique - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Mozambique_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2376,6 +2527,7 @@
   country: Mozambique
 - title: Myanmar - Covid-19 Cases Over Time
   url: graphs/countries/Myanmar_-_covid-19_cases_over_time.png
+  new_section: true
   country: Myanmar
 - title: Myanmar - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Myanmar_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2394,6 +2546,7 @@
   country: Myanmar
 - title: Namibia - Covid-19 Cases Over Time
   url: graphs/countries/Namibia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Namibia
 - title: Namibia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Namibia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2412,6 +2565,7 @@
   country: Namibia
 - title: Nepal - Covid-19 Cases Over Time
   url: graphs/countries/Nepal_-_covid-19_cases_over_time.png
+  new_section: true
   country: Nepal
 - title: Nepal - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Nepal_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2430,6 +2584,7 @@
   country: Nepal
 - title: Netherlands - Covid-19 Cases Over Time
   url: graphs/countries/Netherlands_-_covid-19_cases_over_time.png
+  new_section: true
   country: Netherlands
 - title: Netherlands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Netherlands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2448,6 +2603,7 @@
   country: Netherlands
 - title: New Caledonia - Covid-19 Cases Over Time
   url: graphs/countries/New_Caledonia_-_covid-19_cases_over_time.png
+  new_section: true
   country: New Caledonia
 - title: New Caledonia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/New_Caledonia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2466,6 +2622,7 @@
   country: New Caledonia
 - title: New Zealand - Covid-19 Cases Over Time
   url: graphs/countries/New_Zealand_-_covid-19_cases_over_time.png
+  new_section: true
   country: New Zealand
 - title: New Zealand - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/New_Zealand_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2484,6 +2641,7 @@
   country: New Zealand
 - title: Nicaragua - Covid-19 Cases Over Time
   url: graphs/countries/Nicaragua_-_covid-19_cases_over_time.png
+  new_section: true
   country: Nicaragua
 - title: Nicaragua - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Nicaragua_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2502,6 +2660,7 @@
   country: Nicaragua
 - title: Niger - Covid-19 Cases Over Time
   url: graphs/countries/Niger_-_covid-19_cases_over_time.png
+  new_section: true
   country: Niger
 - title: Niger - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Niger_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2520,6 +2679,7 @@
   country: Niger
 - title: Nigeria - Covid-19 Cases Over Time
   url: graphs/countries/Nigeria_-_covid-19_cases_over_time.png
+  new_section: true
   country: Nigeria
 - title: Nigeria - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Nigeria_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2538,6 +2698,7 @@
   country: Nigeria
 - title: North Macedonia - Covid-19 Cases Over Time
   url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time.png
+  new_section: true
   country: North Macedonia
 - title: North Macedonia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/North_Macedonia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2556,6 +2717,7 @@
   country: North Macedonia
 - title: Northern Mariana Islands - Covid-19 Cases Over Time
   url: graphs/countries/Northern_Mariana_Islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: Northern Mariana Islands
 - title: Northern Mariana Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Northern_Mariana_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2574,6 +2736,7 @@
   country: Northern Mariana Islands
 - title: Norway - Covid-19 Cases Over Time
   url: graphs/countries/Norway_-_covid-19_cases_over_time.png
+  new_section: true
   country: Norway
 - title: Norway - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Norway_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2592,6 +2755,7 @@
   country: Norway
 - title: Oman - Covid-19 Cases Over Time
   url: graphs/countries/Oman_-_covid-19_cases_over_time.png
+  new_section: true
   country: Oman
 - title: Oman - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Oman_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2610,6 +2774,7 @@
   country: Oman
 - title: Pakistan - Covid-19 Cases Over Time
   url: graphs/countries/Pakistan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Pakistan
 - title: Pakistan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Pakistan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2628,6 +2793,7 @@
   country: Pakistan
 - title: Palestine - Covid-19 Cases Over Time
   url: graphs/countries/Palestine_-_covid-19_cases_over_time.png
+  new_section: true
   country: Palestine
 - title: Palestine - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Palestine_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2646,6 +2812,7 @@
   country: Palestine
 - title: Panama - Covid-19 Cases Over Time
   url: graphs/countries/Panama_-_covid-19_cases_over_time.png
+  new_section: true
   country: Panama
 - title: Panama - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Panama_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2664,6 +2831,7 @@
   country: Panama
 - title: Papua New Guinea - Covid-19 Cases Over Time
   url: graphs/countries/Papua_New_Guinea_-_covid-19_cases_over_time.png
+  new_section: true
   country: Papua New Guinea
 - title: Papua New Guinea - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Papua_New_Guinea_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2682,6 +2850,7 @@
   country: Papua New Guinea
 - title: Paraguay - Covid-19 Cases Over Time
   url: graphs/countries/Paraguay_-_covid-19_cases_over_time.png
+  new_section: true
   country: Paraguay
 - title: Paraguay - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Paraguay_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2700,6 +2869,7 @@
   country: Paraguay
 - title: Peru - Covid-19 Cases Over Time
   url: graphs/countries/Peru_-_covid-19_cases_over_time.png
+  new_section: true
   country: Peru
 - title: Peru - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Peru_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2718,6 +2888,7 @@
   country: Peru
 - title: Philippines - Covid-19 Cases Over Time
   url: graphs/countries/Philippines_-_covid-19_cases_over_time.png
+  new_section: true
   country: Philippines
 - title: Philippines - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Philippines_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2736,6 +2907,7 @@
   country: Philippines
 - title: Poland - Covid-19 Cases Over Time
   url: graphs/countries/Poland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Poland
 - title: Poland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Poland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2754,6 +2926,7 @@
   country: Poland
 - title: Portugal - Covid-19 Cases Over Time
   url: graphs/countries/Portugal_-_covid-19_cases_over_time.png
+  new_section: true
   country: Portugal
 - title: Portugal - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Portugal_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2772,6 +2945,7 @@
   country: Portugal
 - title: Puerto Rico - Covid-19 Cases Over Time
   url: graphs/countries/Puerto_Rico_-_covid-19_cases_over_time.png
+  new_section: true
   country: Puerto Rico
 - title: Puerto Rico - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Puerto_Rico_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2790,6 +2964,7 @@
   country: Puerto Rico
 - title: Qatar - Covid-19 Cases Over Time
   url: graphs/countries/Qatar_-_covid-19_cases_over_time.png
+  new_section: true
   country: Qatar
 - title: Qatar - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Qatar_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2808,6 +2983,7 @@
   country: Qatar
 - title: Romania - Covid-19 Cases Over Time
   url: graphs/countries/Romania_-_covid-19_cases_over_time.png
+  new_section: true
   country: Romania
 - title: Romania - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Romania_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2826,6 +3002,7 @@
   country: Romania
 - title: Russia - Covid-19 Cases Over Time
   url: graphs/countries/Russia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Russia
 - title: Russia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Russia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2844,6 +3021,7 @@
   country: Russia
 - title: Rwanda - Covid-19 Cases Over Time
   url: graphs/countries/Rwanda_-_covid-19_cases_over_time.png
+  new_section: true
   country: Rwanda
 - title: Rwanda - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Rwanda_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2862,6 +3040,7 @@
   country: Rwanda
 - title: Saint Kitts And Nevis - Covid-19 Cases Over Time
   url: graphs/countries/Saint_Kitts_and_Nevis_-_covid-19_cases_over_time.png
+  new_section: true
   country: Saint Kitts and Nevis
 - title: Saint Kitts And Nevis - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Kitts_and_Nevis_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2880,6 +3059,7 @@
   country: Saint Kitts and Nevis
 - title: Saint Lucia - Covid-19 Cases Over Time
   url: graphs/countries/Saint_Lucia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Saint Lucia
 - title: Saint Lucia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Lucia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2898,6 +3078,7 @@
   country: Saint Lucia
 - title: Saint Vincent And The Grenadines - Covid-19 Cases Over Time
   url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_covid-19_cases_over_time.png
+  new_section: true
   country: Saint Vincent and the Grenadines
 - title: Saint Vincent And The Grenadines - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Saint_Vincent_and_the_Grenadines_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2916,6 +3097,7 @@
   country: Saint Vincent and the Grenadines
 - title: San Marino - Covid-19 Cases Over Time
   url: graphs/countries/San_Marino_-_covid-19_cases_over_time.png
+  new_section: true
   country: San Marino
 - title: San Marino - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/San_Marino_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2934,6 +3116,7 @@
   country: San Marino
 - title: Sao Tome And Principe - Covid-19 Cases Over Time
   url: graphs/countries/Sao_Tome_and_Principe_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sao Tome and Principe
 - title: Sao Tome And Principe - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sao_Tome_and_Principe_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2952,6 +3135,7 @@
   country: Sao Tome and Principe
 - title: Saudi Arabia - Covid-19 Cases Over Time
   url: graphs/countries/Saudi_Arabia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Saudi Arabia
 - title: Saudi Arabia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Saudi_Arabia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2970,6 +3154,7 @@
   country: Saudi Arabia
 - title: Senegal - Covid-19 Cases Over Time
   url: graphs/countries/Senegal_-_covid-19_cases_over_time.png
+  new_section: true
   country: Senegal
 - title: Senegal - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Senegal_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -2988,6 +3173,7 @@
   country: Senegal
 - title: Serbia - Covid-19 Cases Over Time
   url: graphs/countries/Serbia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Serbia
 - title: Serbia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Serbia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3006,6 +3192,7 @@
   country: Serbia
 - title: Seychelles - Covid-19 Cases Over Time
   url: graphs/countries/Seychelles_-_covid-19_cases_over_time.png
+  new_section: true
   country: Seychelles
 - title: Seychelles - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Seychelles_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3024,6 +3211,7 @@
   country: Seychelles
 - title: Sierra Leone - Covid-19 Cases Over Time
   url: graphs/countries/Sierra_Leone_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sierra Leone
 - title: Sierra Leone - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sierra_Leone_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3042,6 +3230,7 @@
   country: Sierra Leone
 - title: Singapore - Covid-19 Cases Over Time
   url: graphs/countries/Singapore_-_covid-19_cases_over_time.png
+  new_section: true
   country: Singapore
 - title: Singapore - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Singapore_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3060,6 +3249,7 @@
   country: Singapore
 - title: Sint Maarten - Covid-19 Cases Over Time
   url: graphs/countries/Sint_Maarten_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sint Maarten
 - title: Sint Maarten - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sint_Maarten_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3078,6 +3268,7 @@
   country: Sint Maarten
 - title: Slovakia - Covid-19 Cases Over Time
   url: graphs/countries/Slovakia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Slovakia
 - title: Slovakia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Slovakia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3096,6 +3287,7 @@
   country: Slovakia
 - title: Slovenia - Covid-19 Cases Over Time
   url: graphs/countries/Slovenia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Slovenia
 - title: Slovenia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Slovenia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3114,6 +3306,7 @@
   country: Slovenia
 - title: Somalia - Covid-19 Cases Over Time
   url: graphs/countries/Somalia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Somalia
 - title: Somalia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Somalia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3132,6 +3325,7 @@
   country: Somalia
 - title: South Africa - Covid-19 Cases Over Time
   url: graphs/countries/South_Africa_-_covid-19_cases_over_time.png
+  new_section: true
   country: South Africa
 - title: South Africa - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/South_Africa_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3150,6 +3344,7 @@
   country: South Africa
 - title: South Korea - Covid-19 Cases Over Time
   url: graphs/countries/South_Korea_-_covid-19_cases_over_time.png
+  new_section: true
   country: South Korea
 - title: South Korea - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/South_Korea_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3168,6 +3363,7 @@
   country: South Korea
 - title: South Sudan - Covid-19 Cases Over Time
   url: graphs/countries/South_Sudan_-_covid-19_cases_over_time.png
+  new_section: true
   country: South Sudan
 - title: South Sudan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/South_Sudan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3186,6 +3382,7 @@
   country: South Sudan
 - title: Spain - Covid-19 Cases Over Time
   url: graphs/countries/Spain_-_covid-19_cases_over_time.png
+  new_section: true
   country: Spain
 - title: Spain - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Spain_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3204,6 +3401,7 @@
   country: Spain
 - title: Sri Lanka - Covid-19 Cases Over Time
   url: graphs/countries/Sri_Lanka_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sri Lanka
 - title: Sri Lanka - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sri_Lanka_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3222,6 +3420,7 @@
   country: Sri Lanka
 - title: Sudan - Covid-19 Cases Over Time
   url: graphs/countries/Sudan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sudan
 - title: Sudan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sudan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3240,6 +3439,7 @@
   country: Sudan
 - title: Suriname - Covid-19 Cases Over Time
   url: graphs/countries/Suriname_-_covid-19_cases_over_time.png
+  new_section: true
   country: Suriname
 - title: Suriname - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Suriname_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3258,6 +3458,7 @@
   country: Suriname
 - title: Sweden - Covid-19 Cases Over Time
   url: graphs/countries/Sweden_-_covid-19_cases_over_time.png
+  new_section: true
   country: Sweden
 - title: Sweden - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Sweden_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3276,6 +3477,7 @@
   country: Sweden
 - title: Switzerland - Covid-19 Cases Over Time
   url: graphs/countries/Switzerland_-_covid-19_cases_over_time.png
+  new_section: true
   country: Switzerland
 - title: Switzerland - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Switzerland_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3294,6 +3496,7 @@
   country: Switzerland
 - title: Syria - Covid-19 Cases Over Time
   url: graphs/countries/Syria_-_covid-19_cases_over_time.png
+  new_section: true
   country: Syria
 - title: Syria - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Syria_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3312,6 +3515,7 @@
   country: Syria
 - title: Taiwan - Covid-19 Cases Over Time
   url: graphs/countries/Taiwan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Taiwan
 - title: Taiwan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Taiwan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3330,6 +3534,7 @@
   country: Taiwan
 - title: Tajikistan - Covid-19 Cases Over Time
   url: graphs/countries/Tajikistan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Tajikistan
 - title: Tajikistan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Tajikistan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3348,6 +3553,7 @@
   country: Tajikistan
 - title: Thailand - Covid-19 Cases Over Time
   url: graphs/countries/Thailand_-_covid-19_cases_over_time.png
+  new_section: true
   country: Thailand
 - title: Thailand - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Thailand_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3366,6 +3572,7 @@
   country: Thailand
 - title: Timor Leste - Covid-19 Cases Over Time
   url: graphs/countries/Timor_Leste_-_covid-19_cases_over_time.png
+  new_section: true
   country: Timor Leste
 - title: Timor Leste - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Timor_Leste_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3384,6 +3591,7 @@
   country: Timor Leste
 - title: Togo - Covid-19 Cases Over Time
   url: graphs/countries/Togo_-_covid-19_cases_over_time.png
+  new_section: true
   country: Togo
 - title: Togo - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Togo_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3402,6 +3610,7 @@
   country: Togo
 - title: Trinidad And Tobago - Covid-19 Cases Over Time
   url: graphs/countries/Trinidad_and_Tobago_-_covid-19_cases_over_time.png
+  new_section: true
   country: Trinidad and Tobago
 - title: Trinidad And Tobago - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Trinidad_and_Tobago_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3420,6 +3629,7 @@
   country: Trinidad and Tobago
 - title: Tunisia - Covid-19 Cases Over Time
   url: graphs/countries/Tunisia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Tunisia
 - title: Tunisia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Tunisia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3438,6 +3648,7 @@
   country: Tunisia
 - title: Turkey - Covid-19 Cases Over Time
   url: graphs/countries/Turkey_-_covid-19_cases_over_time.png
+  new_section: true
   country: Turkey
 - title: Turkey - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Turkey_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3456,6 +3667,7 @@
   country: Turkey
 - title: Turks And Caicos Islands - Covid-19 Cases Over Time
   url: graphs/countries/Turks_and_Caicos_islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: Turks and Caicos islands
 - title: Turks And Caicos Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Turks_and_Caicos_islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3474,6 +3686,7 @@
   country: Turks and Caicos islands
 - title: Uganda - Covid-19 Cases Over Time
   url: graphs/countries/Uganda_-_covid-19_cases_over_time.png
+  new_section: true
   country: Uganda
 - title: Uganda - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Uganda_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3492,6 +3705,7 @@
   country: Uganda
 - title: Ukraine - Covid-19 Cases Over Time
   url: graphs/countries/Ukraine_-_covid-19_cases_over_time.png
+  new_section: true
   country: Ukraine
 - title: Ukraine - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Ukraine_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3510,6 +3724,7 @@
   country: Ukraine
 - title: United Arab Emirates - Covid-19 Cases Over Time
   url: graphs/countries/United_Arab_Emirates_-_covid-19_cases_over_time.png
+  new_section: true
   country: United Arab Emirates
 - title: United Arab Emirates - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/United_Arab_Emirates_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3528,6 +3743,7 @@
   country: United Arab Emirates
 - title: United Kingdom - Covid-19 Cases Over Time
   url: graphs/countries/United_Kingdom_-_covid-19_cases_over_time.png
+  new_section: true
   country: United Kingdom
 - title: United Kingdom - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/United_Kingdom_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3546,6 +3762,7 @@
   country: United Kingdom
 - title: United Republic Of Tanzania - Covid-19 Cases Over Time
   url: graphs/countries/United_Republic_of_Tanzania_-_covid-19_cases_over_time.png
+  new_section: true
   country: United Republic of Tanzania
 - title: United Republic Of Tanzania - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/United_Republic_of_Tanzania_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3564,6 +3781,7 @@
   country: United Republic of Tanzania
 - title: United States Virgin Islands - Covid-19 Cases Over Time
   url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time.png
+  new_section: true
   country: United States Virgin Islands
 - title: United States Virgin Islands - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/United_States_Virgin_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3582,6 +3800,7 @@
   country: United States Virgin Islands
 - title: United States Of America - Covid-19 Cases Over Time
   url: graphs/countries/United_States_of_America_-_covid-19_cases_over_time.png
+  new_section: true
   country: United States of America
 - title: United States Of America - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/United_States_of_America_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3600,6 +3819,7 @@
   country: United States of America
 - title: Uruguay - Covid-19 Cases Over Time
   url: graphs/countries/Uruguay_-_covid-19_cases_over_time.png
+  new_section: true
   country: Uruguay
 - title: Uruguay - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Uruguay_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3618,6 +3838,7 @@
   country: Uruguay
 - title: Uzbekistan - Covid-19 Cases Over Time
   url: graphs/countries/Uzbekistan_-_covid-19_cases_over_time.png
+  new_section: true
   country: Uzbekistan
 - title: Uzbekistan - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Uzbekistan_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3636,6 +3857,7 @@
   country: Uzbekistan
 - title: Venezuela - Covid-19 Cases Over Time
   url: graphs/countries/Venezuela_-_covid-19_cases_over_time.png
+  new_section: true
   country: Venezuela
 - title: Venezuela - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Venezuela_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3654,6 +3876,7 @@
   country: Venezuela
 - title: Vietnam - Covid-19 Cases Over Time
   url: graphs/countries/Vietnam_-_covid-19_cases_over_time.png
+  new_section: true
   country: Vietnam
 - title: Vietnam - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Vietnam_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3672,6 +3895,7 @@
   country: Vietnam
 - title: Western Sahara - Covid-19 Cases Over Time
   url: graphs/countries/Western_Sahara_-_covid-19_cases_over_time.png
+  new_section: true
   country: Western Sahara
 - title: Western Sahara - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Western_Sahara_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3690,6 +3914,7 @@
   country: Western Sahara
 - title: Yemen - Covid-19 Cases Over Time
   url: graphs/countries/Yemen_-_covid-19_cases_over_time.png
+  new_section: true
   country: Yemen
 - title: Yemen - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Yemen_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3708,6 +3933,7 @@
   country: Yemen
 - title: Zambia - Covid-19 Cases Over Time
   url: graphs/countries/Zambia_-_covid-19_cases_over_time.png
+  new_section: true
   country: Zambia
 - title: Zambia - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Zambia_-_covid-19_cases_over_time_with_logarithmic_scale.png
@@ -3726,6 +3952,7 @@
   country: Zambia
 - title: Zimbabwe - Covid-19 Cases Over Time
   url: graphs/countries/Zimbabwe_-_covid-19_cases_over_time.png
+  new_section: true
   country: Zimbabwe
 - title: Zimbabwe - Covid-19 Cases Over Time With Logarithmic Scale
   url: graphs/countries/Zimbabwe_-_covid-19_cases_over_time_with_logarithmic_scale.png

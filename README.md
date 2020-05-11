@@ -8,6 +8,10 @@ This project analyses publicly available data on the COVID-19 pandemic and ident
 
 Examples of graphs that are produced:
 
+**Countries With Highest Number Of Recorded Covid-19 Deaths Vs Rest Of World**
+
+![countries_with_highest_number_of_recorded_covid-19_deaths_vs_rest_of_world](https://paulknewton.github.io/covid-ml/graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths_vs_rest_of_world.png)
+
 **Covid-19 Infection Rate Over Time**
 
 ![covid-19_infection_rate_over_time](https://paulknewton.github.io/covid-ml/graphs/rates/covid-19_infection_rate_over_time.png)

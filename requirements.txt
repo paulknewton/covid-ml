@@ -4,3 +4,4 @@ pandas
 xlrd
 pyyaml
 seaborn
+geoplot

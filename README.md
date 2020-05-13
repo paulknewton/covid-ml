@@ -24,6 +24,9 @@ Examples of graphs that are produced:
 
 ![countries_with_highest_case_fatality_risk](https://paulknewton.github.io/covid-ml/graphs/totals/countries_with_highest_case_fatality_risk.png)
 
+**COVID-19 Spread Across The World**
+![countries_with_highest_case_fatality_risk](https://paulknewton.github.io/covid-ml/graphs/rates/covid-19_spread_across_the_world.png)
+
 ## Installation
 The data runs inside a Jupyter notebook.
 Make sure you install the core Jupyter runtime as well as the following libraries:

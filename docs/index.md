@@ -25,6 +25,8 @@ The number of officially recorded COVID-19 cases is now approaching 4 million an
 
 ![pie-chart](graphs/totals/countries_with_highest_number_of_recorded_covid-19_deaths_vs_rest_of_world.png)
 
+![world-map](graphs/rates/covid-19_spread_across_the_world.png)
+
 {% assign stat = site.data.statistics["updated"] %}
 *Data last updated {{ stat.value }}*
 

@@ -1,4 +1,4 @@
-This chart shows how the COVID virus spread across the globe.
+This chart shows how the COVID virus spread across the globe.  Infected countries are classified as those with more than 10 cases.
 
 * Late 2019
 
@@ -10,8 +10,12 @@ This chart shows how the COVID virus spread across the globe.
 
 * February 2020
 
-  February saw the continued infection of other Asian countries including South Korea, Vietnam and Malaysia. The virus also appears in Australia, the US and makes the jump to some areas of Central Europe (France, Germany, Italy, UK) and the Middle East (Iran, UAE, Bahrain, Kuwait).
+  February saw the continued infection of other Asian countries including South Korea, Vietnam and Malaysia. The virus also appears in Australia, the US and makes the jump to some areas of Central Europe (France, Germany, Switzerland) and Southern Europe (Italy, Spain). The first cases are detected in ^the Middle East (Iran, UAE, Bahrain, Kuwait) and North Europe (UK, Sweden).
 
-* before moving to other Asian countries.
+* March 2020
 
-The virus was 
+  The virus continues to spread throughout the infected continents, and also reaches North Africa (Algeria, Egypt), India, Eastern Europe and South America.
+  
+* April-
+
+  The spread continues throughout the world with very few countries spared.

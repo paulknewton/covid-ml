@@ -34,8 +34,17 @@ Make sure you install the core Jupyter runtime as well as the following librarie
 * sklearn (optional) - was used for normalisation scaling but no longer needed
 * matplotlib - for plotting the data
 * xlrd - used by pandas to read the raw data in Excel
+* geoplot - used to draw world maps
+* pyyaml - used to generate some data files in YAML format for the Jekyll web site
+* seaborn - improves the look and feel of the graphs
 
-All dependencies are stored inside ```requirements.txt``` and can be installed via ```pip```:
+You will need to install ```proj``` and ````geos``` in order to use the ```cartopy``` framework (used to generate the nice world map):
+
+```
+brew install proj geos
+```
+
+Then install the python libraries via ```pip```:
 
 ```
 pip install -r requirements.txt

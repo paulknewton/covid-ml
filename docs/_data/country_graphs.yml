@@ -3323,6 +3323,25 @@
 - title: Slovenia - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Slovenia_-_new_covid-19_daily_cases_and_deaths.png
   country: Slovenia
+- title: Solomon Islands - Covid-19 Cases Over Time
+  url: graphs/countries/Solomon_Islands_-_covid-19_cases_over_time.png
+  new_section: true
+  country: Solomon Islands
+- title: Solomon Islands - Covid-19 Cases Over Time With Logarithmic Scale
+  url: graphs/countries/Solomon_Islands_-_covid-19_cases_over_time_with_logarithmic_scale.png
+  country: Solomon Islands
+- title: Solomon Islands - Covid-19 Deaths Over Time
+  url: graphs/countries/Solomon_Islands_-_covid-19_deaths_over_time.png
+  country: Solomon Islands
+- title: Solomon Islands - Covid-19 Deaths Over Time With Logarithmic Scale
+  url: graphs/countries/Solomon_Islands_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Solomon Islands
+- title: Solomon Islands - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Solomon_Islands_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Solomon Islands
+- title: Solomon Islands - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Solomon_Islands_-_new_covid-19_daily_cases_and_deaths.png
+  country: Solomon Islands
 - title: Somalia - Covid-19 Cases Over Time
   url: graphs/countries/Somalia_-_covid-19_cases_over_time.png
   new_section: true

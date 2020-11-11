@@ -3912,6 +3912,25 @@
 - title: Uzbekistan - New Covid-19 Daily Cases And Deaths
   url: graphs/countries/Uzbekistan_-_new_covid-19_daily_cases_and_deaths.png
   country: Uzbekistan
+- title: Vanuatu - Covid-19 Cases Over Time
+  url: graphs/countries/Vanuatu_-_covid-19_cases_over_time.png
+  new_section: true
+  country: Vanuatu
+- title: Vanuatu - Covid-19 Cases Over Time With Logarithmic Scale
+  url: graphs/countries/Vanuatu_-_covid-19_cases_over_time_with_logarithmic_scale.png
+  country: Vanuatu
+- title: Vanuatu - Covid-19 Deaths Over Time
+  url: graphs/countries/Vanuatu_-_covid-19_deaths_over_time.png
+  country: Vanuatu
+- title: Vanuatu - Covid-19 Deaths Over Time With Logarithmic Scale
+  url: graphs/countries/Vanuatu_-_covid-19_deaths_over_time_with_logarithmic_scale.png
+  country: Vanuatu
+- title: Vanuatu - New Covid-19 Daily Cases And 5 Day Rolling Mean
+  url: graphs/countries/Vanuatu_-_new_covid-19_daily_cases_and_5_day_rolling_mean.png
+  country: Vanuatu
+- title: Vanuatu - New Covid-19 Daily Cases And Deaths
+  url: graphs/countries/Vanuatu_-_new_covid-19_daily_cases_and_deaths.png
+  country: Vanuatu
 - title: Venezuela - Covid-19 Cases Over Time
   url: graphs/countries/Venezuela_-_covid-19_cases_over_time.png
   new_section: true
